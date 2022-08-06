@@ -1,4 +1,5 @@
 collections:
   about-cwss:
     output: true
-    order: []
+    order:
+      - Vision & Mission.md
