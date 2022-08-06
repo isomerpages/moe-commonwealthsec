@@ -1,8 +1,27 @@
 logo: /images/Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: About Cwss
     collection: about-cwss
+  - title: Menu Title
+    collection: about-cwss
+  - title: Menu Title
+    collection: about-cwss
+  - title: Menu Title
+    collection: about-cwss
+  - title: Menu Title
+    collection: about-cwss
+  - title: Imaginative TrailBlazers
+    url: -------
+    sublinks:
+      - title: Centre of Excellence for D & I
+        url: http://www.cwssinnovates.com/
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
