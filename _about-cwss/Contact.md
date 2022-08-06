@@ -9,6 +9,6 @@ description: ""
 INSERT GOOGLE MAPS HERE
 
 
-**Tel: 65606866**
+**Tel: 65606866** <br>
 **Fax: 65645204**  
 **Email:** [CWSS@moe.edu.sg](mailto:CWSS@moe.edu.sg)
