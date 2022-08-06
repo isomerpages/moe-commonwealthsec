@@ -2,6 +2,7 @@ collections:
   about-cwss:
     output: true
     order:
+      - Code of Conduct.md
       - Ethos Philosophy.md
       - History.md
       - School Crest.md
