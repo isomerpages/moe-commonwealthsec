@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  about-cwss:
     output: true
     order:
       - folder-page.md
