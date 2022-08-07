@@ -12,9 +12,13 @@ Translation: [Chinese](https://staging.d2q8d178bncjmq.amplifyapp.com/translatio
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">LIGHTING THE SPARK: OUR HUMBLE BEGINNINGS 1964 - 1988</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>The history of Commonwealth Secondary began in 1964, a year before Singapore became independent. It started as Tanglin Integrated Vocational Secondary School and was one of the earliest schools built in the 1960s to cater to school-going children living in Queenstown. After five years, the school was renamed Tanglin Secondary School.
+
+In 1972, the school changed its name to commemorate the first meeting of Commonwealth Heads of Government which was held in Singapore the year before. New emblems were created —a new uniform, school crest and school song composed by Mr J de Souza, with lyrics by Mr Gurdip Singh.
+
+By 1977, Commonwealth Secondary School had grown into a school of 1842 students, comprising 933 boys and 909 girls. The school acquired new facilities including a Prefect’s Room and a larger library. It also added a music room, which housed the school’s first military band.</p>
     </div>
 	</li>  
   <li>
