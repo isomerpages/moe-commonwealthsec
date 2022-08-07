@@ -21,7 +21,9 @@ At Commonwealth, students bring their own Personal Learning Device (PLD) to scho
 **Bring your Own PLD**<br>
 More details on the technical specifications of PLD (eg: Windows laptop/tablet with stylus input) and funding (eg Edusave Pupil Fund and subsidies) will be provided during the Secondary 1 orientation briefing for parents.
 
+
 <img src="/images/Acad%20Prog/Acad%20Prog%202.png" style="width:183px;height:480px;margin-left:15px;" align = "right">
+
 
 **English Language & Literature**
 
@@ -31,6 +33,9 @@ More details on the technical specifications of PLD (eg: Windows laptop/tablet w
     
 *   The ELL Department also offers English Literature at the Upper Secondary level for those who demonstrate keen interest in the subject.
 
+
+<img src="/images/Acad%20Prog/Acad%20Prog%203.png" style="width:250px;height:480px;margin-left:15px;" align = "right">
+
 **Talent Development** 
 
 *   The ELL Department Talent Development Programme has two arms: Writing & Speaking.
@@ -39,4 +44,4 @@ More details on the technical specifications of PLD (eg: Windows laptop/tablet w
 *   The Creative Writing Talent Development Programme students are encouraged to develop their portfolio for suitable writing competitions and for submission to the MOE Gifted Branch’s Creative Arts Programme Seminar. 
 *   The Speaking Talent Development Programme students are encouraged to broaden their experience through the various training platforms and work towards participation in the Orator’s Trophy and the Plain English Speaking Award (PESA).
 
-<img src="/images/Acad%20Prog/Acad%20Prog%202.png" style="width:183px;height:480px;margin-left:15px;" align = "right">
+
