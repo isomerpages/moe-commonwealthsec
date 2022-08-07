@@ -176,14 +176,14 @@ Talent Development
 
 **FOOD AND CONSUMER EDUCATION / FOOD AND NUTRITION**
 
-<img src="/images/Acad%20Prog/Acad%20Prog%2017.jpg" style="width:230px;height:200px;margin-left:15px;" align = "right">
+<img src="/images/Acad%20Prog/Acad%20Prog%2017.jpg" style="width:230px;height:500px;margin-left:15px;" align = "right">
 
 *   Lower Secondary FCE programme adopts a master-chef style programme to develop students' interest, supported by the school’s well-equipped kitchens  
     
 *   The programme broadens students’ perspectives by exposing them to international cuisine 
 *   Instils self-directed learning through the use of instructional videos
 
-
+<br><br><br><br><br>
 
 **Physical Education**
 
