@@ -82,9 +82,11 @@ Through 1. Cultural Experience Platform 2. Creative Writing Platform 3. Reading 
 
 
 
-<img src="/images/Acad%20Prog/Acad%20Prog%207%20(2).jpeg" style="width:230px;height:250px;margin-left:15px;" align = "right">
+
 
 **MATHEMATICS**
+
+<img src="/images/Acad%20Prog/Acad%20Prog%207%20(2).jpeg" style="width:230px;height:250px;margin-left:15px;" align = "right">
 
 The Mathematics programme adopts a two pronged-approach in instruction, through activity-based learning and teacher-directed learning that imparts concepts, skills and positive attitudes towards Mathematics. 
 
