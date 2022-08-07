@@ -129,7 +129,7 @@ Talent Development
 
 **HUMANITIES**
 
-<img src="/images/Acad%20Prog/Acad%20Prog%2010.png" style="width:230px;height:600px;margin-left:15px;" align = "right">
+<img src="/images/Acad%20Prog/Acad%20Prog%2010.png" style="width:230px;height:650px;margin-left:15px;" align = "right">
 
 *   The Humanities Programme adopts Inquiry-Based Learning to spark curiosity and nurture self-directed learners with strong critical and analytical skills  
     
