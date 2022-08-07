@@ -37,7 +37,7 @@ More details on the technical specifications of PLD (eg: Windows laptop/tablet w
 
 
 
-**Talent Development** 
+Talent Development 
 
 *   The ELL Department Talent Development Programme has two arms: Writing & Speaking.
 *   The Creative Writing Talent Development Programme is for students who are passionate in creating poetry and prose, while the Speaking Talent Development Programme is for students who find that they enjoy sharing their ideas with others through the spoken word. 
@@ -48,7 +48,7 @@ More details on the technical specifications of PLD (eg: Windows laptop/tablet w
 
 
 
-<img src="/images/Acad%20Prog/Acad%20Prog%203.png" style="width:220px;height:450px;margin-left:15px;" align = "right">
+<img src="/images/Acad%20Prog/Acad%20Prog%203.png" style="width:220px;height:400px;margin-left:15px;" align = "right">
 
 **MOTHER TONGUE LANGUAGES**
 
@@ -59,7 +59,7 @@ Students keen to pursue Higher Mother Tongue Languages, Hindi and Tamil Literatu
      style="width:55%">
 
 
-<img src="/images/Acad%20Prog/Acad%20Prog%204.png" style="width:220px;height:400px;margin-left:15px;" align = "right">
+<img src="/images/Acad%20Prog/Acad%20Prog%204.png" style="width:220px;height:330px;margin-left:15px;" align = "right">
 
 
 **Tamil Language Elective Programme**
