@@ -194,15 +194,20 @@ Talent Development
 
 **Physical Education**
 
-<img src="/images/Acad%20Prog/Acad%20Prog%2018%20(1).png" style="width:230px;height:220px;margin-left:15px;" align = "right">
+
 
 Commonwealth Secondary School’s PE Department takes pride in providing a curriculum anchored on building up students’ confidence, belief and resilience - necessary for a successful transition from the physical education setting to partake in physical activity during adulthood. Our curriculum is conceptualised to Engage, Enthuse, and Equip students with skill sets, values and knowledge in the various components listed below.
 
   
 
 *   The programmes are planned and taught using student-centred and experiential learning approaches. Differentiated instruction is also used to cater to the varying abilities and interests of our students.
+
+<img src="/images/Acad%20Prog/Acad%20Prog%2018%20(1).png" style="width:230px;height:220px;margin-left:15px;" align = "right">
+
 *   In the Games Module, students are taught concepts and skills using various games -  Handball, Volleyball, Floorball and Softball.
 *   In the Outdoor Education Module, students learn to connect with and care for the community and the environment. They benefit from being in nature and the outdoors, and also learn to manage the safety of self and others.
+
+
 *   In the Physical, Health and Fitness Module, students learn about meaningful connections between health concepts and practical applications through experiential learning. Students learn about good health practices in nutrition, exercise, safety and hygiene as they are put through regular and purposeful health-enhancing physical activities and learning tasks.
 *   Our other niche programmes include Resilience Walk, Games Day, Inter-Class Games, Annual Cross Country, Outward Bound Camps, Sec 2 Experiential Camp, and Sports Education Programmes.
 
