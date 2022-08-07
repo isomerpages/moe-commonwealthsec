@@ -94,14 +94,13 @@ Through 1. Cultural Experience Platform 2. Creative Writing Platform 3. Reading 
 
 
 The Mathematics programme adopts a two pronged-approach in 
-<img src="/images/Acad%20Prog/Acad%20Prog%207%20(2).jpeg" style="width:230px;height:270px;margin-left:15px;" align = "right">instruction, through activity-based learning and teacher-directed learning that imparts concepts, skills and positive attitudes towards Mathematics. 
+<img src="/images/Acad%20Prog/Acad%20Prog%207%20(2).jpeg" style="width:230px;height:220px;margin-left:15px;" align = "right">instruction, through activity-based learning and teacher-directed learning that imparts concepts, skills and positive attitudes towards Mathematics. 
 
 Real-world applications of Mathematics and ICT are used to stimulate creativity and nurture reflective problem solvers. 
 
   
 
-Talent Development
-
+Talent Development<br>
 Enrichment programmes provided for interested and able students include the Singapore Mathematical Olympiad, All Singapore Secondary Mathematics Competition for Normal Course and International Mathematical Modelling Challenge.
 
 
