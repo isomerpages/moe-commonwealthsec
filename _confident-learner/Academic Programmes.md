@@ -69,7 +69,7 @@ To nurture the love of Tamil Language and and Literature from young, TLEP focus 
 Under this two-year programme, students will participate in a series of literary, enrichment and immersion activities, organised by both MOE and schools. This includes local camps, overseas immersion trips and school-based activities such as Meet-The-Author sessions and Literary Lectures.
 
 
-<img src="/images/Acad%20Prog/Acad%20Prog%207.png" style="width:230px;height:1000px;margin-left:15px;" align = "right">
+<img src="/images/Acad%20Prog/Acad%20Prog%207%20(1).png" style="width:230px;height:450px;margin-left:15px;" align = "right">
 
 
 <img src="/images/Acad%20Prog/Acad%20Prog%206.png"  
@@ -107,6 +107,3 @@ Talent Development
 
 *   Students passionate about the Sciences can participate in the Science Competitions, programmes and learning journeys which provide them with opportunities to further develop their interest and abilities.
 *   The Science Mentorship Programme and the School-based Science Mentorship Programme are offered by MOE’s Gifted Education Branch to develop students’ interest and talent in scientific research. Students at upper secondary levels who are keen to further pursue their interest in research can undertake authentic scientific research with guidance from external mentors in IHLs (SMP) and our own CWSS teachers (SB-SMP).
-
-
-
