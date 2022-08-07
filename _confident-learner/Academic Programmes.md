@@ -122,7 +122,9 @@ Talent Development
 *   The Science Mentorship Programme and the School-based Science Mentorship Programme are offered by MOE’s Gifted Education Branch to develop students’ interest and talent in scientific research. Students at upper secondary levels who are keen to further pursue their interest in research can undertake authentic scientific research with guidance from external mentors in IHLs (SMP) and our own CWSS teachers (SB-SMP).
 
 
-![](/images/Acad%20Prog/Acad%20Prog%209.png)
+
+<img src="/images/Acad%20Prog/Acad%20Prog%209.png"  
+     style="width:55%">
 
 
 
@@ -144,8 +146,9 @@ Talent Development
 *   Students passionate about the Humanities can participate in the Interdisciplinary Humanities Talent Development Programme which provides them with opportunities to further develop their interest and abilities.
 *   These opportunities include participating in Model United Nation Conferences and NUS Geo Challenge Competition to engage, empower and educate students on world issues via the Humanities lens.
 
-![](/images/Acad%20Prog/Acad%20Prog%2011.png)
 
+<img src="/images/Acad%20Prog/Acad%20Prog%2011.png"  
+     style="width:70%">
 
 **DESIGN AND TECHNOLOGY**
 
