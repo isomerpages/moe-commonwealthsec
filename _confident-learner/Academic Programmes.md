@@ -155,3 +155,19 @@ Talent Development
 *   Design and Technology curriculum adopts Design Thinking pedagogy as a way of thinking in designing and leverages on appropriate technology and ICT to create prototypes.
 *   For the Lower Secondary programme, students can expect an exciting line up of mini hands-on projects where students get to prototype using cardboard, foam and resistant materials (acrylic, wood & metal)
 *   For the Upper Secondary programme, students can refine their prototyping skills through enrichment programmes, including the application of 3D software and technology to realise design solutions which address user needs based on real-world contexts. Learning journey is also arranged for our Upper Sec classes to visit the Red Dot Museum to learn about the importance of good design.
+
+
+![](/images/Acad%20Prog/Acad%20Prog%2013.png)
+
+![](/images/Acad%20Prog/Acad%20Prog%2014.png)
+
+![](/images/Acad%20Prog/Acad%20Prog%2015.png)
+
+
+ **ART**
+
+<img src="/images/Acad%20Prog/Acad%20Prog%2016.jpg" style="width:230px;height:200px;margin-left:15px;" align = "right">
+
+*   An Art programme that marries depth with breadth viz visual art, art theory, art history and art critique 
+*   The programme's project-based approach encompasses exploring, investigating, experimenting, inventing, designing and making in a range of media
+*   A strong infusion of technology and design into lessons to create a robust aesthetic experience
