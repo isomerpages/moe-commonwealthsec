@@ -33,7 +33,7 @@ More details on the technical specifications of PLD (eg: Windows laptop/tablet w
     
 *   The ELL Department also offers English Literature at the Upper Secondary level for those who demonstrate keen interest in the subject.
 
-
+<br><br>
 <img src="/images/Acad%20Prog/Acad%20Prog%203.png" style="width:220px;height:450px;margin-left:15px;" align = "right">
 
 **Talent Development** 
