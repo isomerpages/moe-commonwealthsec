@@ -53,8 +53,8 @@ More details on the technical specifications of PLD (eg: Windows laptop/tablet w
 Students keen to pursue Higher Mother Tongue Languages, Hindi and Tamil Literature can do so in-house at CWSS. We are also a Centre for Higher Chinese and we are one of the three Secondary schools offering Tamil Language Elective Programme in Singapore.
 
 
-
-![](/images/Acad%20Prog/Acad%20Prog%205.png)
+<img src="/images/Acad%20Prog/Acad%20Prog%205.png"  
+     style="width:55%">
 
 
 <img src="/images/Acad%20Prog/Acad%20Prog%204.png" style="width:220px;height:400px;margin-left:15px;" align = "right">
