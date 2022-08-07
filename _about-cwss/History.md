@@ -32,11 +32,10 @@ This was also the period where Commonwealth consolidated its strengths in the ar
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">BEARING THE TORCH: PROUD TO BE COMMONWEALTHIAN, 2000 - PRESENT</label>
     <div>
       <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
+        The new millennium brought even more changes and growth. The school moved again in 2006, this time to its West Coast Road campus a stone's throw from Pandan Reservoir. Many of the school's signature programmes and unique strengths also emerged during this period, including Environmental Education and the Performing Arts. Most recently, the school has begun its journey to nurture creativity and innovation in our students through key programmes such a Design Thinking and Maker Education. It has also strengthened its character development programme by adopting the Servant Leadership model, and enhanced teaching and learning through the school-wide adoption of Differentiated Instruction.
       </p>
     </div>
   </li>
