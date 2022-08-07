@@ -38,4 +38,4 @@ Talent Development 
 *   The Creative Writing Talent Development Programme students are encouraged to develop their portfolio for suitable writing competitions and for submission to the MOE Gifted Branch’s Creative Arts Programme Seminar. 
 *   The Speaking Talent Development Programme students are encouraged to broaden their experience through the various training platforms and work towards participation in the Orator’s Trophy and the Plain English Speaking Award (PESA).
 
-
+<img src="/images/Acad%20Prog/Acad%20Prog%202.png" style="width:183px;height:450px;margin-left:15px;" align = "right">
