@@ -2,5 +2,6 @@ collections:
   confident-learner:
     output: true
     order:
+      - Co Curricular Activities.md
       - Academic Programmes.md
       - Confident Learner.md
