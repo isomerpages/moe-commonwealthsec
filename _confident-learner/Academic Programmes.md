@@ -81,6 +81,9 @@ Under this two-year programme, students will participate in a series of literary
 Through 1. Cultural Experience Platform 2. Creative Writing Platform 3. Reading Platform & 4. Effective Communicator Platform, CWSS MTL Experience Programme aims to promote cultural awareness and appreciation of our cultural root. Through the various platforms, MTL Department supports weaker learners and enhance learning experience for the high ability learners.
 
 
+
+<img src="/images/Acad%20Prog/Acad%20Prog%207%20(2).jpeg" style="width:230px;height:250px;margin-left:15px;" align = "right">
+
 **MATHEMATICS**
 
 The Mathematics programme adopts a two pronged-approach in instruction, through activity-based learning and teacher-directed learning that imparts concepts, skills and positive attitudes towards Mathematics. 
