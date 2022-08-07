@@ -2,4 +2,5 @@ collections:
   confident-learner:
     output: true
     order:
+      - Academic Programmes.md
       - Confident Learner.md
