@@ -171,3 +171,14 @@ Talent Development
 *   An Art programme that marries depth with breadth viz visual art, art theory, art history and art critique 
 *   The programme's project-based approach encompasses exploring, investigating, experimenting, inventing, designing and making in a range of media
 *   A strong infusion of technology and design into lessons to create a robust aesthetic experience
+
+
+
+**FOOD AND CONSUMER EDUCATION / FOOD AND NUTRITION**
+
+<img src="/images/Acad%20Prog/Acad%20Prog%2017.jpg" style="width:230px;height:200px;margin-left:15px;" align = "right">
+
+*   Lower Secondary FCE programme adopts a master-chef style programme to develop students' interest, supported by the school’s well-equipped kitchens  
+    
+*   The programme broadens students’ perspectives by exposing them to international cuisine 
+*   Instils self-directed learning through the use of instructional videos
