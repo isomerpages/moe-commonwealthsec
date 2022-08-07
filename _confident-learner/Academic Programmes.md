@@ -119,3 +119,26 @@ Talent Development
 
 *   Students passionate about the Sciences can participate in the Science Competitions, programmes and learning journeys which provide them with opportunities to further develop their interest and abilities.
 *   The Science Mentorship Programme and the School-based Science Mentorship Programme are offered by MOE’s Gifted Education Branch to develop students’ interest and talent in scientific research. Students at upper secondary levels who are keen to further pursue their interest in research can undertake authentic scientific research with guidance from external mentors in IHLs (SMP) and our own CWSS teachers (SB-SMP).
+
+
+![](/images/Acad%20Prog/Acad%20Prog%209.png)
+
+
+
+
+
+**HUMANITIES**
+
+<img src="/images/Acad%20Prog/Acad%20Prog%2010.png" style="width:230px;height:550px;margin-left:15px;" align = "right">
+
+*   The Humanities Programme adopts Inquiry-Based Learning to spark curiosity and nurture self-directed learners with strong critical and analytical skills  
+    
+*   Students learn experientially through History Learning Journeys, Geographical Fieldwork and Work Experience Programme for Elements of Business Skills
+*   Students learn to understand, analyse, evaluate and make judgements in a business environment through subjects such as Principles of Accounts and Elements of Business Skills
+
+  
+
+Talent Development  
+
+*   Students passionate about the Humanities can participate in the Interdisciplinary Humanities Talent Development Programme which provides them with opportunities to further develop their interest and abilities.
+*   These opportunities include participating in Model United Nation Conferences and NUS Geo Challenge Competition to engage, empower and educate students on world issues via the Humanities lens.
