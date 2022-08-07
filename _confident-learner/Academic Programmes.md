@@ -142,3 +142,5 @@ Talent Development
 
 *   Students passionate about the Humanities can participate in the Interdisciplinary Humanities Talent Development Programme which provides them with opportunities to further develop their interest and abilities.
 *   These opportunities include participating in Model United Nation Conferences and NUS Geo Challenge Competition to engage, empower and educate students on world issues via the Humanities lens.
+
+![](/images/Acad%20Prog/Acad%20Prog%2011.png)
