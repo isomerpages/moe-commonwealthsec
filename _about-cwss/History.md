@@ -12,7 +12,7 @@ Translation: [Chinese](https://staging.d2q8d178bncjmq.amplifyapp.com/translatio
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">LIGHTING THE SPARK: OUR HUMBLE BEGINNINGS 1964 - 1988</label>
+    <label for="accordion1">**LIGHTING THE SPARK: OUR HUMBLE BEGINNINGS 1964 - 1988**</label>
     <div>
       <p>The history of Commonwealth Secondary began in 1964, a year before Singapore became independent. It started as Tanglin Integrated Vocational Secondary School and was one of the earliest schools built in the 1960s to cater to school-going children living in Queenstown. After five years, the school was renamed Tanglin Secondary School.
 
