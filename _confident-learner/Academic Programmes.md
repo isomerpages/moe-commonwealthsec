@@ -69,7 +69,7 @@ To nurture the love of Tamil Language and and Literature from young, TLEP focus 
 Under this two-year programme, students will participate in a series of literary, enrichment and immersion activities, organised by both MOE and schools. This includes local camps, overseas immersion trips and school-based activities such as Meet-The-Author sessions and Literary Lectures.
 
 
-<img src="/images/Acad%20Prog/Acad%20Prog%207%20(1).png" style="width:230px;height:450px;margin-left:15px;" align = "right">
+
 
 
 <img src="/images/Acad%20Prog/Acad%20Prog%206.png"  
@@ -77,6 +77,8 @@ Under this two-year programme, students will participate in a series of literary
 		 
 		 
 **CWSS MTL Experience Programme**
+
+<img src="/images/Acad%20Prog/Acad%20Prog%207%20(1).png" style="width:230px;height:400px;margin-left:15px;" align = "right">
 
 Through 1. Cultural Experience Platform 2. Creative Writing Platform 3. Reading Platform & 4. Effective Communicator Platform, CWSS MTL Experience Programme aims to promote cultural awareness and appreciation of our cultural root. Through the various platforms, MTL Department supports weaker learners and enhance learning experience for the high ability learners.
 
