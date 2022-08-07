@@ -75,13 +75,13 @@ Primary six pupils may seek Direct School Admission into Commonwealth Secondary 
 
 **Application Procedure**  
 
-5. The application for DSA-Sec can be submitted through the online DSA-Sec portal. **Details of the 2022 Direct School Admission Exercise will be released in due course.** For more details, please refer to MOE website: [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
+5\. The application for DSA-Sec can be submitted through the online DSA-Sec portal. **Details of the 2022 Direct School Admission Exercise will be released in due course.** For more details, please refer to MOE website: [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
 
-6. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+6\. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
   
 
-7. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 - 4.
+7\. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 - 4.
 
 **Enquiries**<br>
 8\. For further enquiries, please contact the school at **6560 6866** or via email to [cwss@moe.edu.sg](mailto:cwss@moe.edu.sg)
