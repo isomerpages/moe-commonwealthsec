@@ -160,12 +160,15 @@ Talent Development
 *   For the Lower Secondary programme, students can expect an exciting line up of mini hands-on projects where students get to prototype using cardboard, foam and resistant materials (acrylic, wood & metal)
 *   For the Upper Secondary programme, students can refine their prototyping skills through enrichment programmes, including the application of 3D software and technology to realise design solutions which address user needs based on real-world contexts. Learning journey is also arranged for our Upper Sec classes to visit the Red Dot Museum to learn about the importance of good design.
 
+<img src="/images/Acad%20Prog/Acad%20Prog%2013.png"  
+     style="width:70%">
+		 
+<img src="/images/Acad%20Prog/Acad%20Prog%2014.png"  
+     style="width:70%">
 
-![](/images/Acad%20Prog/Acad%20Prog%2013.png)
+<img src="/images/Acad%20Prog/Acad%20Prog%2015.png"  
+     style="width:70%">
 
-![](/images/Acad%20Prog/Acad%20Prog%2014.png)
-
-![](/images/Acad%20Prog/Acad%20Prog%2015.png)
 
 
  **ART**
