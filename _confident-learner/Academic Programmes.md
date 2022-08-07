@@ -24,7 +24,7 @@ At Commonwealth, students bring their own Personal Learning Device (PLD) to scho
 More details on the technical specifications of PLD (eg: Windows laptop/tablet with stylus input) and funding (eg Edusave Pupil Fund and subsidies) will be provided during the Secondary 1 orientation briefing for parents.
 
 
-<img src="/images/Acad%20Prog/Acad%20Prog%202.png" style="width:200px;height:700px;margin-left:15px;" align = "right">
+<img src="/images/Acad%20Prog/Acad%20Prog%202.png" style="width:210px;height:700px;margin-left:15px;" align = "right">
 
 
 **English Language & Literature**
