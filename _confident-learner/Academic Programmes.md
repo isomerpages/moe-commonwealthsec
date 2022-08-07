@@ -102,7 +102,11 @@ Talent Development
 Enrichment programmes provided for interested and able students include the Singapore Mathematical Olympiad, All Singapore Secondary Mathematics Competition for Normal Course and International Mathematical Modelling Challenge.
 
 
+
+
 **SCIENCES**
+
+<img src="/images/Acad%20Prog/Acad%20Prog%208.png" style="width:230px;height:450px;margin-left:15px;" align = "right">
 
 The Science programme aims to inculcate the spirit of scientific inquiry in the pursuit of academic excellence
 
