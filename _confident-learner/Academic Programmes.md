@@ -33,8 +33,7 @@ More details on the technical specifications of PLD (eg: Windows laptop/tablet w
     
 *   The ELL Department also offers English Literature at the Upper Secondary level for those who demonstrate keen interest in the subject.
 
-<br><br>
-<img src="/images/Acad%20Prog/Acad%20Prog%203.png" style="width:220px;height:450px;margin-left:15px;" align = "right">
+
 
 **Talent Development** 
 
@@ -43,3 +42,12 @@ More details on the technical specifications of PLD (eg: Windows laptop/tablet w
 *   They will be identified at Secondary 1 and are given opportunities for exposure through in-house workshops, experiential learning journeys and participation in competitions to enhance and develop their craft.
 *   The Creative Writing Talent Development Programme students are encouraged to develop their portfolio for suitable writing competitions and for submission to the MOE Gifted Branch’s Creative Arts Programme Seminar. 
 *   The Speaking Talent Development Programme students are encouraged to broaden their experience through the various training platforms and work towards participation in the Orator’s Trophy and the Plain English Speaking Award (PESA).
+
+
+
+
+<img src="/images/Acad%20Prog/Acad%20Prog%203.png" style="width:220px;height:450px;margin-left:15px;" align = "right">
+
+**MOTHER TONGUE LANGUAGES**
+
+Students keen to pursue Higher Mother Tongue Languages, Hindi and Tamil Literature can do so in-house at CWSS. We are also a Centre for Higher Chinese and we are one of the three Secondary schools offering Tamil Language Elective Programme in Singapore.
