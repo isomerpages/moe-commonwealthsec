@@ -14,8 +14,10 @@ In order for Commonwealthians to be confident learners and imaginative trailblaz
 At Commonwealth, students bring their own Personal Learning Device (PLD) to school. They will use the devices to activate their learning by accessing varied digital resources, to think critically via data analysis and collaborative discussion, to demonstrate learning through quizzes, creation of digital products and presentation, as well as to receive timely and customised feedback from teachers and peers.
 
 
-![](/images/Acad%20Prog/Acad%20Prog%201.png)
 
+
+<img src="/images/Acad%20Prog/Acad%20Prog%201.png"  
+     style="width:75%">
 
 
 **Bring your Own PLD**<br>
