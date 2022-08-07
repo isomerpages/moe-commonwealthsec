@@ -21,3 +21,21 @@ At Commonwealth, students bring their own Personal Learning Device (PLD) to scho
 **Bring your Own PLD**<br>
 More details on the technical specifications of PLD (eg: Windows laptop/tablet with stylus input) and funding (eg Edusave Pupil Fund and subsidies) will be provided during the Secondary 1 orientation briefing for parents.
 
+
+**English Language & Literature**
+
+*   The ELL Department aims to nurture students to be passionate and confident explorers of the language and literature. 
+*   The CWSS ELL Curriculum is designed to offer students opportunities to cultivate mastery of language and literature through providing experiential learning opportunities as well as platforms for them to broaden their perspectives.
+*   Some of these include Drama-in-Curriculum, Reading-in-Curriculum, Poetry Trails, Learning Journeys to musicals/plays/museums and engaging project tasks (creation of podcasts, vlogs, mini drama production and etc.)  
+    
+*   The ELL Department also offers English Literature at the Upper Secondary level for those who demonstrate keen interest in the subject.
+
+Talent Development 
+
+*   The ELL Department Talent Development Programme has two arms: Writing & Speaking.
+*   The Creative Writing Talent Development Programme is for students who are passionate in creating poetry and prose, while the Speaking Talent Development Programme is for students who find that they enjoy sharing their ideas with others through the spoken word. 
+*   They will be identified at Secondary 1 and are given opportunities for exposure through in-house workshops, experiential learning journeys and participation in competitions to enhance and develop their craft.
+*   The Creative Writing Talent Development Programme students are encouraged to develop their portfolio for suitable writing competitions and for submission to the MOE Gifted Branch’s Creative Arts Programme Seminar. 
+*   The Speaking Talent Development Programme students are encouraged to broaden their experience through the various training platforms and work towards participation in the Orator’s Trophy and the Plain English Speaking Award (PESA).
+
+
