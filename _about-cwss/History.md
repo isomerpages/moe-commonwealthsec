@@ -23,11 +23,11 @@ By 1977, Commonwealth Secondary School had grown into a school of 1842 students,
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">FANNING THE FLAME: GROWTH & DEVELOPMENT, 1989-1999</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      <p>The school relocated to Jurong East Avenue 1 in 1989. It achieved a milestone in its history when the school was awarded autonomous status by the Ministry of Education in 1995. This was in recognition of its continuous progress and high quality of education. Students continue to bear this status of Commonwealth as an autonomous school with pride, always upholding high standards and its good name.  
+  
+This was also the period where Commonwealth consolidated its strengths in the area of art. The school established its Alpha-Omega Walk-in Art Gallery in 1995, funded by a grant from the National Arts Council. The gallery hosted 22 schools in its first year. In 1999, students led by Ms Ruth Ng painted The Sungei Buloh Mural. It was unveiled by Mr Richard Hale, then CEO of Hongkong Shanghai Bank (Singapore) and an avid bird-watcher who was instrumental in convincing the Singapore Government to establish the Sungei Buloh Wetland Reserve.</p>
     </div>
   </li>
   <li>
