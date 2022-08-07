@@ -68,8 +68,45 @@ To nurture the love of Tamil Language and and Literature from young, TLEP focus 
 
 Under this two-year programme, students will participate in a series of literary, enrichment and immersion activities, organised by both MOE and schools. This includes local camps, overseas immersion trips and school-based activities such as Meet-The-Author sessions and Literary Lectures.
 
-<img src="/images/Acad%20Prog/Acad%20Prog%207.png" style="width:230px;height:700px;margin-left:15px;" align = "right">
+
+<img src="/images/Acad%20Prog/Acad%20Prog%207.png" style="width:230px;height:1000px;margin-left:15px;" align = "right">
+
 
 <img src="/images/Acad%20Prog/Acad%20Prog%206.png"  
      style="width:55%">
+		 
+		 
+**CWSS MTL Experience Programme**
+
+Through 1. Cultural Experience Platform 2. Creative Writing Platform 3. Reading Platform & 4. Effective Communicator Platform, CWSS MTL Experience Programme aims to promote cultural awareness and appreciation of our cultural root. Through the various platforms, MTL Department supports weaker learners and enhance learning experience for the high ability learners.
+
+
+**MATHEMATICS**
+
+The Mathematics programme adopts a two pronged-approach in instruction, through activity-based learning and teacher-directed learning that imparts concepts, skills and positive attitudes towards Mathematics. 
+
+Real-world applications of Mathematics and ICT are used to stimulate creativity and nurture reflective problem solvers. 
+
+  
+
+Talent Development
+
+Enrichment programmes provided for interested and able students include the Singapore Mathematical Olympiad, All Singapore Secondary Mathematics Competition for Normal Course and International Mathematical Modelling Challenge.
+
+
+**SCIENCES**
+
+The Science programme aims to inculcate the spirit of scientific inquiry in the pursuit of academic excellence
+
+*   It aims to create the buzz and excitement of learning through exploration, investigation and experimentation
+*   Teachers advocate the value of science as a relevant and meaningful tool in understanding the physical and natural world
+
+  
+
+Talent Development
+
+*   Students passionate about the Sciences can participate in the Science Competitions, programmes and learning journeys which provide them with opportunities to further develop their interest and abilities.
+*   The Science Mentorship Programme and the School-based Science Mentorship Programme are offered by MOE’s Gifted Education Branch to develop students’ interest and talent in scientific research. Students at upper secondary levels who are keen to further pursue their interest in research can undertake authentic scientific research with guidance from external mentors in IHLs (SMP) and our own CWSS teachers (SB-SMP).
+
+
 
