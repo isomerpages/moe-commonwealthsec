@@ -73,7 +73,7 @@ Under this two-year programme, students will participate in a series of literary
 
 
 <img src="/images/Acad%20Prog/Acad%20Prog%206.png"  
-     style="width:55%">
+     style="width:65%">
 		 
 		 
 **CWSS MTL Experience Programme**
