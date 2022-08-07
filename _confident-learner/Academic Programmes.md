@@ -67,3 +67,8 @@ To nurture the love of Tamil Language and and Literature from young, TLEP focus 
   
 
 Under this two-year programme, students will participate in a series of literary, enrichment and immersion activities, organised by both MOE and schools. This includes local camps, overseas immersion trips and school-based activities such as Meet-The-Author sessions and Literary Lectures.
+
+<img src="/images/Acad%20Prog/Acad%20Prog%206.png"  
+     style="width:55%">
+
+<img src="/images/Acad%20Prog/Acad%20Prog%207.png" style="width:230px;height:700px;margin-left:15px;" align = "right">
