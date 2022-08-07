@@ -144,3 +144,14 @@ Talent Development
 *   These opportunities include participating in Model United Nation Conferences and NUS Geo Challenge Competition to engage, empower and educate students on world issues via the Humanities lens.
 
 ![](/images/Acad%20Prog/Acad%20Prog%2011.png)
+
+
+**DESIGN AND TECHNOLOGY**
+
+<img src="/images/Acad%20Prog/Acad%20Prog%2012.jpg" style="width:230px;height:300px;margin-left:15px;" align = "right">
+
+*   The department has a range of learning activities catered to students across various levels. Our aim is to nurture passionate learners who enjoy creating, making, problem-solving and appreciation of design in our daily life.  
+*   We believe that by helping students to uncover their inner passion and strengths, this will allow them to unlock their creative confidence. 
+*   Design and Technology curriculum adopts Design Thinking pedagogy as a way of thinking in designing and leverages on appropriate technology and ICT to create prototypes.
+*   For the Lower Secondary programme, students can expect an exciting line up of mini hands-on projects where students get to prototype using cardboard, foam and resistant materials (acrylic, wood & metal)
+*   For the Upper Secondary programme, students can refine their prototyping skills through enrichment programmes, including the application of 3D software and technology to realise design solutions which address user needs based on real-world contexts. Learning journey is also arranged for our Upper Sec classes to visit the Red Dot Museum to learn about the importance of good design.
