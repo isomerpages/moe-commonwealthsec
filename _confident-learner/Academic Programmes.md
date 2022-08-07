@@ -55,3 +55,15 @@ Students keen to pursue Higher Mother Tongue Languages, Hindi and Tamil Literatu
 
 
 ![](/images/Acad%20Prog/Acad%20Prog%205.png)
+
+
+<img src="/images/Acad%20Prog/Acad%20Prog%204.png" style="width:220px;height:400px;margin-left:15px;" align = "right">
+
+
+**Tamil Language Elective Programme**
+
+To nurture the love of Tamil Language and and Literature from young, TLEP focus on building a strong foundation for students’ appreciation of language and culture through the study of MTL Literature at secondary level. 
+
+  
+
+Under this two-year programme, students will participate in a series of literary, enrichment and immersion activities, organised by both MOE and schools. This includes local camps, overseas immersion trips and school-based activities such as Meet-The-Author sessions and Literary Lectures.
