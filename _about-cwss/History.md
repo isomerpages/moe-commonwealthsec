@@ -6,12 +6,12 @@ description: ""
 History
 =======
 
-Translation: [Chinese](https://staging.d2q8d178bncjmq.amplifyapp.com/translation-pages/history-of-commonwealth-cn) [Malay](https://staging.d2q8d178bncjmq.amplifyapp.com/translation-pages/history-of-cwss-ml) [Tamil](https://staging.d2q8d178bncjmq.amplifyapp.com/translation-pages/history-of-cwss-tl)
+Translation:&nbsp;[Chinese](https://staging.d2q8d178bncjmq.amplifyapp.com/translation-pages/history-of-commonwealth-cn)&nbsp;[Malay](https://staging.d2q8d178bncjmq.amplifyapp.com/translation-pages/history-of-cwss-ml)&nbsp;[Tamil](https://staging.d2q8d178bncjmq.amplifyapp.com/translation-pages/history-of-cwss-tl)
 
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
+    <input id="accordion1" type="checkbox">
     <label for="accordion1">**LIGHTING THE SPARK: OUR HUMBLE BEGINNINGS 1964 - 1988**</label>
     <div>
       <p>The history of Commonwealth Secondary began in 1964, a year before Singapore became independent. It started as Tanglin Integrated Vocational Secondary School and was one of the earliest schools built in the 1960s to cater to school-going children living in Queenstown. After five years, the school was renamed Tanglin Secondary School.
@@ -22,8 +22,8 @@ By 1977, Commonwealth Secondary School had grown into a school of 1842 students,
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">FANNING THE FLAME: GROWTH & DEVELOPMENT, 1989-1999</label>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">FANNING THE FLAME: GROWTH &amp; DEVELOPMENT, 1989-1999</label>
     <div>
       <p>The school relocated to Jurong East Avenue 1 in 1989. It achieved a milestone in its history when the school was awarded autonomous status by the Ministry of Education in 1995. This was in recognition of its continuous progress and high quality of education. Students continue to bear this status of Commonwealth as an autonomous school with pride, always upholding high standards and its good name.  
   
@@ -31,7 +31,7 @@ This was also the period where Commonwealth consolidated its strengths in the ar
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion3">
+    <input id="accordion3" type="checkbox">
     <label for="accordion3">BEARING THE TORCH: PROUD TO BE COMMONWEALTHIAN, 2000 - PRESENT</label>
     <div>
       <p>
@@ -39,4 +39,14 @@ This was also the period where Commonwealth consolidated its strengths in the ar
       </p>
     </div>
   </li>
+<li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">Title</label>
+    <div>
+      <p>Text</p>
+      <p>
+      
+       </p>	
+     </div>
+	</li>
 </ul>
