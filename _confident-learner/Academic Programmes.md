@@ -94,8 +94,7 @@ Through 1. Cultural Experience Platform 2. Creative Writing Platform 3. Reading 
 
 
 The Mathematics programme adopts a two pronged-approach in 
-<img src="/images/Acad%20Prog/Acad%20Prog%207%20(2).jpeg" style="width:230px;height:220px;margin-left:15px;" align = "right">instruction, through activity-based learning and teacher-directed learning that imparts concepts, skills and positive attitudes towards Mathematics. 
-
+<img src="/images/Acad%20Prog/Acad%20Prog%207%20(2).jpeg" style="width:230px;height:220px;margin-left:15px;" align = "right">instruction, through activity-based learning and teacher-directed learning that imparts concepts, skills and positive attitudes towards Mathematics. <br>
 Real-world applications of Mathematics and ICT are used to stimulate creativity and nurture reflective problem solvers. 
 
   
@@ -162,7 +161,7 @@ Talent Development
 *   For the Upper Secondary programme, students can refine their prototyping skills through enrichment programmes, including the application of 3D software and technology to realise design solutions which address user needs based on real-world contexts. Learning journey is also arranged for our Upper Sec classes to visit the Red Dot Museum to learn about the importance of good design.
 
 <img src="/images/Acad%20Prog/Acad%20Prog%2013.png"  
-     style="width:70%">
+     style="width:60%">
 		 
 <img src="/images/Acad%20Prog/Acad%20Prog%2014.png"  
      style="width:70%">
