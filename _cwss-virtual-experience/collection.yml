@@ -1,0 +1,4 @@
+collections:
+  cwss-virtual-experience:
+    output: true
+    order: []
