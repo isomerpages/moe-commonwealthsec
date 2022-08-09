@@ -25,4 +25,3 @@ OUR PEOPLE
 </li>  
 
   <li>
-
