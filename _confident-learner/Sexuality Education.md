@@ -188,13 +188,13 @@ The eTeens programme comprises an assembly talk and a classroom-based lesson:
 
 <p>
 
-Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.   
+Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.   <br>
 
-Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year. The completed form is to be submitted by 27/01/2022.
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year. The completed form is to be submitted by 27/01/2022. <br>
 
-Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://www.commonwealthsec.moe.edu.sg/qql/slot/u156/SED/Annex%20B.pdf). The completed form is to be submitted by 27/01/2022.
+Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="(/files/Annex%20B.pdf)">here</a> The completed form is to be submitted by 27/01/2022. <br>
 
-Parents can contact the school at 6560 6866 for discussion or to seek clarification about the school’s sexuality education programme.  
+Parents can contact the school at 6560 6866 for discussion or to seek clarification about the school’s sexuality education programme.  <br>
 
 Parents who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.	
 	
