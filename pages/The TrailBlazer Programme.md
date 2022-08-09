@@ -60,4 +60,51 @@ Through TrailBlazer Programme, all students can be recognized for the values of 
 Some of the TrailBlazer Programme activities that have been conducted include:
 ------------------------------------------------------------------------------
 
-### 3D printing Workshop (STEM Making @ D.space)
+### **3D printing Workshop (STEM Making @ D.space)**
+
+
+![](/images/Imaginative%20Trailblazers/01%20STEM%20Making%20-%203D%20Printing.png)
+
+
+### **Hydraulic & Pneumatic Engineering Home-based Workshop (STEM Making)**
+
+![](/images/Imaginative%20Trailblazers/02%20STEM%20Making%20-%20Hydraulic%20%20Pneumatic%20Engineering.png)
+
+
+### **Various Making @ D.space**
+
+![](/images/Imaginative%20Trailblazers/03%20STEM%20Making%20at%20D%20Space.png)
+
+### **Micro:bit Remote Control Car Workshop (Digital Making)**
+
+
+![](/images/Imaginative%20Trailblazers/04%20Digital%20Making%20-%20Microbit%20Remote%20Control%20Car.png)
+
+
+### **Needle Felting Art Workshop (Arteastiq)**
+
+![](/images/Imaginative%20Trailblazers/05%20Arteastiq%20-%20Needle%20Felting.png)
+
+
+### **Master Art Class (Arteastiq)**
+
+![](/images/Imaginative%20Trailblazers/06%20Arteastiq%20Master%20Art%20Class.png)
+
+
+#### **Cake Pop Workshop (Tinkering Kitchen)**
+
+![](/images/Imaginative%20Trailblazers/07%20Tinkering%20Kitchen%20-%20Cake%20Pop.png)
+
+
+### **Photography Workshop (Aesthetic Making)**
+
+![](/images/Imaginative%20Trailblazers/08%20Aesthetics%20Making%20-%20Photography.png)
+
+#### **Various Aesthetic Making - Music, Dance, Vocal, Video Production**
+
+![](/images/Imaginative%20Trailblazers/09%20Aesthetics%20Making%20-%20Music%20Dance%20Vocal%20Video%20Production.png)
+
+
+### **Making in Academic Programmes**
+
+![](/images/Imaginative%20Trailblazers/10%20Making%20in%20Academic%20Programmes.png)
