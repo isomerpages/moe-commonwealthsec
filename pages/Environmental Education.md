@@ -42,7 +42,23 @@ Students in the school are also actively involved in environmental projects. Ope
 
 <img src="/images/Imaginative%20Trailblazers/enviro7.png"  
      style="width:70%">
+		 
+![](/images/Imaginative%20Trailblazers/enviro8.jpg)
 
 
+Tapping on the power of social media platforms such as Instagram, students and staff may post photos and videos on biodiversity, taken in our school, and share with a greater online community. To date, we have about 2300 posts on Instagram with the hashtag #cwssbiodiversity.
 
 
+![](/images/Imaginative%20Trailblazers/enviro9.jpg)
+
+![](/images/Imaginative%20Trailblazers/enviro10.jpg)
+
+
+The termly Biodiversity Newsletter also consolidates the updates on wildlife encounters to share with students and staff, and educators who came to our school for biodiversity-related workshops and guided tours at our Biodiversity Trail.
+
+
+![](/images/Imaginative%20Trailblazers/enviro11.png)
+
+![](/images/Imaginative%20Trailblazers/enviro12.png)
+
+As the West Zone Centre of Excellence for Enviromental Education, Commonwealth Secondary School seeks to be an inspiration for other schools towards developing our youths with a greater sense of connectedness with nature and duty for the environment.
