@@ -1,4 +1,5 @@
 collections:
   cwss-virtual-experience:
     output: true
-    order: []
+    order:
+      - Virtual Commonwealth Experience.md
