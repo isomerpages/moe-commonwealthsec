@@ -6,12 +6,13 @@ description: ""
 Students
 ========
 
-###   
+
 
 Important Announcement
 ----------------------
 
 ### [Instructions for Home Based Learning (Updated 18 May 2021)](/files/FHBL%20Instructions%2017%20May%202021.pdf)
+
 ACADEMICS
 ---------
 
