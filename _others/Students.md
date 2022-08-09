@@ -19,7 +19,7 @@ ACADEMICS
 
 [SEAB](http://www.seab.gov.sg/)        
 
-[ASKLEARN](https://lms.asknlearn.com/CWSS/logon_new.aspx)
+[ASKLEARN](https://lms.asknlearn.com/CWSS/logon_new.aspx) **(BROKEN LINK)**
 
 [SCHOOL LIBRARY OPAC LINK](https://schoolibrary.moe.edu.sg/commonwealthsec)
 
@@ -32,6 +32,6 @@ HEALTH
 
 [MINISTRY OF HEALTH](http://www.moh.gov.sg/)    
 
-[ADVISORY FOR HAZE](http://www.nea.gov.sg/psi/)
+[ADVISORY FOR HAZE](http://www.nea.gov.sg/psi/) **(BROKEN LINK)**
 
 [SPORTS SAFETY](http://www.sportsingapore.gov.sg/sports-education/sports-safety)
