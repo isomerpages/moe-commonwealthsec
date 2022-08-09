@@ -2,4 +2,5 @@ collections:
   cwss-virtual-experience:
     output: true
     order:
+      - Principal's Address.md
       - Virtual Commonwealth Experience.md
