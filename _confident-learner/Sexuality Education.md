@@ -202,4 +202,3 @@ Parents who wish to attend the school sexuality education programmes, should con
 
     </div>
 
-</ul>
