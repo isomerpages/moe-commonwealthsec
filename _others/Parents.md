@@ -23,10 +23,10 @@ SOCIAL-EMOTIONAL
 FINANCIAL
 ---------
 
-[APPLICATION FOR OPPORTUNITY FUND](https://www.commonwealthsec.moe.edu.sg/qql/slot/u156/Opportunity%20fund%20guidelines%20cum%20parents%20letter%20(6%20Dec%202019).pdf)  
+[APPLICATION FOR OPPORTUNITY FUND](/files/Parents/Opportunity%20fund%20guidelines%20cum%20parents%20letter%20(6%20Dec%202019).pdf) 
   
   
-[FINANCIAL ASSISTANCE SCHEME](https://www.commonwealthsec.moe.edu.sg/qql/slot/u156/Opportunity%20fund%20guidelines%20cum%20parents%20letter%20(6%20Dec%202019).pdf)  
+[FINANCIAL ASSISTANCE SCHEME](/files/Parents/Opportunity%20fund%20guidelines%20cum%20parents%20letter%20(6%20Dec%202019).pdf) 
   
   
 
