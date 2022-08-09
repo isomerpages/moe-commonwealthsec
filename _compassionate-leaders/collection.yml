@@ -2,5 +2,6 @@ collections:
   compassionate-leaders:
     output: true
     order:
+      - Student Leadership Development.md
       - Character and Citizenship Education Programme.md
       - Compassionate Leaders.md
