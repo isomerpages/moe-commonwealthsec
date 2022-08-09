@@ -59,7 +59,7 @@ The subjects that incorporate topics on sexuality include:<br>
 
 a. [Science](https://www.moe.gov.sg/education/syllabuses/sciences)<br>
 
-b. [Civics and Moral Education / Character and Citizenship Education](https://www.moe.gov.sg/education/syllabuses/character-citizenship-education/)<br>
+b. [Civics and Moral Education](https://www.moe.gov.sg/education/syllabuses/character-citizenship-education/)<br>
 
   
 
