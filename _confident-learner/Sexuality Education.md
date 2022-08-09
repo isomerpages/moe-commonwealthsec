@@ -151,16 +151,25 @@ At Commonwealth Secondary School, the eTeens programme will be implemented as fo
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">ETEENS</label>
 
     <div>
 
       <p>
 
-        This is all going
+eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.  
 
-        to become just one line\\n even though there are multiple lines
+  
 
+Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+### At Commonwealth Secondary School, the eTeens programme will be implemented as follows in 2022:
+
+The eTeens programme comprises an assembly talk and a classroom-based lesson:
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#B0B0B0;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#B0B0B0">Topics/Lessons</span></th><th style="background-color:#B0B0B0;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#B0B0B0">Programme Learning Objectives</span></th><th style="background-color:#B0B0B0;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#B0B0B0">Time Period</span><br><span style="color:#222;background-color:#B0B0B0">(e.g. Term 3 Week 9)</span><br></th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Mass Talk by HPB appointed vendor </span></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Awareness of the different STIs and HIV/AIDS</span><br><br><span style="color:#222;background-color:#EAEAEA">Modes of transmission</span><br><br><span style="color:#222;background-color:#EAEAEA">Modes of protection, specifically on how the condom is used</span><br><br><span style="color:#222;background-color:#EAEAEA">Consequences and impact of STIs/HIV</span><br></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Term 3 Week 6</span></td></tr><tr><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Classroom-based Lesson</span></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</span></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Term 3 Week 8</span></td></tr></tbody></table>				
+				
+				
       </p>
 
     </div>
@@ -171,42 +180,24 @@ At Commonwealth Secondary School, the eTeens programme will be implemented as fo
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Ordered List</label>
+    <label for="accordion4">INFORMATION FOR PARENTS</label>
 
     <div>
 
-      <ol>
+<p>
 
-        <li>Item 1</li>
+Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.   
 
-        <li>Item 2</li>        <li>Item 3</li>
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year. The completed form is to be submitted by 27/01/2022.
 
-      </ol>
+Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://www.commonwealthsec.moe.edu.sg/qql/slot/u156/SED/Annex%20B.pdf). The completed form is to be submitted by 27/01/2022.
 
-    </div>
+Parents can contact the school at 6560 6866 for discussion or to seek clarification about the school’s sexuality education programme.  
 
-  </li>
-
-  <li>
-
-    <input type="checkbox" id="accordion5">
-
-    <label for="accordion5">Unordered List</label>
-
-    <div>
-
-      <ul>
-
-        <li>Item 1</li>
-
-        <li>Item 2</li>
-
-        <li>Item 3</li>
-
-      </ul>
+Parents who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.	
+	
+</p>
 
     </div>
-
-  </li>
 
 </ul>
