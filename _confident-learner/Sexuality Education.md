@@ -131,9 +131,9 @@ Secondary 5
     <div>
 
       <p>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.  
-  
+<br>  
 
-Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.  
+Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.<br>  
   
 At Commonwealth Secondary School, the eTeens programme will be implemented as follows in 2022:</p>
 			
@@ -159,13 +159,13 @@ At Commonwealth Secondary School, the eTeens programme will be implemented as fo
 
       <p>
 
-eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.  
+eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. <br> 
 
   
 
-Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions. <br>
 
-### At Commonwealth Secondary School, the eTeens programme will be implemented as follows in 2022:
+### At Commonwealth Secondary School, the eTeens programme will be implemented as follows in 2022: <br>
 
 The eTeens programme comprises an assembly talk and a classroom-based lesson:
 
@@ -201,4 +201,3 @@ Parents who wish to attend the school sexuality education programmes, should con
 </p>
 
     </div>
-
