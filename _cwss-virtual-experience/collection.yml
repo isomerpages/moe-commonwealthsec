@@ -2,9 +2,9 @@ collections:
   cwss-virtual-experience:
     output: true
     order:
-      - Imaginative Trailblazers.md
-      - 3 Minutes With.md
-      - Graduates' Stories Class of 2019.md
-      - Virtual Tour.md
-      - Principal's Address.md
       - Virtual Commonwealth Experience.md
+      - Principal's Address.md
+      - Virtual Tour.md
+      - Graduates' Stories Class of 2019.md
+      - 3 Minutes With.md
+      - Imaginative Trailblazers.md
