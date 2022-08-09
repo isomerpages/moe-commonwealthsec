@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/Virtual Common Experience.png
+      background: /images/Virtual Common Experience (1).png
       button: Click
       url: /VirtualCwssExp
       key_highlights:
