@@ -6,7 +6,7 @@ description: ""
 LETTERS TO PARENTS
 ------------------
 
-[DOCUMENT REPOSITORY](https://www-commonwealthsec-moe-edu-sg-admin.cwp.sg/others/parents/document-repository)
+[DOCUMENT REPOSITORY](https://staging.d2q8d178bncjmq.amplifyapp.com/others/parents/document-repository)
 
 PARTNERSHIP
 -----------
