@@ -11,14 +11,14 @@ LETTERS TO PARENTS
 PARTNERSHIP
 -----------
 
-[MOE PARENT'S IN EDUCATION](http://parents-in-education.moe.gov.sg/)
+[MOE PARENT'S IN EDUCATION](http://parents-in-education.moe.gov.sg/)  **(BROKEN LINK)**
 
 [CWSS PSG](https://www.cwssdocs.org/parent-support-group.html)
 
 SOCIAL-EMOTIONAL
 ----------------
 
-[MOE SOCIAL EMOTIONAL LEARNING](http://www.moe.gov.sg/education/programmes/social-emotional-learning/)
+[MOE SOCIAL EMOTIONAL LEARNING](http://www.moe.gov.sg/education/programmes/social-emotional-learning/) **(BROKEN LINK)**
 
 FINANCIAL
 ---------
@@ -33,9 +33,9 @@ FINANCIAL
 ACADEMICS
 ---------
 
-[ASKLEARN](https://lms.asknlearn.com/CWSS/logon_new.aspx)
+[ASKLEARN](https://lms.asknlearn.com/CWSS/logon_new.aspx) **(BROKEN LINK)**
 
-[SCHOOL LIBRARY OPAC LINK](http://commonwealthsec.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME)
+[SCHOOL LIBRARY OPAC LINK](http://commonwealthsec.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME) **(BROKEN LINK)**
 
 [NATIONAL LIBRARY BOARD](http://www.nlb.gov.sg/)
 
