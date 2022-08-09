@@ -124,15 +124,24 @@ Secondary 5
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">eTeens Programme</label>
 
     <div>
 
-      <p>This is line 1</p>
+      <p>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.  
+  
 
-      <p>This is line 2<br>
-
-        This is line 3</p>
+Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.  
+  
+At Commonwealth Secondary School, the eTeens programme will be implemented as follows in 2022:</p>
+			
+<p>
+	
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Topics/Lessons</th><th style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Programme Learning Objectives</th><th style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time Period<br>(e.g. Term 3 Week 9)</th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mass Talk by HPB appointed vendor<br><br><br></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV<br> </td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Term 3 Week 6</td></tr><tr><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Classroom-based Lesson<br></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br> </td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Term 3 Week 8</td></tr></tbody></table>	
+	
+	
+	
+</p>
 
     </div>
 
