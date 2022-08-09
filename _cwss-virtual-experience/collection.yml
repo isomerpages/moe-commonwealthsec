@@ -2,6 +2,7 @@ collections:
   cwss-virtual-experience:
     output: true
     order:
+      - Graduates' Stories Class of 2019.md
       - Virtual Tour.md
       - Principal's Address.md
       - Virtual Commonwealth Experience.md
