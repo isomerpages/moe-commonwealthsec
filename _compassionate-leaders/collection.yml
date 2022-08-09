@@ -2,6 +2,7 @@ collections:
   compassionate-leaders:
     output: true
     order:
+      - Values in Action.md
       - Internationalisation Trips.md
       - Student Leadership Development.md
       - Character and Citizenship Education Programme.md
