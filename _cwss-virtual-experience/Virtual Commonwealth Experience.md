@@ -6,6 +6,11 @@ description: ""
 ![](/images/Banner%20image.jpg)
 
 
+<img src="/images/qr%20code.jpg"  
+     style="width:15%">
+
+
+Scan the code or Click [here](/files/CWSS_Prospectus_20201116_compressed.pdf) for Online Brochure
 
 <p><a href="https://staging.d2q8d178bncjmq.amplifyapp.com/VirtualCWSSExp/principals-address">
 <img src="/images/Principal's%20address.png"
@@ -37,4 +42,3 @@ description: ""
 <img src="/images/imaginative%20trailblazers%20.png"
 		 style="width:35%">
 </a></p>
-
