@@ -3,10 +3,6 @@ title: Virtual Commonwealth Experience
 permalink: /VirtualCwssExp/
 description: ""
 ---
-![](/images/Banner%20image.jpg)
-
-# Experience Commonwealth Virtually
-
 Scan the code or Click [here](/files/CWSS_Prospectus_20201116_compressed.pdf) for Online Brochure
 
 <p><a href="https://staging.d2q8d178bncjmq.amplifyapp.com/VirtualCWSSExp/principals-address">
