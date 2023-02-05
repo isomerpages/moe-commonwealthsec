@@ -1,14 +1,11 @@
 ---
 title: Virtual Commonwealth Experience
-permalink: /VirtualCwssExp
+permalink: /VirtualCwssExp/
 description: ""
 ---
 ![](/images/Banner%20image.jpg)
 
-
-<img src="/images/qr%20code.jpg"  
-     style="width:15%">
-
+# Experience Commonwealth Virtually
 
 Scan the code or Click [here](/files/CWSS_Prospectus_20201116_compressed.pdf) for Online Brochure
 
