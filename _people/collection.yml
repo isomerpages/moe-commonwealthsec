@@ -2,6 +2,6 @@ collections:
   people:
     output: true
     order:
+      - School Advisory Committee.md
       - School Leaders.md
       - Our People.md
-      - School Advisory Committee.md
