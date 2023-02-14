@@ -2,8 +2,8 @@ collections:
   people:
     output: true
     order:
-      - Student Development Heads.md
       - School Advisory Committee.md
       - School Leaders.md
       - Our People.md
       - Academic Heads.md
+      - Student Development Heads.md
