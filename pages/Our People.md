@@ -1,6 +1,6 @@
 ---
 title: Our People
-permalink: /our-people
+permalink: /our-people/
 description: ""
 ---
 OUR PEOPLE
