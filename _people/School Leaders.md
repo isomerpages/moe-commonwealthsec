@@ -3,8 +3,6 @@ title: School Leaders
 permalink: /people/permalink/
 description: ""
 ---
-
-
 | Appointment | Name |
 | -------- | -------- |
 | Principal    | Mr Jeremy Ang     |
