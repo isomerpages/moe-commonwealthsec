@@ -23,9 +23,7 @@ links:
         url: /imaginative-trailblazers/environmental-education
       - title: Aesthetics & Performing Arts
         url: /imaginative-trailblazers/aesthetics-n-performing-arts
-  - title: Our People
-    url: /our-people
-  - title: Others
-    collection: others
   - title: People
     collection: people
+  - title: Others
+    collection: others
