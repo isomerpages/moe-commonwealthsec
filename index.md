@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Virtual Common Experience.png
-      button: Click
+      button: Experience Commonwealth virtually
       url: /VirtualCwssExp
       key_highlights:
         - title: Design & Innovation
