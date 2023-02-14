@@ -27,3 +27,5 @@ links:
     url: /our-people
   - title: Others
     collection: others
+  - title: People
+    collection: people
