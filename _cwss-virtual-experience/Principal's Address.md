@@ -1,9 +1,9 @@
 ---
 title: Principal's Address
-permalink: /VirtualCWSSExp/principals-address
+permalink: /VirtualCWSSExp/principals-address/
 description: ""
 ---
-Principal's Address
+Hear From Our Champions!
 =======================
 
 
