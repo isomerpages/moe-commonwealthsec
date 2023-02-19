@@ -28,9 +28,4 @@ links:
   - title: Virtual Experience
     collection: cwss-virtual-experience
   - title: Our Team
-    collection: our-people-2
-  - title: Academic Heads
-    url: /permalink/people/academic-heads/
-    sublinks:
-      - title: Student Development Heads
-        url: /permalink/people/student-development-heads/
+    collection: the-team-of-people
