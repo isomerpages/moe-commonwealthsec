@@ -9,7 +9,6 @@ sections:
   - hero:
       background: /images/Web Banner.png
       subtitle: Champions of Today, Leaders of Tomorrow
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
+      button: Experience CWSS Virtually
+      url: https://cms.isomer.gov.sg/sites/moe-commonwealthsec/folders/cwss-virtual-experience
 ---
