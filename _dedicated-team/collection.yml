@@ -1,4 +1,5 @@
 collections:
   dedicated-team:
     output: true
-    order: []
+    order:
+      - 00 Academic Head Copy.md
