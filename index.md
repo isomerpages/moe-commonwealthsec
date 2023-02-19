@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Web Banner.png
-      subtitle: Champions of Today, Leaders of Tomorrow
       button: Experience CWSS Virtually
       url: https://cms.isomer.gov.sg/sites/moe-commonwealthsec/folders/cwss-virtual-experience
 ---
