@@ -17,4 +17,10 @@ sections:
         - title: Trailblazer Programme
           description: ""
           url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/the-trailblazer-programme
+        - title: Design Thinking
+          description: ""
+          url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/design-thinking
+        - title: Biodiversity
+          description: ""
+          url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/environmental-education
 ---
