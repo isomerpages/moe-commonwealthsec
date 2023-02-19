@@ -22,5 +22,6 @@ sections:
         - title: Biodiversity
           description: ""
           url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/environmental-education
-      background: /images/CWSS Open House 2022 (105 × 148 cm) (Facebook Cover) (3).png
+      background: /images/CWSS Open House 2022 (105 × 148 cm) (Facebook Cover).png
+      subtitle: Confident Learners. Compassionate Leaders. Imaginative Trailblazers.
 ---
