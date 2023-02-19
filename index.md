@@ -14,4 +14,7 @@ sections:
         - title: Design & Innovation
           description: ""
           url: http://www.cwssinnovates.com/
+        - title: Trailblazer Programme
+          description: ""
+          url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/the-trailblazer-programme
 ---
