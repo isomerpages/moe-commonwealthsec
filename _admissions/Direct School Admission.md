@@ -1,27 +1,23 @@
 ---
 title: Direct School Admission
-permalink: /admissions/direct-school-admission
+permalink: /admissions/direct-school-admission/
 description: ""
 ---
 Direct School Admission
 =======================
 
 **DIRECT SCHOOL ADMISSION (DSA)**  
-_Updated April 2022_
+_Updated April 2023_
 
   
 
-Primary six pupils may seek Direct School Admission into Commonwealth Secondary School before the Secondary One Posting Exercise.  
+The 2023 Direct School Admission Exercise has yet to commence. Students and parents may refer to the 2022 DSA information for reference but do note that the DSA areas may change in 2023.
 
   
 
 **Admission Criteria**
 
-2.  We invite pupils who fulfill any of the admission criteria mentioned below to apply:  
-
-  
-
-**Category 1: Performing Arts - Band (Boys & Girls), Choir (Boys & Girls), Malay Dance (Boys & Girls), Chinese Dance (Girls), Indian Dance (Boys & Girls), Drama (Boys & Girls)**
+**Category 1: Performing Arts - Band (Boys & Girls), Choir (Boys & Girls), Drama (Boys & Girls)**
 
 *   Demonstrated passion and keen interest in the areas stated above.  
     
