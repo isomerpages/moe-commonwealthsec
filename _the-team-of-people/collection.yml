@@ -1,5 +1,5 @@
 collections:
-  dedicated-team:
+  the-team-of-people:
     output: true
     order:
       - 00 School Advisory Committee.md
