@@ -9,4 +9,5 @@ sections:
   - hero:
       url: https://staging.d2q8d178bncjmq.amplifyapp.com/VirtualCWSSExp/principals-address/
       button: Experience CWSS Virtually
+      background: /images/Web Banner 2.png
 ---
