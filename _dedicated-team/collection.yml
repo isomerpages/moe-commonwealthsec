@@ -2,4 +2,5 @@ collections:
   dedicated-team:
     output: true
     order:
+      - 00 School Advisory Committee.md
       - 00 Academic Head Copy.md
