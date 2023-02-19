@@ -6,5 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
-  - hero: {}
+  - hero:
+      url: https://staging.d2q8d178bncjmq.amplifyapp.com/VirtualCWSSExp/principals-address/
+      button: Experience CWSS Virtually
 ---
