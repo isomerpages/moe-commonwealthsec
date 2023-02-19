@@ -1,5 +1,4 @@
 collections:
   our-team:
     output: true
-    order:
-      - Student Development Head v2.md
+    order: []
