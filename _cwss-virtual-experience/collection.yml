@@ -2,7 +2,7 @@ collections:
   cwss-virtual-experience:
     output: true
     order:
-      - Principal's Address.md
+      - Hear from our Champions!.md
       - Virtual Tour.md
       - Graduates' Stories.md
       - 3 Minutes With.md
