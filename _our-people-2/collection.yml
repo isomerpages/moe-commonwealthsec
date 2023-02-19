@@ -2,6 +2,7 @@ collections:
   our-people-2:
     output: true
     order:
+      - Student Development Heads/Student Development Head v2.md
       - Student Development Heads/.keep
       - Academic Heads/Academic Heads v2.md
       - Academic Heads/.keep
