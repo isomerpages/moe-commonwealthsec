@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - Head 1/.keep
       - School Advisory Committee.md
       - School Leaders.md
       - Academic Heads.md
