@@ -10,4 +10,8 @@ sections:
       url: https://staging.d2q8d178bncjmq.amplifyapp.com/VirtualCWSSExp/principals-address/
       button: Experience CWSS Virtually
       background: /images/Web Banner 2.png
+      key_highlights:
+        - title: Design & Innovation
+          description: ""
+          url: http://www.cwssinnovates.com/
 ---
