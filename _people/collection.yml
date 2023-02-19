@@ -2,9 +2,9 @@ collections:
   people:
     output: true
     order:
-      - Student Development Heads/Student Development Heads.md
-      - Student Development Heads/.keep
       - School Advisory Committee.md
       - School Leaders.md
       - Academic Heads/.keep
       - Academic Heads/Academic Heads.md
+      - Student Development Heads/.keep
+      - Student Development Heads/Student Development Heads.md
