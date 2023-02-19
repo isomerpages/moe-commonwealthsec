@@ -2,5 +2,4 @@ collections:
   our-team:
     output: true
     order:
-      - Academic Heads v2.md
       - Student Development Head v2.md
