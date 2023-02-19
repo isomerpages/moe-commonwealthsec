@@ -1,4 +1,5 @@
 collections:
   our-people-2:
     output: true
-    order: []
+    order:
+      - Academic Heads/.keep
