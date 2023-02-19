@@ -2,4 +2,5 @@ collections:
   our-people-2:
     output: true
     order:
+      - Academic Heads/Academic Heads v2.md
       - Academic Heads/.keep
