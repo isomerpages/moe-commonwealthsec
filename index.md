@@ -7,20 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      button: Experience Commonwealth Virtually
-      url: /VirtualCwssExp
-      key_highlights:
-        - title: Design & Innovation
-          description: ""
-          url: https://www.cwssinnovates.com/
-        - title: Trailblazer Programme
-          description: ""
-          url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/the-trailblazer-programme
-        - title: Design Thinking
-          description: ""
-          url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/design-thinking
-        - title: Biodiversity
-          description: ""
-          url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/environmental-education
-      background: /images/CWSS Open House 2022 (105 × 148 cm) (Facebook Cover) (2).png
+      background: /images/Web Banner.png
+      subtitle: Champions of Today, Leaders of Tomorrow
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
 ---
