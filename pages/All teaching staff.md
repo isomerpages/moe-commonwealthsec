@@ -92,6 +92,4 @@ description: ""
  | Mr Yong Lek Lai	 |  Craft & Technology | 
  |  Mr Yusman Yusoff	 | Subject Head (CCA)  | 
  | 	 | Sciences  | 
- | Mr Zuwardy Bin Said 	  | Craft & Technology | 
-
- 
+ | Mr Zuwardy Bin Said 	  | Craft & Technology |
