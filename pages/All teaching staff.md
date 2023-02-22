@@ -62,6 +62,36 @@ description: ""
 | Miss Nur Ezzati Zukri  	| Humanities  | 
 |  Ms Nuradilah Binte Ramlan	| Humanities | 
  | Ms Phoon Chee Ling	| Mother Tongue Languages | 
+  | Mdm Quek Lay Hong | 	Sciences  | 
+  | Mr Rizman Bin Hassan	 | Subject Head (Educational Technology)  | 
+ | 	 | Mathematics  | 
+ | Mdm Rukmani 	 | Lead Teacher ( Tamil Language)  | 
+ | 	 | Mother Tongue Languages  | 
+ | Ms Rubiyah Bte Khamis 	 |  Subject Head (Design & Technology)  | 
+ | 	 | Craft & Technology | 
+ | Mr Rudy Hakeem Sulaiman 	 | English  | 
+ |  Mrs Sheila Philip	 |  Mathematics | 
+  | Miss Seah Pei Shan Elizabeth	  | PE & CCA | 
+  | Mr Sim Kwong Wee Matthias	  | Sciences | 
+  | Mr Sim Zhen Yang	 | Mathematics  | 
+ | Mr Sun Guangzhou 	 | Mother Tongue Languages  | 
+  | Ms Tai Kai Zhen	  | Mathematics | 
+ | Mr Tan Guanrui Jacob 	 | Senior Teacher (Biology)  | 
+ | 	 | Sciences  | 
+ | Ms Tan Hui Lin  | 	 Humanities  | 
+  | Mrs Tan Hwee Ping	 | Lead Teacher (Mathematics)  | 
+ | 	 | Mathematics  | 
+  | Mrs June Tang- Lee Wei 	 | Humanities  | 
+ | Mdm Teo Puay Siong Rene 	 | Humanities   | 
+ | Mdm Veronica Teo	 | English Language & Literature   | 
+  | Mrs Audrey Tham	 | English Language & Literature  | 
+  |  Ms Tian Yilin	 | Sciences   | 
+  | Mdm Toh Siau Yien 	 |  Mother Tongue Languages  | 
+  | Mdm Vineeta	 |  Sciences | 
+ |  Mrs Yeo Siew Mui | 	 Sciences | 
+ | Mr Yong Lek Lai	 |  Craft & Technology | 
+ |  Mr Yusman Yusoff	 | Subject Head (CCA)  | 
+ | 	 | Sciences  | 
+ | Mr Zuwardy Bin Said 	  | Craft & Technology | 
 
-
-
+ 
