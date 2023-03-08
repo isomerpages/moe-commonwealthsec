@@ -3,10 +3,8 @@ title: Virtual Tour
 permalink: /VirtualCWSSExp/virtual-tour/
 description: ""
 ---
-Virtual Tour
-============
-Our Favourite Spaces
---------------------
+# Virtual Tour
+#### Our Favourite Spaces
 We spend more than half our day in school so there have got to be places that we love in the school. Join Christie and Subashini as they share their favorite spaces in CWSS!
 
 
