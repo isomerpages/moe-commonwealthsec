@@ -2,7 +2,7 @@ collections:
   our-people:
     output: true
     order:
-      - 00 School Advisory Committee.md
+      - School Advisory Committee.md
       - 00 School Leaders.md
       - 00 Academic Head Copy.md
       - 00 Student Development Head Copy.md
