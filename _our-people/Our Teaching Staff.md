@@ -11,9 +11,9 @@ description: ""
 | [Ms Bao Ya](mailto:bao.ya@cwss.moe.edu.sg)	|Mother Tongue Languages |
 | [Ms Jaclyn Chan Pei Yi](mailto:jaclyn.chanpeiyi@cwss.moe.edu.sg)	|Sciences |
 |[Mr Chua Joel](mailto:joel.chua@cwss.moe.edu.sg) 	 |Humanities|
- |[Mrs Noella Chua](noella.yee@cwss.moe.edu.sg)	|Music|
+ |[Mrs Noella Chua](mailto:noella.yee@cwss.moe.edu.sg)	|Music|
 |	|English Language |
- |Mr Cheon Chee Yong|	Mother Tongue Languages |
+ |[Mr Cheon Chee Yong](mailto:cheon.cheeyong@cwss.moe.edu.sg)|	Mother Tongue Languages |
  |Mr Cheong Hock Soan|	Assistant Year Head|
 |	|Mathematics |
 |Mrs Jasmine Chew |	Sciene Department |
