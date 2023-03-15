@@ -9,8 +9,7 @@ description: ""
 |[Ms Aiswarya Manickavasagam](mailto:aiswarya@cwss.moe.edu.sg) 	 |Mother Tongue Languages|
 |[Mrs Ang -Wong Yee May](mailto:wong.yeemay@cwss.moe.edu.sg) 	|Mathematics |
 | [Ms Bao Ya](mailto:bao.ya@cwss.moe.edu.sg)	|Mother Tongue Languages |
-|Ms Foo Hao Ling |	Mathematics  |
-| Ms Jaclyn Chan Pei Yi	|Sciences |
+| [Ms Jaclyn Chan Pei Yi](jaclyn.chanpeiyi@cwss.moe.edu.sg)	|Sciences |
 |Mr Chua Joel 	 |Humanities|
  |Mrs Noella Chua	|Music|
 |	|English Language |
