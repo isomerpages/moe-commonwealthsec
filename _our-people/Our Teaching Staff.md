@@ -6,9 +6,9 @@ description: ""
 | Name | Department | 
 | --------------- | --------------- |
 | [Miss Adelia Nivaashini](mailto:nivaashini@cwss.moe.edu.sg)|	English Language & Literature  |
-|Ms Aiswarya Manickavasagam 	 |Mother Tongue Languages|
-|Mrs Ang -Wong Yee May 	|Mathematics |
-| Miss Bao Ya	|Mother Tongue Languages |
+|[Ms Aiswarya Manickavasagam](mailto:aiswarya@cwss.moe.edu.sg) 	 |Mother Tongue Languages|
+|[Mrs Ang -Wong Yee May](mailto:wong.yeemay@cwss.moe.edu.sg) 	|Mathematics |
+| [Ms Bao Ya](mailto:bao.ya@cwss.moe.edu.sg)	|Mother Tongue Languages |
 |Ms Foo Hao Ling |	Mathematics  |
 | Ms Jaclyn Chan Pei Yi	|Sciences |
 |Mr Chua Joel 	 |Humanities|
