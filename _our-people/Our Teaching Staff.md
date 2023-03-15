@@ -3,11 +3,9 @@ title: Our Teaching Staff
 permalink: /permalink/
 description: ""
 ---
-
-
 | Name | Department | 
 | --------------- | --------------- |
-| Miss Adelia Nivaashini |	English Language & Literature  |
+| [Miss Adelia Nivaashini](mailto:nivaashini@cwss.moe.edu.sg)|	English Language & Literature  |
 |Ms Aiswarya Manickavasagam 	 |Mother Tongue Languages|
 |Mrs Ang -Wong Yee May 	|Mathematics |
 | Miss Bao Ya	|Mother Tongue Languages |
