@@ -3,10 +3,6 @@ title: Academic Head Copy
 permalink: /Our-People/00-Academic-Head-Copy/
 description: ""
 ---
-
-
-
-
 | Name | Designation | Email | 
 | -------- | -------- | -------- |
 | Mr Tan Jack Woan     | School Staff Developer     | tan.jackwoan@cwss.moe.edu.sg     |
