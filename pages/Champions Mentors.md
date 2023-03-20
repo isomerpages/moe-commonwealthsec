@@ -6,38 +6,38 @@ description: ""
 ### Secondary 1
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
-| 1 Curie    |   Ms Noella Yee   |   Mr Victor Paul Brang Tun   |
-| 1 Hawking    |   Mr Vincent Liew   |  Mrs Ang Wong Yee May    |
-| 1 Armstrong    |  Mrs Leong Sai Hong    |  Mr Elson Quek    |
-| 1 Mandela  |  Mdm Lee Yue Zhi    |  Mdm Mahalingam Umamaheswari    |
-| 1 Polo  |  Mr Joel Chua    |   Ms Bao Ya   |
-| 1 Ip Man  |   Mr Matthias Sim   |  Miss Adelia Nivaashini    |
-| 1 Ohm  |   Mr Zuwardy Bin Said   |  Ms Megan Chia    |
-| 1 Nightingale  |  Mdm Gopal Chitradevi    |   Mr Cheong Hock Soan   |
+| 1 Curie    |   [Ms Noella Yee](noella.yee@cwss.moe.edu.sg)  |   [Mr Victor Paul Brang Tun](victor.brang@cwss.moe.edu.sg)   |
+| 1 Hawking    |  [Mr Vincent Liew](liew.chenkong@cwss.moe.edu.sg)   | [ Mrs Ang Wong Yee May](wong.yeemay@cwss.moe.edu.sg)    |
+| 1 Armstrong    |  [Mrs Leong Sai Hong](leong.saihong@cwss.moe.edu.sg)    |  [Mr Elson Quek](elson.quek@cwss.moe.edu.sg)    |
+| 1 Mandela  |  [Mdm Lee Yue Zhi](lee.yuezhi@cwss.moe.edu.sg)    |  [Mdm Mahalingam Umamaheswari](mahalingam.umamaheswari@cwss.moe.edu.sg)    |
+| 1 Polo  |  [Mr Joel Chua](joel.chua@cwss.moe.edu.sg)    |  [ Ms Bao Ya](bao.ya@cwss.moe.edu.sg)   |
+| 1 Ip Man  |  [ Mr Matthias Sim](matthias.sim@cwss.moe.edu.sg)   |  [Miss Adelia Nivaashini ](nivaashini@cwss.moe.edu.sg)   |
+| 1 Ohm  |   [Mr Zuwardy Bin Said](zuwardy.said@cwss.moe.edu.sg)   |  [Ms Megan Chia ](megan.chia@cwss.moe.edu.sg)   |
+| 1 Nightingale  | [ Mdm Gopal Chitradevi ](gopal.chitradevi@cwss.moe.edu.sg)   |  [ Mr Cheong Hock Soan](cheong.hocksoan@cwss.moe.edu.sg)   |
 
 ### Secondary 2
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
-| 2 Curie    |   Ms Lu Lineng   |   Mr Cheon Chee Yong   |
-| 2 Hawking    |  Mrs Audrey Tham    |   Ms Tai Kai Zhen   |
-| 2 Armstrong    |   Mr Christopher Sim   |   Ms Nabilah Mohd Rashid   |
-| 2 Mandela  |  Miss Nur Ezzati    |  Mr Musa Shukor    |
-| 2 Polo  |   Ms Lee Sin Choon   |  Mr Muhd Yusman    |
-| 2 Ip Man  |  Mrs Chew Jasmine   | Ms Jaclyn Chan Pei Yi     |
-| 2 Ohm  |    Ms Lee Ying Jie  |  Mr Scott Ng    |
-| 2 Nightingale  |   Ms Joey Lim   |  Ms Aiswarya Manickavasagam    |
+| 2 Curie    |   [Ms Lu Lineng](lu.lineng@cwss.moe.edu.sg)   |   [Mr Cheon Chee Yong](cheon.cheeyong@cwss.moe.edu.sg)   |
+| 2 Hawking    |  [Mrs Audrey Tham](audrey.tham@cwss.moe.edu.sg)    |   [Ms Tai Kai Zhen](tai.kaizhen@cwss.moe.edu.sg)   |
+| 2 Armstrong    |  [ Mr Christopher Sim](christopher.sim@cwss.moe.edu.sg)   |  [ Ms Nabilah Mohd Rashid](nabilah@cwss.moe.edu.sg)   |
+| 2 Mandela  |  [Miss Nur Ezzati](nurezzati@cwss.moe.edu.sg)    |  [Mr Musa Shukor](musa.shukor@cwss.moe.edu.sg)    |
+| 2 Polo  |   [Ms Lee Sin Choon](lee.sinchoon@cwss.moe.edu.sg)   |  [Mr Muhd Yusman](muhammad.yusman@cwss.moe.edu.sg)    |
+| 2 Ip Man  |  [Mrs Chew Jasmine](jasmine.chew@cwss.moe.edu.sg)   | [Ms Jaclyn Chan Pei Yi ](jaclyn.chanpeiyi@cwss.moe.edu.sg)    |
+| 2 Ohm  |    [Ms Lee Ying Jie](lee.yingjie@cwss.moe.edu.sg)  |  [Mr Scott Ng](ng.hanliat@cwss.moe.edu.sg)    |
+| 2 Nightingale  |   [Ms Joey Lim](joeylim.peisi@cwss.moe.edu.sg)   | [Ms Aiswarya Manickavasagam](aiswarya@cwss.moe.edu.sg)    |
 
 ### Secondary 3
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
-|3 Curie    |   Ms Tian Yi Lin   |      |
-| 3 Hawking    |   Ms Hoo Pei Xian   |      |
-| 3 Armstrong    |   Miss Low Yee Lin   |      |
-| 3 Mandela  |   Ms Nuradilah Ramlan   | Mr Peter Lim    |
-| 3 Polo  |   Mr Jacob Tan   | Mr Rizman     |
-| 3 Ip Man  |   Mr Heng Swee Kee   |  Ms Lai Ying Ying    |
-|3 Ohm  | Mr Liang Lu     |  Mr Liang Lu   |
-| 3 Nightingale  | Ms Tan Hui Lin     |  Mr Simon Lew    |
+|3 Curie    |   [Ms Tian Yi Lin ](tian.yilin@cwss.moe.edu.sg)  |      |
+| 3 Hawking    |   [Ms Hoo Pei Xian](hoo.peixian@cwss.moe.edu.sg)   |      |
+| 3 Armstrong    |   [Miss Low Yee Lin](low.yeelin@cwss.moe.edu.sg)   |      |
+| 3 Mandela  |   [Ms Nuradilah Ramlan](nuradilah.ramlan@cwss.moe.edu.sg)   | [Mr Peter Lim ](peter.lim@cwss.moe.edu.sg)   |
+| 3 Polo  |   [Mr Jacob Tan](jacob.tan@cwss.moe.edu.sg)   | [Mr Rizman Hassan](rizman.hassan@cwss.moe.edu.sg)     |
+| 3 Ip Man  |  [ Mr Heng Swee Kee](heng.sweekee@cwss.moe.edu.sg)   |  [Ms Lai Ying Ying](lai.yingying@cwss.moe.edu.sg)Ying    |
+|3 Ohm  | [Mr Liang Lu](liang.lu@cwss.moe.edu.sg)     |  [Mrs Yeo Siew Mui](yeo.siewmui@cwss.moe.edu.sg)  |
+| 3 Nightingale  | [Ms Tan Hui Lin](tan.huilin@cwss.moe.edu.sg)     | [Mr Simon Lew](simon.lew@cwss.moe.edu.sg)    |
 
 ### Secondary 4 & 5
 | Class | Mentor 1 | Mentor 2 |
