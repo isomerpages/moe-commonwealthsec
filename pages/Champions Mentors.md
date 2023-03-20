@@ -6,7 +6,7 @@ description: ""
 ### Secondary 1
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
-| 1 Curie    |   [Ms Noella Yee](noella.yee@cwss.moe.edu.sg)  |   [Mr Victor Paul Brang Tun](victor.brang@cwss.moe.edu.sg)   |
+| 1 Curie    |   [Ms Noella Yee](mailto:noella.yee@cwss.moe.edu.sg)  |   [Mr Victor Paul Brang Tun](victor.brang@cwss.moe.edu.sg)   |
 | 1 Hawking    |  [Mr Vincent Liew](liew.chenkong@cwss.moe.edu.sg)   | [ Mrs Ang Wong Yee May](wong.yeemay@cwss.moe.edu.sg)    |
 | 1 Armstrong    |  [Mrs Leong Sai Hong](leong.saihong@cwss.moe.edu.sg)    |  [Mr Elson Quek](elson.quek@cwss.moe.edu.sg)    |
 | 1 Mandela  |  [Mdm Lee Yue Zhi](lee.yuezhi@cwss.moe.edu.sg)    |  [Mdm Mahalingam Umamaheswari](mahalingam.umamaheswari@cwss.moe.edu.sg)    |
@@ -42,11 +42,11 @@ description: ""
 ### Secondary 4 & 5
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
-|4 Curie    |    Mr Sun Guangzhou  |    Miss Lye Zhen Xi  |
-| 4 Hawking    |   Ms Phoon Chee Ling   |  Mr Rudy Hakeem    |
-| 4 Armstrong    |  Mrs June Tang    |  Mdm Quek Lay Hong    |
-| 4 Mandela  |   Ms Kokila Vani   |   Mrs Toh - Liao Liting   |
-| 4 Ip Man  |   Mr Kenneth Lim   |   Ms Jasmiyanti   |
-|4 Ohm  |   Mr Aidil Noor   |  Ms Amalina    |
-| 4 Nightingale  |  Miss Elizabeth Seah    |    Mdm Brinda  |
-| 5 Nightingale  |  Mdm Vineeta    |   Ms Saadiah   |
+|4 Curie    |   [ Mr Sun Guangzhou](sun.guangzhou@cwss.moe.edu.sg)  |    [Ms Lye Zhen Xi](lye.zhenxi@cwss.moe.edu.sg)  |
+| 4 Hawking    |   [Ms Phoon Chee Ling](phoon.cheeling@cwss.moe.edu.sg)  |  [Mr Rudy Hakeem](rudyhakeem.sulaiman@cwss.moe.edu.sg)    |
+| 4 Armstrong    |  [Mrs June Tang](june.tang@cwss.moe.edu.sg)  |  [Mdm Quek Lay Hong](quek.layhong@cwss.moe.edu.sg)    |
+| 4 Mandela  |   [Ms Kokila Vani](kokila.vani@cwss.moe.edu.sg)   |  [Mrs Toh - Liao Liting](liao.liting@cwss.moe.edu.sg)   |
+| 4 Ip Man  |  [ Mr Kenneth Lim](kenneth.lim@cwss.moe.edu.sg)   |   [Ms Jasmiyanti ](jasmiyanti.marhajas@cwss.moe.edu.sg)  |
+|4 Ohm  |   [Mr Aidil Noor](aidil.noor@cwss.moe.edu.sg)   |  [Ms Nuramalina](nuramalina.shalan@cwss.moe.edu.sg)    |
+| 4 Nightingale  |  [Miss Elizabeth Seah](elizabeth.seah@cwss.moe.edu.sg)    |    [Mdm Brinda](brinda@cwss.moe.edu.sg)|
+| 5 Nightingale  |  [Mdm Vineeta](vineeta@cwss.moe.edu.sg)    |  [Ms Saadiah Aziz](saadiah.aziz@cwss.moe.edu.sg)   |
