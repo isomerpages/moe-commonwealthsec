@@ -3,7 +3,6 @@ title: Champions Mentors
 permalink: /permalink/
 description: ""
 ---
-
 ### Secondary 1
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
