@@ -20,14 +20,14 @@ description: ""
 |[Ms Megan Chia](mailto:megan.chia@cwss.moe.edu.sg)|	 Subject Head (Mathematics) |
 |	|Mathematics|
 |[Ms Dimple Kaur Sidhu](mailto:dimple.kaur@cwss.moe.edu.sg)|	 Mathematics|
-|[Mr Elson Quek](mailto:) 	|English Language & Literature |
-|[Mdm Dasari Brinda Nagaraju](mailto:) 	|English Language & Literature |
- |[Miss Goh Jee Meng](mailto:)	|Humanities |
- |[Mdm Gopal Chitradevi](mailto:)	| Mother Tongue Languages|
+|[Mr Elson Quek](mailto:elson.quek@cwss.moe.edu.sg) 	|English Language & Literature |
+|[Mdm Dasari Brinda Nagaraju](mailto:brinda@cwss.moe.edu.sg) 	|English Language & Literature |
+ |[Miss Goh Jee Meng](mailto:goh.jeemeng@cwss.moe.edu.sg)	|Humanities |
+ |[Mdm Gopal Chitradevi](mailto:gopal.chitradevi@cwss.moe.edu.sg)	| Mother Tongue Languages|
 |[Mdm Haidar Afandi](mailto:)	|Craft & Technology  |
-| [Mr Heng Swee Kee](mailto:)	|Craft & Technology |
-| [Ms Hoo Pei Xian](mailto:)|	Mathematics |
-| [Miss Jasmiyanti Bte Marhajas](mailto:)	| Senior Teacher (Malay Language) |
+| [Mr Heng Swee Kee](mailto:heng.sweekee@cwss.moe.edu.sg)	|Craft & Technology |
+| [Ms Hoo Pei Xian](mailto:hoo.peixian@cwss.moe.edu.sg)|	Mathematics |
+| [Miss Jasmiyanti Bte Marhajas](mailto:jasmiyanti.marhajas@cwss.moe.edu.sg)	| Senior Teacher (Malay Language) |
 |     |Mother Tongue Languages|
 |[Ms Kokila Vani d/o Nagalingam](mailto:) 	|Humanities |
 |[Ms Lee Sin Choon](mailto:) 	| English Language|
@@ -91,4 +91,4 @@ description: ""
  | [Mr Yong Lek Lai](mailto:)	 |  Craft & Technology | 
  |  [Mr Yusman Yusoff](mailto:)	 | Subject Head (CCA)  | 
  | 	 | Sciences  | 
- | Mr Zuwardy Bin Said 	  | Craft & Technology |
+ | [Mr Zuwardy Bin Said](mailto:) 	  | Craft & Technology |
