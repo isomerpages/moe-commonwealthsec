@@ -3,7 +3,6 @@ title: Our Champions Mentors
 permalink: /permalink/
 description: ""
 ---
-
 ### Secondary 1
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
@@ -36,7 +35,7 @@ description: ""
 | 3 Armstrong    |   [Miss Low Yee Lin](mailto:low.yeelin@cwss.moe.edu.sg)   |      |
 | 3 Mandela  |   [Ms Nuradilah Ramlan](mailto:nuradilah.ramlan@cwss.moe.edu.sg)   | [Mr Peter Lim ](mailto:peter.lim@cwss.moe.edu.sg)   |
 | 3 Polo  |   [Mr Jacob Tan](mailto:jacob.tan@cwss.moe.edu.sg)   | [Mr Rizman Hassan](mailto:rizman.hassan@cwss.moe.edu.sg)     |
-| 3 Ip Man  |  [ Mr Heng Swee Kee](mailto:heng.sweekee@cwss.moe.edu.sg)   |  [Ms Lai Ying Ying](mailto:lai.yingying@cwss.moe.edu.sg)Ying    |
+| 3 Ip Man  |  [ Mr Heng Swee Kee](mailto:heng.sweekee@cwss.moe.edu.sg)   |  [Ms Lai Ying Ying](mailto:lai.yingying@cwss.moe.edu.sg)   |
 |3 Ohm  | [Mr Liang Lu](mailto:liang.lu@cwss.moe.edu.sg)     |  [Mrs Yeo Siew Mui](mailto:yeo.siewmui@cwss.moe.edu.sg)  |
 | 3 Nightingale  | [Ms Tan Hui Lin](mailto:tan.huilin@cwss.moe.edu.sg)     | [Mr Simon Lew](mailto:simon.lew@cwss.moe.edu.sg)    |
 
