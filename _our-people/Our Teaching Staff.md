@@ -16,8 +16,8 @@ description: ""
  |[Mr Cheon Chee Yong](mailto:cheon.cheeyong@cwss.moe.edu.sg)|	Mother Tongue Languages |
  |[Mr Cheong Hock Soan](mailto:cheong.hocksoan@cwss.moe.edu.sg)|	Assistant Year Head|
 |	|Mathematics |
-|[Mrs Jasmine Chew](mailto: jasmine.chew@cwss.moe.edu.sg)|	Sciene Department |
-|[Ms Megan Chia](mailto: megan.chia@cwss.moe.edu.sg)|	 Subject Head (Mathematics) |
+|[Mrs Jasmine Chew](mailto:jasmine.chew@cwss.moe.edu.sg)|	Sciene Department |
+|[Ms Megan Chia](mailto:megan.chia@cwss.moe.edu.sg)|	 Subject Head (Mathematics) |
 |	|Mathematics|
 |Ms Dimple Kaur Sidhu|	 Mathematics|
 |Mr Elson Quek 	|English Language & Literature |
