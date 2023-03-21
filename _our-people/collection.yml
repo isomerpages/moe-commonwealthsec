@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Our Champions Mentors.md
       - School Advisory Committee.md
       - School Leaders.md
       - Academic Head.md
