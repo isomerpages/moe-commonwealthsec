@@ -33,62 +33,62 @@ description: ""
 |[Ms Lee Sin Choon](mailto:lee.sinchoon@cwss.moe.edu.sg) 	| English Language|
 | [Ms Lee Ying Jie](mailto:lee.yingjie@cwss.moe.edu.sg)|	Mathematics |
 | [Mdm Lee Yue Zhi](mailto:lee.yuezhi@cwss.moe.edu.sg) 	| Craft & Technology| 
- | [Mrs Leong - Tan Sai Hong](mailto:)| 	Mathematics | 
-|  [Mr Lew Keng Wah Simon](mailto:)| 	Subject Head (Citizenship and Character Education) | 
+ | [Mrs Leong - Tan Sai Hong](mailto:leong.saihong@cwss.moe.edu.sg)| 	Mathematics | 
+|  [Mr Lew Keng Wah Simon](mailto:simon.lew@cwss.moe.edu.sg)| 	Subject Head (Citizenship and Character Education) | 
 | 	| Sciences| 
-| [Mr Liang Lu](mailto:) 	| Mother Tongue Languages | 
-|  [Mrs Toh - Liao Liting](mailto:)	| Sciences | 
-| [Ms Lai Ying Ying](mailto:)| 	 English Language & Literature| 
- | [Mr Liew Chen Kong Vincent](mailto:)| 	 Sciences| 
- | [Ms Joey Lim Pei Si](mailto:)	| English Language & Literature | 
-| [Mr Lim Swee Kian, Peter](mailto:) 	| PE & CCA | 
- | [Mr Lim Sze Tim Kenneth](mailto:)| 	 Mathematics| 
-|  [Ms Sophia Lim Wan Jie](mailto:)	|  Assistant Year Head| 
+| [Mr Liang Lu](mailto:liang.lu@cwss.moe.edu.sg) 	| Mother Tongue Languages | 
+|  [Mrs Toh - Liao Liting](mailto:liao.liting@cwss.moe.edu.sg)	| Sciences | 
+| [Ms Lai Ying Ying](mailto:lai.yingying@cwss.moe.edu.sg)| 	 English Language & Literature| 
+ | [Mr Liew Chen Kong Vincent](mailto:liew.chenkong@cwss.moe.edu.sg)| 	 Sciences| 
+ | [Ms Joey Lim Pei Si](mailto:joeylim.peisi@cwss.moe.edu.sg)	| English Language & Literature | 
+| [Mr Lim Swee Kian, Peter](mailto:peter.lim@cwss.moe.edu.sg) 	| PE & CCA | 
+ | [Mr Lim Sze Tim Kenneth](mailto:kenneth.lim@cwss.moe.edu.sg)| 	 Mathematics| 
+|  [Ms Sophia Lim Wan Jie](mailto:sophia.lim@cwss.moe.edu.sg)	|  Assistant Year Head| 
 | 	| Mathematics  | 
-| [Miss Low Yee Lin](mailto:)	| Mother Tongue Languages | 
-| [Ms Lu Lineng](mailto:) 	| English Language & Literature | 
- | [Miss Lye Zhen Xi](mailto:)	| Humanities|  
- | [Mrs Margaret Loh nee Teng Eng Chew](mailto:)| 	Mathematics | 
- | [Ms Mok Sheau Pei](mailto:)	| Mother Tongue Languages| 
- | [Mr Muhammad Aidil Bin Noor](mailto:)	| English Language & Literature| 
-| [Mr Musa Shukor](mailto:) 	|  Subject Head (English Language) | 
+| [Miss Low Yee Lin](mailto:low.yeelin@cwss.moe.edu.sg)	| Mother Tongue Languages | 
+| [Ms Lu Lineng](mailto:lu.lineng@cwss.moe.edu.sg) 	| English Language & Literature | 
+ | [Miss Lye Zhen Xi](mailto:lye.zhenxi@cwss.moe.edu.sg)	| Humanities|  
+ | [Mrs Margaret Loh nee Teng Eng Chew](mailto:margaret.loh@cwss.moe.edu.sg)| 	Mathematics | 
+ | [Ms Mok Sheau Pei](mailto:mok.sheaupei@cwss.moe.edu.sg)	| Mother Tongue Languages| 
+ | [Mr Muhammad Aidil Bin Noor](mailto:aidil.noor@cwss.moe.edu.sg)	| English Language & Literature| 
+| [Mr Musa Shukor](mailto:musa.shukor@cwss.moe.edu.sg) 	|  Subject Head (English Language) | 
 | 	| English Language & Literature| 
- | [Ms Nabilah Binti Mohd Rashid](mailto:)	|  Mother Tongue Languages| 
-|  [Mr Ng Han Liat](mailto:)	| Senior Teacher (Physical Education) | 
+ | [Ms Nabilah Binti Mohd Rashid](mailto:nabilah@cwss.moe.edu.sg)	|  Mother Tongue Languages| 
+|  [Mr Ng Han Liat](mailto:ng.hanliat@cwss.moe.edu.sg)	| Senior Teacher (Physical Education) | 
 | 	| PE & CCA| 
-| [Miss Ng Lee Gek Ruth](mailto:) 	| Craft & Technology | 
-| [Ms Nur Amalina Binte Shalan](mailto:) 	|  Mother Tongue Languages| 
-| [Miss Nur Ezzati Zukr](mailto:)  	| Humanities  | 
-|  [Ms Nuradilah Binte Ramlan](mailto:)	| Humanities | 
- | [Ms Phoon Chee Ling](mailto:)	| Mother Tongue Languages | 
-  | [Mdm Quek Lay Hong](mailto:) | 	Sciences  | 
-  | [Mr Rizman Bin Hassan](mailto:)	 | Subject Head (Educational Technology)  | 
+| [Miss Ng Lee Gek Ruth](mailto:ruth.ng@cwss.moe.edu.sg) 	| Craft & Technology | 
+| [Ms Nur Amalina Binte Shalan](mailto:nuramalina.shalan@cwss.moe.edu.sg) 	|  Mother Tongue Languages| 
+| [Miss Nur Ezzati Zukr](mailto:nurezzati@cwss.moe.edu.sg)  	| Humanities  | 
+|  [Ms Nuradilah Binte Ramlan](mailto:nuradilah.ramlan@cwss.moe.edu.sg)	| Humanities | 
+ | [Ms Phoon Chee Ling](mailto:phoon.cheeling@cwss.moe.edu.sg)	| Mother Tongue Languages | 
+  | [Mdm Quek Lay Hong](mailto:quek.layhong@cwss.moe.edu.sg) | 	Sciences  | 
+  | [Mr Rizman Bin Hassan](mailto:rizman.hassan@cwss.moe.edu.sg)	 | Subject Head (Educational Technology)  | 
  | 	 | Mathematics  | 
- | [Mdm Rukmani](mailto:) 	 | Lead Teacher ( Tamil Language)  | 
+ | [Mdm Rukmani](mailto:rukmani@cwss.moe.edu.sg) 	 | Lead Teacher ( Tamil Language)  | 
  | 	 | Mother Tongue Languages  | 
- | [Ms Rubiyah Bte Khamis](mailto:) 	 |  Subject Head (Design & Technology)  | 
+ | [Ms Rubiyah Bte Khamis](mailto:rubiyah.khamis@cwss.moe.edu.sg) 	 |  Subject Head (Design & Technology)  | 
  | 	 | Craft & Technology | 
- | [Mr Rudy Hakeem Sulaiman](mailto:) 	 | English  | 
- |  [Mrs Sheila Philip](mailto:)	 |  Mathematics | 
-  | [Miss Seah Pei Shan Elizabeth](mailto:)	  | PE & CCA | 
-  | [Mr Sim Kwong Wee Matthias](mailto:)	  | Sciences | 
-  | [Mr Sim Zhen Yang](mailto:)	 | Mathematics  | 
- | [Mr Sun Guangzhou](mailto:) 	 | Mother Tongue Languages  | 
-  | [Ms Tai Kai Zhen](mailto:)	  | Mathematics | 
- | [Mr Tan Guanrui Jacob](mailto:) 	 | Senior Teacher (Biology)  | 
+ | [Mr Rudy Hakeem Sulaiman](mailto:rudyhakeem.sulaiman@cwss.moe.edu.sg) 	 | English  | 
+ |  [Mrs Sheila Philip](mailto:sheila.philip@cwss.moe.edu.sg)	 |  Mathematics | 
+  | [Miss Seah Pei Shan Elizabeth](mailto:elizabeth.seah@cwss.moe.edu.sg)	  | PE & CCA | 
+  | [Mr Sim Kwong Wee Matthias](mailto:matthias.sim@cwss.moe.edu.sg)	  | Sciences | 
+  | [Mr Sim Zhen Yang](mailto:christopher.sim@cwss.moe.edu.sg)	 | Mathematics  | 
+ | [Mr Sun Guangzhou](mailto:sun.guangzhou@cwss.moe.edu.sg) 	 | Mother Tongue Languages  | 
+  | [Ms Tai Kai Zhen](mailto:tai.kaizhen@cwss.moe.edu.sg)	  | Mathematics | 
+ | [Mr Tan Guanrui Jacob](mailto:jacob.tan@cwss.moe.edu.sg) 	 | Senior Teacher (Biology)  | 
  | 	 | Sciences  | 
- | [Ms Tan Hui Lin](mailto:)  | 	 Humanities  | 
-  | [Mrs Tan Hwee Ping](mailto:)	 | Lead Teacher (Mathematics)  | 
+ | [Ms Tan Hui Lin](mailto:tan.huilin@cwss.moe.edu.sg)  | 	 Humanities  | 
+  | [Mrs Tan Hwee Ping](mailto:tan.hweeping@cwss.moe.edu.sg)	 | Lead Teacher (Mathematics)  | 
  | 	 | Mathematics  | 
-  | [Mrs June Tang- Lee Wei-](mailto:) 	 | Humanities  | 
- | [Mdm Teo Puay Siong Rene](mailto:) 	 | Humanities   | 
- | [Mdm Veronica Teo](mailto:)	 | English Language & Literature   | 
-  | [Mrs Audrey Tham](mailto:)	 | English Language & Literature  | 
-  |  [Ms Tian Yilin](mailto:)	 | Sciences   | 
-  | [Mdm Toh Siau Yien](mailto:) 	 |  Mother Tongue Languages  | 
-  | [Mdm Vineeta](mailto:)	 |  Sciences | 
- |  [Mrs Yeo Siew Mui](mailto:) | 	 Sciences | 
- | [Mr Yong Lek Lai](mailto:)	 |  Craft & Technology | 
- |  [Mr Yusman Yusoff](mailto:)	 | Subject Head (CCA)  | 
+  | [Mrs June Tang- Lee Wei-](mailto:june.tang@cwss.moe.edu.sg) 	 | Humanities  | 
+ | [Mdm Teo Puay Siong Rene](mailto:rene.teopuaysiong@cwss.moe.edu.sg) 	 | Humanities   | 
+ | [Mdm Veronica Teo](mailto:veronica.teo@cwss.moe.edu.sg)	 | English Language & Literature   | 
+  | [Mrs Audrey Tham](mailto:audrey.tham@cwss.moe.edu.sg)	 | English Language & Literature  | 
+  |  [Ms Tian Yilin](mailto:tian.yilin@cwss.moe.edu.sg)	 | Sciences   | 
+  | [Mdm Toh Siau Yien](mailto:toh.siauyien@cwss.moe.edu.sg) 	 |  Mother Tongue Languages  | 
+  | [Mdm Vineeta](mailto:vineeta@cwss.moe.edu.sg)	 |  Sciences | 
+ |  [Mrs Yeo Siew Mui](mailto:yeo.siewmui@cwss.moe.edu.sg) | 	 Sciences | 
+ | [Mr Yong Lek Lai](mailto:yong.leklai@cwss.moe.edu.sg)	 |  Craft & Technology | 
+ |  [Mr Yusman Yusoff](mailto:muhammad.yusman@cwss.moe.edu.sg)	 | Subject Head (CCA)  | 
  | 	 | Sciences  | 
- | [Mr Zuwardy Bin Said](mailto:) 	  | Craft & Technology |
+ | [Mr Zuwardy Bin Said](mailto:zuwardy.said@cwss.moe.edu.sg) 	  | Craft & Technology |
