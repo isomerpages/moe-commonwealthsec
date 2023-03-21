@@ -29,10 +29,10 @@ description: ""
 | [Ms Hoo Pei Xian](mailto:hoo.peixian@cwss.moe.edu.sg)|	Mathematics |
 | [Miss Jasmiyanti Bte Marhajas](mailto:jasmiyanti.marhajas@cwss.moe.edu.sg)	| Senior Teacher (Malay Language) |
 |     |Mother Tongue Languages|
-|[Ms Kokila Vani d/o Nagalingam](mailto:) 	|Humanities |
-|[Ms Lee Sin Choon](mailto:) 	| English Language|
-| [Ms Lee Ying Jie](mailto:)|	Mathematics |
-| [Mdm Lee Yue Zhi](mailto:) 	| Craft & Technology| 
+|[Ms Kokila Vani d/o Nagalingam](mailto:kokila.vani@cwss.moe.edu.sg) 	|Humanities |
+|[Ms Lee Sin Choon](mailto:lee.sinchoon@cwss.moe.edu.sg) 	| English Language|
+| [Ms Lee Ying Jie](mailto:lee.yingjie@cwss.moe.edu.sg)|	Mathematics |
+| [Mdm Lee Yue Zhi](mailto:lee.yuezhi@cwss.moe.edu.sg) 	| Craft & Technology| 
  | [Mrs Leong - Tan Sai Hong](mailto:)| 	Mathematics | 
 |  [Mr Lew Keng Wah Simon](mailto:)| 	Subject Head (Citizenship and Character Education) | 
 | 	| Sciences| 
