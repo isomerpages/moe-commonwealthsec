@@ -1,15 +1,27 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Cwss
+    collection: about-cwss
+  - title: Admissions
+    collection: admissions
+  - title: Confident Learner
+    collection: confident-learner
+  - title: Compassionate Leaders
+    collection: compassionate-leaders
+  - title: Imaginative TrailBlazers
+    url: /imaginative-trailblazers
+    sublinks:
+      - title: Centre of Excellence for D & I
+        url: http://www.cwssinnovates.com/
+      - title: Design & Thinking
+        url: /imaginative-trailblazers/design-thinking
+      - title: Maker Education
+        url: /imaginative-trailblazers/maker-education
+      - title: The TrailBlazer Programme
+        url: /imaginative-trailblazers/the-trailblazer-programme
+      - title: Environmental Education
+        url: /imaginative-trailblazers/environmental-education
+      - title: Aesthetics & Performing Arts
+        url: /imaginative-trailblazers/aesthetics-n-performing-arts
+  - title: Our People
+    collection: our-people

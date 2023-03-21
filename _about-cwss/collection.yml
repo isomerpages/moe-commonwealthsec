@@ -1,0 +1,11 @@
+collections:
+  about-cwss:
+    output: true
+    order:
+      - Vision & Mission.md
+      - Values.md
+      - School Crest.md
+      - History.md
+      - Ethos Philosophy.md
+      - Code of Conduct.md
+      - Contact.md

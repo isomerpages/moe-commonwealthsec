@@ -1,0 +1,8 @@
+collections:
+  confident-learner:
+    output: true
+    order:
+      - Confident Learner.md
+      - Academic Programmes.md
+      - Co Curricular Activities.md
+      - Sexuality Education.md
