@@ -19,7 +19,7 @@ description: ""
 |[Mrs Jasmine Chew](mailto:jasmine.chew@cwss.moe.edu.sg)|	Sciene Department |
 |[Ms Megan Chia](mailto:megan.chia@cwss.moe.edu.sg)|	 Subject Head (Mathematics) |
 |	|Mathematics|
-|Ms Dimple Kaur Sidhu|	 Mathematics|
+|[Ms Dimple Kaur Sidhu](mailto:dimple.kaur@cwss.moe.edu.sg)|	 Mathematics|
 |Mr Elson Quek 	|English Language & Literature |
 |Mdm Dasari Brinda Nagaraju 	|English Language & Literature |
  |Miss Goh Jee Meng	|Humanities |
