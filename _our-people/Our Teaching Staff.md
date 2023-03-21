@@ -14,7 +14,7 @@ description: ""
  |[Mrs Noella Chua](mailto:noella.yee@cwss.moe.edu.sg)	|Music|
 |	|English Language |
  |[Mr Cheon Chee Yong](mailto:cheon.cheeyong@cwss.moe.edu.sg)|	Mother Tongue Languages |
- |Mr Cheong Hock Soan|	Assistant Year Head|
+ |[Cheong Hock Soan]( cheong.hocksoan@cwss.moe.edu.sg)|	Assistant Year Head|
 |	|Mathematics |
 |Mrs Jasmine Chew |	Sciene Department |
 | Ms Megan Chia|	 Subject Head (Mathematics) |
