@@ -2,8 +2,8 @@ collections:
   our-people:
     output: true
     order:
-      - Our Teaching Staff.md
       - School Advisory Committee.md
       - School Leaders.md
       - Academic Head.md
       - Student Development Head.md
+      - Our Teaching Staff.md
