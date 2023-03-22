@@ -30,6 +30,7 @@ description: ""
 | 2 Nightingale  |   [Ms Joey Lim](mailto:joeylim.peisi@cwss.moe.edu.sg)   | [Ms Aiswarya Manickavasagam](mailto:aiswarya@cwss.moe.edu.sg)    |
 
 ### Secondary 3
+
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
 |3 Curie    |   [Ms Tian Yi Lin ](mailto:tian.yilin@cwss.moe.edu.sg)  |      |
