@@ -9,7 +9,7 @@ sections:
   - hero:
       url: https://staging.d2q8d178bncjmq.amplifyapp.com/VirtualCWSSExp/virtual-tour/
       button: Experience CWSS Virtually
-      background: /images/cwss open house 2022 (105 × 148 cm) (facebook cover) (1).png
+      background: /images/web banner latest.png
       key_highlights:
         - title: Design & Innovation
           description: ""
