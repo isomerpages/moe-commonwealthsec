@@ -1,8 +1,9 @@
 ---
-title: Academic Head
+title: Academic Heads
 permalink: /our-people/00-academic-head/
 description: ""
 ---
+
 
 | Name | Designation | Email | 
 | -------- | -------- | -------- |

@@ -1,8 +1,9 @@
 ---
-title: Student Development Head
+title: Student Development Heads
 permalink: /our-people/00-student-development-head-copy/
 description: ""
 ---
+
 
 
 

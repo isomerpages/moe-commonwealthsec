@@ -1,11 +1,10 @@
 ---
 title: Our Champions Mentors
-permalink: /permalink/
+permalink: /our-people/00-our-champions-mentors/
 description: ""
 ---
-
-
 ### Secondary 1
+
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
 | 1 Curie    |   [Ms Noella Yee](mailto:noella.yee@cwss.moe.edu.sg)  |   [Mr Victor Paul Brang Tun](mailto:victor.brang@cwss.moe.edu.sg)   |
@@ -18,6 +17,7 @@ description: ""
 | 1 Nightingale  | [ Mdm Gopal Chitradevi ](mailto:gopal.chitradevi@cwss.moe.edu.sg)   |  [ Mr Cheong Hock Soan](mailto:cheong.hocksoan@cwss.moe.edu.sg)   |
 
 ### Secondary 2
+
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
 | 2 Curie    |   [Ms Lu Lineng](mailto:lu.lineng@cwss.moe.edu.sg)   |   [Mr Cheon Chee Yong](mailto:cheon.cheeyong@cwss.moe.edu.sg)   |
@@ -30,6 +30,7 @@ description: ""
 | 2 Nightingale  |   [Ms Joey Lim](mailto:joeylim.peisi@cwss.moe.edu.sg)   | [Ms Aiswarya Manickavasagam](mailto:aiswarya@cwss.moe.edu.sg)    |
 
 ### Secondary 3
+
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
 |3 Curie    |   [Ms Tian Yi Lin ](mailto:tian.yilin@cwss.moe.edu.sg)  |      |
@@ -42,6 +43,7 @@ description: ""
 | 3 Nightingale  | [Ms Tan Hui Lin](mailto:tan.huilin@cwss.moe.edu.sg)     | [Mr Simon Lew](mailto:simon.lew@cwss.moe.edu.sg)    |
 
 ### Secondary 4 & 5
+
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
 |4 Curie    |   [ Mr Sun Guangzhou](mailto:sun.guangzhou@cwss.moe.edu.sg)  |    [Ms Lye Zhen Xi](mailto:lye.zhenxi@cwss.moe.edu.sg)  |

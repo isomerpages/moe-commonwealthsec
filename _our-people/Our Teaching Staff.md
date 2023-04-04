@@ -1,8 +1,9 @@
 ---
 title: Our Teaching Staff
-permalink: /permalink/
+permalink: /our-people/00-our-teaching-staff/
 description: ""
 ---
+
 
 
 | Name | Department | 
