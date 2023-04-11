@@ -9,7 +9,6 @@ sections:
   - hero:
       url: https://staging.d2q8d178bncjmq.amplifyapp.com/VirtualCWSSExp/virtual-tour/
       button: Experience CWSS Virtually
-      background: /images/web banner latest.png
       key_highlights:
         - title: Design & Innovation
           description: ""
