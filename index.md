@@ -9,7 +9,6 @@ sections:
   - hero:
       url: https://staging.d2q8d178bncjmq.amplifyapp.com/VirtualCWSSExp/virtual-tour/
       button: Experience CWSS Virtually
-      background: /images/Web Banner 2.png
       key_highlights:
         - title: Design & Innovation
           description: ""
@@ -23,4 +22,5 @@ sections:
         - title: Biodiversity
           description: ""
           url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/environmental-education
+      background: /images/cwss open house 2022 (105 × 148 cm) (facebook cover) (1).png
 ---
