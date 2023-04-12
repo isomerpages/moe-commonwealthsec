@@ -10,9 +10,9 @@ sections:
       url: https://staging.d2q8d178bncjmq.amplifyapp.com/VirtualCWSSExp/virtual-tour/
       button: Experience CWSS Virtually
       key_highlights:
-        - title: Design & Innovation
+        - title: ""
           description: ""
-          url: http://www.cwssinnovates.com/
+          url: " "
         - title: Trailblazer Programme
           description: ""
           url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/the-trailblazer-programme
