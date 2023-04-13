@@ -7,7 +7,7 @@ description: ""
 ================
 
   
-Click&nbsp;[here](https://form.gov.sg/5f9f48ff11fed50011cb68ee)&nbsp;if you would like to ask our Champions any questions and we will get back to you as soon as we can!
+Connect with our Champions through these videos and find out more about the Commonwealth Experience!
 
 
 <iframe width="355" height="199" src="https://www.youtube.com/embed/bMZcBmQzfw0" title="2 Minutes with Mr Jacob Tan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
