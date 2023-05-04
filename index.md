@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Design & Innovation
           description: ""
-          url: http://www.cwssinnovates.com/
+          url: " https://sway.office.com/FFEksk6wAeEmzj0U?ref=Link"
         - title: Trailblazer Programme
           description: ""
           url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/the-trailblazer-programme
