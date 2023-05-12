@@ -7,8 +7,6 @@ description: ""
 
 
 
-<center>
-
 Behold our school crest
 
 With our motto “Ever with the Best”  
@@ -24,5 +22,3 @@ Gold for faith and fruitfulness
 Ever-glowing is our flame  
 	
 Ever-growing is our name
-	
-</center>
