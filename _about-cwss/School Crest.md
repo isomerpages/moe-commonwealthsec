@@ -7,11 +7,11 @@ description: ""
 
 
 
-Behold our school crest  
-With our motto “Ever with the Best”  
-See the flame burning with zest  
-It proudly stands for CSS as well as CWSS  
-Blue for infinite resourcefulness  
-Gold for faith and fruitfulness  
-Ever-glowing is our flame  
-Ever-growing is our name
+Behold our school crest<br>
+With our motto “Ever with the Best”<br>
+See the flame burning with zest<br>
+It proudly stands for CSS as well as CWSS<br>
+Blue for infinite resourcefulness<br>
+Gold for faith and fruitfulness<br>
+Ever-glowing is our flame<br>
+Ever-growing is our name<br>
