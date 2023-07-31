@@ -31,12 +31,12 @@ The **key messages** of Sexuality Education are:
 (c) Make responsible decisions for yourself, your family and society; and<br>
 (d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br>
 
-You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
 
 # OVERVIEW  OF COMMONWEALTH SECONDARY SCHOOL'S SEXUALITY EDUCATION FOR 2023
 
-<p>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.&nbsp;<br>
+Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.&nbsp;<br>
 
   
 
@@ -57,7 +57,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
   
 
-At Commonwealth Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022: </p>
+At Commonwealth Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022: <p></p>
 
 <p>
 	
