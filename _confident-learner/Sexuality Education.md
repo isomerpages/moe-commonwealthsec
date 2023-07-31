@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /confident-learner/sexuality-education
+permalink: /confident-learner/sexuality-education/
 description: ""
 ---
 Sexuality Education
@@ -11,8 +11,7 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 
 
 
-<img src="/images/banner_sexualityeducation.jpg"  
-     style="width:65%">
+<img src="/images/banner_sexualityeducation.jpg" style="width:65%">
 
 
 
@@ -21,20 +20,20 @@ The goals of Sexuality Education are to:
   
 (ii) To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and  
   
-(iii) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality. 
+(iii) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.&nbsp;
 
   
 
 The key messages of Sexuality Education are:
 
-(i) Love and respect yourself as you love and respect others;<br>
-(ii) Build positive relationships based on love and respect (which are the foundation for strong families);<br>
-(iii) Make responsible decisions for yourself, your family and society; and<br>
-(iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+(a) Love and respect yourself as you love and respect others;<br>
+(b) Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+(c) Make responsible decisions for yourself, your family and society; and<br>
+(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
   
 
-You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education. **(BROKEN LINK)**
+You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
 
 
@@ -43,15 +42,15 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emo
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">OVERVIEW  OF COMMONWEALTH SECONDARY SCHOOL'S SEXUALITY EDUCATION FOR 2022</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">OVERVIEW  OF COMMONWEALTH SECONDARY SCHOOL'S SEXUALITY EDUCATION FOR 2022</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.&nbsp;<br>
 
   
 
@@ -65,11 +64,11 @@ b. [Civics and Moral Education](https://www.moe.gov.sg/education/syllabuses/char
 
 Sexuality Education Lessons<br>
 
-The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a sdivong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.   <br>
+The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a sdivong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.&nbsp;  <br>
 
   
 
-Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.   <br>
+Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.&nbsp;  <br>
 
   
 
@@ -118,19 +117,19 @@ Secondary 5
 	
 	
 </p>
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>  
+</li>&nbsp;&nbsp;
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">eTeens Programme</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">eTeens Programme</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.  
 <br>  
 
 Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.<br>  
@@ -145,19 +144,19 @@ At Commonwealth Secondary School, the eTeens programme will be implemented as fo
 	
 </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-  </li>
+&nbsp;&nbsp;</li>
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">ETEENS</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">ETEENS</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
 
 eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. <br> 
 
@@ -172,27 +171,27 @@ The eTeens programme comprises an assembly talk and a classroom-based lesson:
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#B0B0B0;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#B0B0B0">Topics/Lessons</span></th><th style="background-color:#B0B0B0;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#B0B0B0">Programme Learning Objectives</span></th><th style="background-color:#B0B0B0;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#B0B0B0">Time Period</span><br><span style="color:#222;background-color:#B0B0B0">(e.g. Term 3 Week 9)</span><br></th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Mass Talk by HPB appointed vendor </span></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Awareness of the different STIs and HIV/AIDS</span><br><br><span style="color:#222;background-color:#EAEAEA">Modes of transmission</span><br><br><span style="color:#222;background-color:#EAEAEA">Modes of protection, specifically on how the condom is used</span><br><br><span style="color:#222;background-color:#EAEAEA">Consequences and impact of STIs/HIV</span><br></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Term 3 Week 6</span></td></tr><tr><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Classroom-based Lesson</span></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</span></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Term 3 Week 8</span></td></tr></tbody></table>				
 				
 				
-      </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-  </li>
+&nbsp;&nbsp;</li>
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">INFORMATION FOR PARENTS</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">INFORMATION FOR PARENTS</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>
 
-Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.   <br>
+Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;  <br>
 
 Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year. The completed form is to be submitted by 27/01/2022. <br>
 
-Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Annex%20B.pdf">here</a> The completed form is to be submitted by 27/01/2022. <br>
+Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex%20B.pdf">here</a> The completed form is to be submitted by 27/01/2022. <br>
 
 Parents can contact the school at 6560 6866 for discussion or to seek clarification about the school’s sexuality education programme.  <br>
 
@@ -200,4 +199,4 @@ Parents who wish to attend the school sexuality education programmes, should con
 	
 </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div></li></ul>
