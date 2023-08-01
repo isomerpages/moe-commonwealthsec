@@ -90,22 +90,12 @@ At Commonwealth Secondary School, the eTeens programme will be implemented as fo
 
 <p></p>
 
-<h3>INFORMATION FOR PARENTS</h3>
+<h3>Information for Parents</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-<p>
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 6/2/2023.<br>
 
-Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;  <br>
-
-Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year. The completed form is to be submitted by 27/01/2022. <br>
-
-Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex%20B.pdf">here</a> The completed form is to be submitted by 27/01/2022. <br>
+Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here.  The completed form is to be submitted by 6/2/2023. <br>
 
 Parents can contact the school at 6560 6866 for discussion or to seek clarification about the school’s sexuality education programme.  <br>
-
-Parents who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.	
-	
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
