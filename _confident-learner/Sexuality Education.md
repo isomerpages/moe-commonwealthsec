@@ -96,6 +96,6 @@ Parents may opt their children out of the Sexuality Education lessons, eTeens an
 
 Parents who wish to opt their children out of the Sexuality Education lessons need to complete an online opt-out form on the FormSG platform. This form will be distributed to parents at the start of the year via Parents Gateway. The completed form is to be submitted by 6/2/2023.<br>
 
-Parents who wish to opt their children out of the eTeens programme need to complete an online opt-out form on the FormSG platform. This form will be distributed to parents at the start of the year via Parents Gateway. It is also downloadable here and can be submitted in hardcopy.  The completed form is to be submitted by 6/2/2023. <br>
+Parents who wish to opt their children out of the eTeens programme need to complete an online opt-out form on the FormSG platform. This form will be distributed to parents at the start of the year via Parents Gateway. It is also downloadable [here](/files/eteens%20parents%20opt-out%20form%20(sec)%202023.pdf) and can be submitted in hardcopy.  The completed form is to be submitted by 6/2/2023. <br>
 
 Parents can contact the school at 6560 6866 for discussion or to seek clarification about the school’s sexuality education programme.  <br>
