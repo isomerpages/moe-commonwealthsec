@@ -3,7 +3,7 @@ title: Compassionate Leaders
 permalink: /compassionate-leaders
 description: ""
 ---
-COMPASSIONATE LEADERS
+Compassionate Leaders
 =====================
 
 Commonwealth Secondary School believes that every child is unique and can grow to champion something worthy in the future. Anchored in our WEALTH values (Warmth, Enterprise, Adventurousness, Loyalty, Tenacity, Honour), every child is mentored by a Champion Mentor from Sec 1 to graduation, to be a Compassionate Leader. 
