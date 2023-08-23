@@ -5,10 +5,11 @@ description: ""
 ---
 | Name | Appointment
 | -------- | --------
-| Mr Bernard Chan Teck Hock   | Chairperson
-| Mdm Harjit Kaur   | Vice-Chairperson
-| Mr Ee Kuo-Ren   | Member
-| Mr Lam Yen Gi Gideon   | Member
-|  Ms Jill Wong   | Member
-|  Ms Lim Ting Ting   | Member
-| Mr Jeremy Ang   | Honorary Secretary
+| Mr Bernard Chan Teck Hock | Chairperson
+| Mdm Harjit Kaur | Vice-Chairperson
+| Mr Ee Kuo-Ren | Member
+| Mr Lam Yen Gi Gideon | Member
+| Ms Jill Wong | Member
+| Ms Lim Ting Ting | Member
+| Mr Muhammad Haikal Bin Muhammad Ridwan Yeo | Member
+| Mr Jeremy Ang | Honorary Secretary
