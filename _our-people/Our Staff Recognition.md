@@ -18,7 +18,7 @@ description: ""
 
 ### 2022
 ##### National Day Awards 2022
-| Commendation Award |
+|Commendation Award |
 | -----|
 | Ms Siti Saadiah Binti Abdul Aziz |
 | Mdm Vineeta |
