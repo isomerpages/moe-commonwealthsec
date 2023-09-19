@@ -84,3 +84,27 @@ description: ""
 |Mrs Leong Sai Hong (25 years) |
 |Mdm Vineeta (25 years) |
 |Mr Ng Han Liat (25 years) |
+
+### 2020
+##### Long Service Award 2021
+|Long Service|
+| -----|
+|  Mdm Shamira Binte Ahmad Sapari (5 years)|
+|Mr Suhaimi Bin Mohamed (5 years)  |
+|  Ms Hoo Pei Xian (5 years)|
+| Ms Nabilah Binti Mohd Rashid (5 years) |
+|Ms Yee Ziyun Noella (5 years)  |
+|Mr Thirumalaisamy Veerappan (10 years)  |
+| Mr Muhamamd Aidil Bin Noor (10 years) |
+| Mr Quek Jie Rong Elson (10 years) |
+|Mr Liew Chen Kong (10 years)  |
+|  Ms Bao Ya (10 years)|
+| Mr Zuwardy Bin Said (15 years) |
+|Ms Ong Yi Min (15 years)  |
+|  Ms Tian Yilin (15 years)|
+| Ms Chan Foong Keng (20 years) |
+|  Mdm Ng Ai Mei (20 years)|
+|  Mdm Ong Lay Choo (25 years)|
+| Mdm Quek Lay Hong (25 years) |
+|  Mrs Wong Sok Foon (25 years)|
+|  Ms S Pushpvalli (40 years)|
