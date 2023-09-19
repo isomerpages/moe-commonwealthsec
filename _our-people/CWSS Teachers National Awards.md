@@ -16,3 +16,20 @@ description: ""
 | Mdm Rukmani |
 | Mdm Shabnam Lena |
 
+### 2022
+
+| Commendation Award |
+| -----|
+| Ms Siti Saadiah Binti Abdul Aziz |
+| Mdm Vineeta |
+
+|Long Service Medal |
+| -----|
+| Mdm Liew Siew Mui |
+| Mdm Tan Sai Hong |
+| Mr Cheong Hock Soan |
+| Ms Chia Siang Hwa Megan |
+| Mr Edwin Lim Yong Hwee |
+
+| Long Service Award  |
+| -----|
