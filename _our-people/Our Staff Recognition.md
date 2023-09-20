@@ -45,7 +45,7 @@ description: ""
 | Ms Tan Hui Lin (10 years) |
 | Ms Lee Ying Jie (10 years) |
 | Mr Cheon Chee Yong (10 years) |
-| Ms Low Yee Lin ( 10 years) |
+| Ms Low Yee Lin (10 years) |
 | Mrs Toh Liting (15 years) |
 | Ms Ang Si Ling (15 years) |
 | Mr Theeyagaspara Dyal Olagnathan (20 years) |
@@ -99,7 +99,7 @@ description: ""
 
 | Long Service |
 | ----- |
-| Mdm Shamira Binte Ahmad Sapari (5 years|
+| Mdm Shamira Binte Ahmad Sapari (5 years) |
 | Mr Suhaimi Bin Mohamed (5 years) |
 | Ms Hoo Pei Xian (5 years) |
 | Ms Nabilah Binti Mohd Rashid (5 years) |
