@@ -24,16 +24,16 @@ description: ""
 
 | Commendation Award |
 | ----- |
-| Ms Siti Saadiah Binti Abdul Aziz |
-| Mdm Vineeta |
+| Ms Saadiah Binti Abdul Aziz |
 
 | Long Service Medal |
 | ----- |
 | Mdm Liew Siew Mui |
-| Mdm Tan Sai Hong |
+| Mrs Leong Sai Hong |
 | Mr Cheong Hock Soan |
 | Ms Chia Siang Hwa Megan |
 | Mr Edwin Lim Yong Hwee |
+| Mdm Vineeta |
 
 ##### Long Service Award 2022
 
@@ -105,7 +105,7 @@ description: ""
 | Ms Nabilah Binti Mohd Rashid (5 years) |
 | Ms Yee Ziyun Noella (5 years) |
 | Mr Thirumalaisamy Veerappan (10 years) |
-| Mr Muhamamd Aidil Bin Noor (10 years) |
+| Mr Muhammad Aidil Bin Noor (10 years) |
 | Mr Quek Jie Rong Elson (10 years) |
 | Mr Liew Chen Kong (10 years) |
 | Ms Bao Ya (10 years) |
@@ -117,4 +117,4 @@ description: ""
 | Mdm Ong Lay Choo (25 years) |
 | Mdm Quek Lay Hong (25 years) |
 | Mrs Wong Sok Foon (25 years) |
-| Ms S Pushpvalli (40 years)|
+| Ms S Pushpavalli (40 years)|
