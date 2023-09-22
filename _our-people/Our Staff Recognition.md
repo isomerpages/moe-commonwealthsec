@@ -37,23 +37,35 @@ description: ""
 
 ##### Long Service Award 2022
 
-| Long Service |
+| 5 years |
 | ----- |
-| Ms Nur Aisyah Binte Shukor (5 years) |
-| Ms Joey Lim Pei Si (5 years) |
-| Mr Rudy Hakem Sulaiman (5 years) |
-| Ms Tan Hui Lin (10 years) |
-| Ms Lee Ying Jie (10 years) |
-| Mr Cheon Chee Yong (10 years) |
-| Ms Low Yee Lin (10 years) |
-| Mrs Toh Liting (15 years) |
-| Ms Ang Si Ling (15 years) |
-| Mr Theeyagaspara Dyal Olagnathan (20 years) |
-| Mr Tan Jack Woan (20 years) |
-| Mr Liang Lu (25 years) |
-| Mr Cheong Hock Soan (25 years) |
-| Ms Chia Siang Hwa Megan (25 years) |
-| Mdm Liew Siew Mui (25 years) |
+| Ms Nur Aisyah Binte Shukor |
+| Ms Joey Lim Pei Si |
+| Mr Rudy Hakem Sulaiman |
+
+| 10 years |
+| ----- |
+| Ms Tan Hui Lin |
+| Ms Lee Ying Jie |
+| Mr Cheon Chee Yong |
+| Ms Low Yee Lin |
+
+| 15 years |
+| ----- |
+| Mrs Toh Liting |
+| Ms Ang Si Ling |
+
+| 20 years |
+| ----- |
+| Mr Theeyagaspara Dyal Olagnathan |
+| Mr Tan Jack Woan |
+
+| 25 years |
+| ----- |
+| Mr Liang Lu |
+| Mr Cheong Hock Soan |
+| Ms Chia Siang Hwa Megan |
+| Mdm Liew Siew Mui |
 
 ### 2021
 
@@ -67,54 +79,81 @@ description: ""
 
 ##### Long Service Award 2021
 
-| Long Service |
+| 5 years |
 | ----- |
-| Mdm Toh Siau Yien (5 years) |
-| Ms Lye Zhen Xi (5 years) |
-| Ms Nur Amalina Binte Shalan (5 years) |
-| Ms Mas Rafidah Binte Mohamed Ali (5 years) |
-| Ms Shalini D/O Chandran (5 years) |
-| Mr De Roza Wayne Gerard (10 years) |
-| Mr Musa Shukor (10 years) |
-| Ms Chew Puay Yin, Jasmine (10 years) |
-| Ms Seah Pei Shan Elizabeth (10 years) |
-| Ms Sia Ling Ee (10 years) |
-| Ms Lee Li-Hui Edlyn (10 years) |
-| Ms Chang Chooi Ping Claudia Marie (10 years) |
-| Ms Nuradilah Binte Ramlan (10 years) |
-| Mdm Dasari Brinda Nagaraju (10 years) |
-| Mdm Wong Yee May (15 years) |
-| Mdm Gopal Chitradevi (15 years) |
-| Mr Rizman Bin Hassan (15 years) |
-| Mr Lew Keng Wah, Simon (15 years) |
-| Mr Rafeek Ahmed S/O Abdul Majeed (20 years) |
-| Mr Edwin Lim Yong Hwee (25 years) |
-| Mrs Leong Sai Hong (25 years) |
-| Mdm Vineeta (25 years) |
-| Mr Ng Han Liat (25 years) |
+| Mdm Toh Siau Yien |
+| Ms Lye Zhen Xi |
+| Ms Nur Amalina Binte Shalan |
+| Ms Mas Rafidah Binte Mohamed Ali |
+| Ms Shalini D/O Chandran |
+
+| 10 years |
+| ----- |
+| Mr De Roza Wayne Gerard |
+| Mr Musa Shukor |
+| Ms Chew Puay Yin, Jasmine |
+| Ms Seah Pei Shan Elizabeth |
+| Ms Sia Ling Ee |
+| Ms Lee Li-Hui Edlyn |
+| Ms Chang Chooi Ping Claudia Marie |
+| Ms Nuradilah Binte Ramlan |
+| Mdm Dasari Brinda Nagaraju |
+
+| 15 years |
+| ----- |
+| Mdm Wong Yee May |
+| Mdm Gopal Chitradevi |
+| Mr Rizman Bin Hassan |
+| Mr Lew Keng Wah, Simon |
+
+| 20 years |
+| ----- |
+| Mr Rafeek Ahmed S/O Abdul Majeed |
+
+| 25 years |
+| ----- |
+| Mr Edwin Lim Yong Hwee |
+| Mrs Leong Sai Hong |
+| Mdm Vineeta |
+| Mr Ng Han Liat |
 
 ### 2020
 
 ##### Long Service Award 2020
 
-| Long Service |
+| 5 years |
 | ----- |
-| Mdm Shamira Binte Ahmad Sapari (5 years) |
-| Mr Suhaimi Bin Mohamed (5 years) |
-| Ms Hoo Pei Xian (5 years) |
-| Ms Nabilah Binti Mohd Rashid (5 years) |
-| Ms Yee Ziyun Noella (5 years) |
-| Mr Thirumalaisamy Veerappan (10 years) |
-| Mr Muhammad Aidil Bin Noor (10 years) |
-| Mr Quek Jie Rong Elson (10 years) |
-| Mr Liew Chen Kong (10 years) |
-| Ms Bao Ya (10 years) |
-| Mr Zuwardy Bin Said (15 years) |
-| Ms Ong Yi Min (15 years) |
-| Ms Tian Yilin (15 years) |
-| Ms Chan Foong Keng (20 years) |
-| Mdm Ng Ai Mei (20 years) |
-| Mdm Ong Lay Choo (25 years) |
-| Mdm Quek Lay Hong (25 years) |
-| Mrs Wong Sok Foon (25 years) |
-| Ms S Pushpavalli (40 years)|
+| Mdm Shamira Binte Ahmad Sapari |
+| Mr Suhaimi Bin Mohamed |
+| Ms Hoo Pei Xian |
+| Ms Nabilah Binti Mohd Rashid |
+| Ms Yee Ziyun Noella |
+
+| 10 years |
+| ----- |
+| Mr Thirumalaisamy Veerappan |
+| Mr Muhammad Aidil Bin Noor |
+| Mr Quek Jie Rong Elson |
+| Mr Liew Chen Kong |
+| Ms Bao Ya |
+
+| 15 years |
+| ----- |
+| Mr Zuwardy Bin Said |
+| Ms Ong Yi Min |
+| Ms Tian Yilin |
+
+| 20 years |
+| ----- |
+| Ms Chan Foong Keng |
+| Mdm Ng Ai Mei |
+
+| 25 years |
+| ----- |
+| Mdm Ong Lay Choo |
+| Mdm Quek Lay Hong |
+| Mrs Wong Sok Foon |
+
+| 40 years |
+| ----- |
+| Ms S Pushpavalli |
