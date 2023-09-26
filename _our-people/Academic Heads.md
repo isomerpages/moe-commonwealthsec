@@ -3,8 +3,6 @@ title: Academic Heads
 permalink: /our-people/00-academic-head/
 description: ""
 ---
-
-
 | Name | Designation | Email | 
 | -------- | -------- | -------- |
 | Mr Tan Jack Woan     | School Staff Developer     | tan.jackwoan@cwss.moe.edu.sg     |
@@ -21,3 +19,4 @@ description: ""
 | Mr Musa Bin Shukor   | Subject Head English Language      | musa.shukor@cwss.moe.edu.sg     |
 | Ms Megan Chia Siang Hwa    | Subject Head Mathematics    |  megan.chia@cwss.moe.edu.sg    |
 | Mr Cheon Chee Yong      | Subject Head Chinese Language  | cheon.cheeyong@cwss.moe.edu.sg     |
+| Ms Vinodhini M Selveindran     | Subject Head Science and Research  | vinodhini@cwss.moe.edu.sg     |
