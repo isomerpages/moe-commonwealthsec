@@ -35,7 +35,7 @@ description: ""
 | -------- | -------- | -------- |
 |3 Curie    |   [Ms Tian Yi Lin ](mailto:tian.yilin@cwss.moe.edu.sg)  | [Ms Mok Sheaupei](mailto:mok.sheaupei@cwss.moe.edu.sg)     |
 | 3 Hawking    |   [Ms Hoo Pei Xian](mailto:hoo.peixian@cwss.moe.edu.sg)   | [Ms Vinodhini M Selveindran ](mailto:vinodhini@cwss.moe.edu.sg)     |
-| 3 Armstrong    |   [Miss Low Yee Lin](mailto:low.yeelin@cwss.moe.edu.sg)   | [Ms Sophia Lim ](mailto:sophia.lim@cwss.moe.edu.sg)     |
+| 3 Armstrong    |   [Ms Low Yee Lin](mailto:low.yeelin@cwss.moe.edu.sg)   | [Ms Sophia Lim ](mailto:sophia.lim@cwss.moe.edu.sg)     |
 | 3 Mandela  |   [Ms Nuradilah Ramlan](mailto:nuradilah.ramlan@cwss.moe.edu.sg)   | [Mr Peter Lim ](mailto:peter.lim@cwss.moe.edu.sg)   |
 | 3 Polo  |   [Mr Jacob Tan](mailto:jacob.tan@cwss.moe.edu.sg)   | [Mr Rizman Hassan](mailto:rizman.hassan@cwss.moe.edu.sg)     |
 | 3 Ip Man  |  [ Mr Heng Swee Kee](mailto:heng.sweekee@cwss.moe.edu.sg)   |  [Ms Lai Ying Ying](mailto:lai.yingying@cwss.moe.edu.sg)   |
