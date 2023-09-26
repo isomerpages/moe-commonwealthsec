@@ -3,9 +3,6 @@ title: Our Teaching Staff
 permalink: /our-people/00-our-teaching-staff/
 description: ""
 ---
-
-
-
 | Name | Department | 
 | --------------- | --------------- |
 | [Miss Adelia Nivaashini](mailto:nivaashini@cwss.moe.edu.sg)|	English Language & Literature  |
@@ -85,7 +82,9 @@ description: ""
  | 	 | Mathematics  | 
   | [Mrs June Tang- Lee Wei-](mailto:june.tang@cwss.moe.edu.sg) 	 | Humanities  | 
  | [Mdm Teo Puay Siong Rene](mailto:rene.teopuaysiong@cwss.moe.edu.sg) 	 | Humanities   | 
- | [Mdm Veronica Teo](mailto:veronica.teo@cwss.moe.edu.sg)	 | English Language & Literature   | 
+  | [Mdm Veronica Teo](mailto:veronica.teo@cwss.moe.edu.sg)	 | English Language & Literature   | 
+| [Ms Vinodhini M Selveindran](mailto:vinodhini@cwss.moe.edu.sg)	 | Subject Head (Science and Research)   | 
+ | 	| Sciences| 
   | [Mrs Audrey Tham](mailto:audrey.tham@cwss.moe.edu.sg)	 | English Language & Literature  | 
   |  [Ms Tian Yilin](mailto:tian.yilin@cwss.moe.edu.sg)	 | Sciences   | 
   | [Mdm Toh Siau Yien](mailto:toh.siauyien@cwss.moe.edu.sg) 	 |  Mother Tongue Languages  | 
