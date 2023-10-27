@@ -12,14 +12,14 @@ sections:
       key_highlights:
         - title: Design & Innovation
           description: ""
-          url: " https://sway.office.com/FFEksk6wAeEmzj0U?ref=Link"
+          url: https://sway.office.com/FFEksk6wAeEmzj0U?ref=Link
         - title: Trailblazer Programme
           description: ""
           url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/the-trailblazer-programme
         - title: Design Thinking
           description: ""
           url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/design-thinking
-        - title: Biodiversity
+        - title: Eco-Stewardship Programme
           description: ""
           url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/environmental-education
       background: /images/cwss open house 2022 (105 × 148 cm) (facebook cover) (1).png
