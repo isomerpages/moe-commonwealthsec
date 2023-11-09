@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: https://staging.d2q8d178bncjmq.amplifyapp.com/VirtualCWSSExp/virtual-tour/
+      url: https://www.commonwealthsec.moe.edu.sg/VirtualCWSSExp/virtual-tour/
       button: Experience CWSS Virtually
       key_highlights:
         - title: Design & Innovation
