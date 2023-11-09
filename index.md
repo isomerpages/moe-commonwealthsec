@@ -23,8 +23,11 @@ sections:
           description: ""
           url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/environmental-education
       background: /images/cwss open house 2022 (105 × 148 cm) (facebook cover) (1).png
-  - resources:
-      title: Latest News
-      id: resources
-      button: Parents
+  - infopic:
+      title: Infopic
+      subtitle: Open House 2023
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
