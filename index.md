@@ -29,7 +29,7 @@ sections:
       id: infopic
       description: Join us on Saturday 18 November 2023 from 8.30am to 1.30pm to
         immerse yourselves in the Commonwealth Experience!
-      alt: Image alt text
+      alt: Open House 2023
       image: /images/Info material/open house 2023 postcard.png
   - infopic:
       title: Halal Noodles Stall
@@ -38,7 +38,7 @@ sections:
       description: We are looking for a vibrant stall holder who is innovative in
         coming up with appetizing and healthy dishes for our school population.
       button: Click here for more Info
-      alt: Image alt text
+      alt: Food Stall Available
       url: https://go.gov.sg/cwss-halal-noodle-stall-2024
       image: /images/Info material/foodstall opportunity.PNG
 ---
