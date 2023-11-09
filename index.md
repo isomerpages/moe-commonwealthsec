@@ -35,7 +35,10 @@ sections:
       title: Halal Noodles Stall
       subtitle: Canteen Stall Opportunities
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: We are looking for a vibrant stall holder who is innovative in
+        coming up with appetizing and healthy dishes for our school population.
+      button: Click here for more Info
       alt: Image alt text
+      url: https://go.gov.sg/cwss-halal-noodle-stall-2024
+      image: /images/Info material/foodstall opportunity.PNG
 ---
