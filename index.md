@@ -31,6 +31,8 @@ sections:
         immerse yourselves in the Commonwealth Experience!
       alt: Open House 2023
       image: /images/Info material/open house 2023 postcard.png
+      button: CLICK Here for more information
+      url: /permalink/open-house-2023/
   - infopic:
       title: Halal Noodles Stall
       subtitle: Canteen Stall Opportunities
