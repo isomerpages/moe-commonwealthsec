@@ -8,4 +8,4 @@ description: ""
 ![](/images/Open%20House%202023/Photo_release.png)
 ![](/images/Open%20House%202023/Redemption_Instructions__A3_or_A4_.png)
 # Tell us what you think!
-Complete this survey [go.gov.sg/cwssopenhousesurvey](go.gov.sg/cwssopenhousesurvey)
+Complete this survey [go.gov.sg/cwssopenhousesurvey](https://form.gov.sg/6552ca689c7f40001108cde9)
