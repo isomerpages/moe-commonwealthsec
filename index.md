@@ -7,22 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: https://www.commonwealthsec.moe.edu.sg/VirtualCWSSExp/virtual-tour/
-      button: Experience CWSS Virtually
-      key_highlights:
-        - title: Design & Innovation
-          description: ""
-          url: https://sway.office.com/FFEksk6wAeEmzj0U?ref=Link
-        - title: Trailblazer Programme
-          description: ""
-          url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/the-trailblazer-programme
-        - title: Design Thinking
-          description: ""
-          url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/design-thinking
-        - title: Eco-Stewardship Programme
-          description: ""
-          url: https://staging.d2q8d178bncjmq.amplifyapp.com/imaginative-trailblazers/environmental-education
-      background: /images/cwss open house 2022 (105 × 148 cm) (facebook cover) (1).png
+      background: /images/Open House 2023/G12147_8x40_25.jpg
+      dropdown:
+        title: Open House 2023
+        options:
+          - title: Open House Information
+            url: /permalink/open-house-2023/
+          - title: Virtual CWSS Experience
+            url: /virtualcwssexp/virtual-tour/
   - infopic:
       title: Open House 2023
       subtitle: Upcoming event
@@ -31,6 +23,8 @@ sections:
         immerse yourselves in the Commonwealth Experience!
       alt: Open House 2023
       image: /images/Info material/open house 2023 postcard.png
+      button: CLICK Here for more information
+      url: /permalink/open-house-2023/
   - infopic:
       title: Halal Noodles Stall
       subtitle: Canteen Stall Opportunities
