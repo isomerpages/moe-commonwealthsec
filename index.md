@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Open House 2023/G12147_8x40_25.jpg
       dropdown:
-        title: Open House 2023
+        title: CWSS Experience
         options:
           - title: Virtual CWSS Experience
             url: /virtualcwssexp/virtual-tour/
