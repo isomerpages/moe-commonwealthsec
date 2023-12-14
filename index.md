@@ -13,7 +13,7 @@ sections:
         options:
           - title: Virtual CWSS Experience
             url: /virtualcwssexp/virtual-tour/
-      variant: side
+      variant: center
       size: md
       alignment: left
 ---
