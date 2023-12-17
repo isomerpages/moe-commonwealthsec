@@ -2,6 +2,7 @@ collections:
   2024-secondary-1-registration:
     output: true
     order:
+      - Financial Assistance Schemes.md
       - Application for 3rd Language.md
       - Eligibility for Higher Mother Tongue.md
       - Eligibility to take subject at a higher stream.md
