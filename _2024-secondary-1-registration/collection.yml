@@ -1,4 +1,5 @@
 collections:
   2024-secondary-1-registration:
     output: true
-    order: []
+    order:
+      - Information for Parents and Principal's Letter.md
