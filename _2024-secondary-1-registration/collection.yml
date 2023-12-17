@@ -2,6 +2,6 @@ collections:
   2024-secondary-1-registration:
     output: true
     order:
-      - 1st Day Reporting Details.md
-      - Uniform and Textbook Purchase.md
       - Information for Parents and Principal's Letter.md
+      - Uniform and Textbook Purchase.md
+      - 1st Day Reporting Details.md
