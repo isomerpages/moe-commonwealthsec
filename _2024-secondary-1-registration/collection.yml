@@ -2,6 +2,7 @@ collections:
   2024-secondary-1-registration:
     output: true
     order:
+      - CCA Induction Programme.md
       - Orientation Camp.md
       - Information for Parents and Principal's Letter.md
       - Uniform and Textbook Purchase.md
