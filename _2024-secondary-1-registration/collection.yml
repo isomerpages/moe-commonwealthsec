@@ -2,6 +2,7 @@ collections:
   2024-secondary-1-registration:
     output: true
     order:
+      - Eligibility to take subject at a higher stream.md
       - CCA Induction Programme.md
       - Orientation Camp.md
       - Information for Parents and Principal's Letter.md
