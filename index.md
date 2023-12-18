@@ -26,7 +26,7 @@ sections:
         Secondary School. Please note that students need not physically report
         to the school on 21 Dec 2023.
       button: more information
-      url: permalink/2024-secondary-1-registration/permalink/para1/
+      url: /2024-secondary-1-registration/permalink/para1/
       image: /images/MicrosoftTeams_image__83_.png
       alt: Image alt text
 ---
