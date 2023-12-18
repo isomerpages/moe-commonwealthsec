@@ -16,4 +16,15 @@ sections:
       variant: center
       size: md
       alignment: left
+  - infopic:
+      title: Welcome!
+      subtitle: Secondary 1 Posting
+      id: infopic
+      description: Congratulations on your successful posting to Commonwealth
+        Secondary School. Please note that students need not physically report
+        to the school on 21 Dec 2023.
+      button: CLICK Here for more information
+      url: /permalink/
+      image: /images/MicrosoftTeams_image__83_.png
+      alt: Image alt text
 ---
