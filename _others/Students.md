@@ -1,7 +1,8 @@
 ---
 title: Students
-permalink: /others/students
+permalink: /others/students/
 description: ""
+variant: markdown
 ---
 Students
 ========
@@ -11,7 +12,7 @@ Students
 Important Announcement
 ----------------------
 
-### [Instructions for Home Based Learning (Updated 18 May 2021)](/files/FHBL%20Instructions%2017%20May%202021.pdf)
+
 
 ACADEMICS
 ---------
@@ -20,7 +21,6 @@ ACADEMICS
 
 [SEAB](http://www.seab.gov.sg/)        
 
-[ASKLEARN](https://lms.asknlearn.com/CWSS/logon_new.aspx) **(BROKEN LINK)**
 
 [SCHOOL LIBRARY OPAC LINK](https://schoolibrary.moe.edu.sg/commonwealthsec)
 
@@ -33,6 +33,6 @@ HEALTH
 
 [MINISTRY OF HEALTH](http://www.moh.gov.sg/)    
 
-[ADVISORY FOR HAZE](http://www.nea.gov.sg/psi/) **(BROKEN LINK)**
+[ADVISORY FOR HAZE](https://www.haze.gov.sg/)
 
 [SPORTS SAFETY](http://www.sportsingapore.gov.sg/sports-education/sports-safety)

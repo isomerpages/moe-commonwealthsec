@@ -9,30 +9,24 @@ sections:
   - hero:
       background: /images/Open House 2023/G12147_8x40_25.jpg
       dropdown:
-        title: Open House 2023
+        title: Secondary 1 Posting Exercise
         options:
-          - title: Open House Information
-            url: /permalink/open-house-2023/
           - title: Virtual CWSS Experience
             url: /virtualcwssexp/virtual-tour/
+          - title: Sec 1 Registration Information
+            url: /2024-secondary-1-registration/permalink/para1/
+      variant: center
+      size: md
+      alignment: left
   - infopic:
-      title: Open House 2023
-      subtitle: Upcoming event
+      title: Welcome!
+      subtitle: Secondary 1 Posting
       id: infopic
-      description: Join us on Saturday 18 November 2023 from 8.30am to 1.30pm to
-        immerse yourselves in the Commonwealth Experience!
-      alt: Open House 2023
-      image: /images/Info material/open house 2023 postcard.png
-      button: CLICK Here for more information
-      url: /permalink/open-house-2023/
-  - infopic:
-      title: Halal Noodles Stall
-      subtitle: Canteen Stall Opportunities
-      id: infopic
-      description: We are looking for a vibrant stall holder who is innovative in
-        coming up with appetizing and healthy dishes for our school population.
-      button: Click here for more Info
-      alt: Food Stall Available
-      url: https://go.gov.sg/cwss-halal-noodle-stall-2024
-      image: /images/Info material/foodstall opportunity.PNG
+      description: Congratulations on your successful posting to Commonwealth
+        Secondary School. Please note that students need not physically report
+        to the school on 21 Dec 2023.
+      button: more information
+      url: /2024-secondary-1-registration/permalink/para1/
+      image: /images/MicrosoftTeams_image__83_.png
+      alt: Image alt text
 ---
