@@ -14,7 +14,7 @@ sections:
           - title: Virtual CWSS Experience
             url: /virtualcwssexp/virtual-tour/
           - title: Sec 1 Registration Information
-            url: 2024-secondary-1-registration/permalink/para1/
+            url: /2024-secondary-1-registration/permalink/para1/
       variant: center
       size: md
       alignment: left
