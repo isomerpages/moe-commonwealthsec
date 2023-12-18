@@ -9,10 +9,12 @@ sections:
   - hero:
       background: /images/Open House 2023/G12147_8x40_25.jpg
       dropdown:
-        title: CWSS Experience
+        title: Secondary 1 Posting Exercise
         options:
           - title: Virtual CWSS Experience
             url: /virtualcwssexp/virtual-tour/
+          - title: Sec 1 Registration Information
+            url: permalink/2024-secondary-1-registration/permalink/para1/
       variant: center
       size: md
       alignment: left
