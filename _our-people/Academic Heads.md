@@ -2,11 +2,12 @@
 title: Academic Heads
 permalink: /our-people/00-academic-head/
 description: ""
+variant: markdown
 ---
 | Name | Designation | Email | 
 | -------- | -------- | -------- |
 | Mr Tan Jack Woan     | School Staff Developer     | tan.jackwoan@cwss.moe.edu.sg     |
-|  Ms Valerie Yeo Xiuting    | Head of Department English Language and Literature | valerie.yeo@cwss.moe.edu.sg    |
+|  Mr Lin Weiquan    | Head of Department English Language and Literature | [lin.weiquan@cwss.moe.edu.sg](mailto:lin.weiquan@cwss.moe.edu.sg)    |
 | Ms Sia Ling Ee    | Head of Department Humanities | sia.lingee@cwss.moe.edu.sg     |
 |  Mrs Wong Sok Foon   | Head of Department Info-Communication Technology |  wong.sokfoon@cwss.moe.edu.sg     |
 | Ms Ye Dan     | Head of Department Innovation & Design   | ye.dan@cwss.moe.edu.sg      |
