@@ -14,3 +14,4 @@ variant: markdown
 |Ms Sophia Lim     | Assistant Year Head     |  sophia.lim@cwss.moe.edu.sg     |
 | Mr Lew Keng Wah, Simon      | Subject Head Citizenship & Character Education    | simon.lew@cwss.moe.edu.sg      |
 | Mr Yusman Yusoff     | Subject Head Co-Curricular Activities |  muhammad.yusman@cwss.moe.edu.sg     |
+| Mrs Noella Chua    | Subject Head Student Leadership |  [noella.yee@cwss.moe.edu.sg](noella.yee@cwss.moe.edu.sg)     |
