@@ -2,13 +2,8 @@
 title: Student Development Heads
 permalink: /our-people/00-student-development-head-copy/
 description: ""
+variant: markdown
 ---
-
-
-
-
-
-
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Ms Saadiah Aziz    | Year Head     | saadiah.aziz@cwss.moe.edu.sg    |
