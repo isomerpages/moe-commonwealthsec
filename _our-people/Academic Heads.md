@@ -2,11 +2,12 @@
 title: Academic Heads
 permalink: /our-people/00-academic-head/
 description: ""
+variant: markdown
 ---
 | Name | Designation | Email | 
 | -------- | -------- | -------- |
 | Mr Tan Jack Woan     | School Staff Developer     | tan.jackwoan@cwss.moe.edu.sg     |
-|  Ms Valerie Yeo Xiuting    | Head of Department English Language and Literature | valerie.yeo@cwss.moe.edu.sg    |
+|  Mr Lin Weiquan    | Head of Department English Language and Literature | [lin.weiquan@cwss.moe.edu.sg](mailto:lin.weiquan@cwss.moe.edu.sg)    |
 | Ms Sia Ling Ee    | Head of Department Humanities | sia.lingee@cwss.moe.edu.sg     |
 |  Mrs Wong Sok Foon   | Head of Department Info-Communication Technology |  wong.sokfoon@cwss.moe.edu.sg     |
 | Ms Ye Dan     | Head of Department Innovation & Design   | ye.dan@cwss.moe.edu.sg      |
@@ -17,6 +18,5 @@ description: ""
 | Mdm Rubiyah Bte Khamis   | Subject Head Design & Technology| rubiyah.khamis@cwss.moe.edu.sg       |
 | Mr Rizman Bin Hassan    |  Subject Head Educational Technology    |rizman.hassan@cwss.moe.edu.sg      |
 | Mr Musa Bin Shukor   | Subject Head English Language      | musa.shukor@cwss.moe.edu.sg     |
-| Ms Megan Chia Siang Hwa    | Subject Head Mathematics    |  megan.chia@cwss.moe.edu.sg    |
 | Mr Cheon Chee Yong      | Subject Head Chinese Language  | cheon.cheeyong@cwss.moe.edu.sg     |
 | Ms Vinodhini M Selveindran     | Subject Head Science and Research  | vinodhini@cwss.moe.edu.sg     |

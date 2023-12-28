@@ -2,13 +2,8 @@
 title: Student Development Heads
 permalink: /our-people/00-student-development-head-copy/
 description: ""
+variant: markdown
 ---
-
-
-
-
-
-
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Ms Saadiah Aziz    | Year Head     | saadiah.aziz@cwss.moe.edu.sg    |
@@ -19,3 +14,4 @@ description: ""
 |Ms Sophia Lim     | Assistant Year Head     |  sophia.lim@cwss.moe.edu.sg     |
 | Mr Lew Keng Wah, Simon      | Subject Head Citizenship & Character Education    | simon.lew@cwss.moe.edu.sg      |
 | Mr Yusman Yusoff     | Subject Head Co-Curricular Activities |  muhammad.yusman@cwss.moe.edu.sg     |
+| Mrs Noella Chua    | Subject Head Student Leadership |  [noella.yee@cwss.moe.edu.sg](noella.yee@cwss.moe.edu.sg)     |
