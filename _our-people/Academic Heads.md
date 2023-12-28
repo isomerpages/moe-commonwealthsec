@@ -18,6 +18,5 @@ variant: markdown
 | Mdm Rubiyah Bte Khamis   | Subject Head Design & Technology| rubiyah.khamis@cwss.moe.edu.sg       |
 | Mr Rizman Bin Hassan    |  Subject Head Educational Technology    |rizman.hassan@cwss.moe.edu.sg      |
 | Mr Musa Bin Shukor   | Subject Head English Language      | musa.shukor@cwss.moe.edu.sg     |
-| Ms Megan Chia Siang Hwa    | Subject Head Mathematics    |  megan.chia@cwss.moe.edu.sg    |
 | Mr Cheon Chee Yong      | Subject Head Chinese Language  | cheon.cheeyong@cwss.moe.edu.sg     |
 | Ms Vinodhini M Selveindran     | Subject Head Science and Research  | vinodhini@cwss.moe.edu.sg     |
