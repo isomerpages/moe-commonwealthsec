@@ -4,7 +4,7 @@ permalink: /our-people/00-our-allied-educators/
 variant: markdown
 description: ""
 ---
-| Appointment | Name | Email | 
+| Designation | Name | Email | 
 | ------ | ------ |------ |
 | School Counsellor | Mr Theeyagaspara Dyal Olaganathan | [to.nathan@cwss.moe.edu.sg](mailto:to.nathan@cwss.moe.edu.sg) |
 | Educational Career Guidance (ECG) Counsellor | Ms Melisa Lim | [melisa.limjitboon@cwss.moe.edu.sg](mailto:melisa.limjitboon@cwss.moe.edu.sg) |
