@@ -8,4 +8,4 @@ variant: markdown
 | -------- | -------- |
 | Principal    | Mr Jeremy Ang    |
 | Vice-Principal    | Mr Daniel Ong   |
-| Vice-Principal     | Mrs Claire Cho - Tan Shi Ying     |
+| Vice-Principal     | Mrs Claire Cho-Tan Shi Ying     |
