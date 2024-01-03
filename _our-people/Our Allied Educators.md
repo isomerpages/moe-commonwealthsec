@@ -4,7 +4,7 @@ permalink: /our-people/00-our-allied-educators/
 variant: markdown
 description: ""
 ---
-|   Role   |   Name   | 
+|   Role   |   Name and Email   | 
 | --------------- | --------------- |
 |   School Counsellor   |   [Mr Theeyagaspara Dyal Olaganathan](mailto:theeyagaspara_dyal_olagnathan@schools.gov.sg)|
 |   Educational Career Guidance (ECG) Counsellor   |   [Ms Melisa Lim](mailto:lim_jit_boon_melisa@schools.gov.sg)  |
