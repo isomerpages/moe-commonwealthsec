@@ -7,6 +7,7 @@ variant: markdown
 | Name | Department | 
 | --------------- | --------------- |
 |[Ms Aiswarya Manickavasagam](mailto:aiswarya@cwss.moe.edu.sg) 	 |Mother Tongue Languages|
+|[Ms Alvina Leong](mailto:alvina.leong@cwss.moe.edu.sg) 	 |PE & CCA |
 |[Mrs Ang -Wong Yee May](mailto:wong.yeemay@cwss.moe.edu.sg) 	|Mathematics |
 | [Ms Bao Ya](mailto:bao.ya@cwss.moe.edu.sg)	|Mother Tongue Languages |
 | [Ms Jaclyn Chan Pei Yi](mailto:jaclyn.chanpeiyi@cwss.moe.edu.sg)	|Sciences |
@@ -21,7 +22,6 @@ variant: markdown
 |[Mdm Dasari Brinda Nagaraju](mailto:brinda@cwss.moe.edu.sg) 	|English Language & Literature |
  |[Miss Goh Jee Meng](mailto:goh.jeemeng@cwss.moe.edu.sg)	|Humanities |
  |[Mdm Gopal Chitradevi](mailto:gopal.chitradevi@cwss.moe.edu.sg)	| Mother Tongue Languages|
-|[Mdm Haidar Afandi](mailto:)	|Craft & Technology  |
 | [Mr Heng Swee Kee](mailto:heng.sweekee@cwss.moe.edu.sg)	|Craft & Technology |
 | [Ms Hoo Pei Xian](mailto:hoo.peixian@cwss.moe.edu.sg)|	Mathematics |
 | [Miss Jasmiyanti Bte Marhajas](mailto:jasmiyanti.marhajas@cwss.moe.edu.sg)	| Senior Teacher (Malay Language) |
@@ -29,7 +29,6 @@ variant: markdown
 |[Ms Kokila Vani d/o Nagalingam](mailto:kokila.vani@cwss.moe.edu.sg) 	|Humanities |
 |[Ms Lee Sin Choon](mailto:lee.sinchoon@cwss.moe.edu.sg) 	| English Language|
 | [Ms Lee Ying Jie](mailto:lee.yingjie@cwss.moe.edu.sg)|	Mathematics |
-| [Mdm Lee Yue Zhi](mailto:lee.yuezhi@cwss.moe.edu.sg) 	| Craft & Technology| 
  | [Mrs Leong - Tan Sai Hong](mailto:leong.saihong@cwss.moe.edu.sg)| 	Mathematics | 
 |  [Mr Lew Keng Wah Simon](mailto:simon.lew@cwss.moe.edu.sg)| 	Subject Head (Citizenship and Character Education) | 
 | 	| Sciences| 
@@ -55,8 +54,8 @@ variant: markdown
 | 	| PE & CCA| 
 | [Miss Ng Lee Gek Ruth](mailto:ruth.ng@cwss.moe.edu.sg) 	| Craft & Technology | 
 | [Ms Nur Amalina Binte Shalan](mailto:nuramalina.shalan@cwss.moe.edu.sg) 	|  Mother Tongue Languages| 
-| [Miss Nur Ezzati Zukr](mailto:nurezzati@cwss.moe.edu.sg)  	| Humanities  | 
 |  [Ms Nuradilah Binte Ramlan](mailto:nuradilah.ramlan@cwss.moe.edu.sg)	| Humanities | 
+| [Ms Nurliana Bte Abdullah](mailto:nurliana.abdullah@cwss.moe.edu.sg) | Humanities | 
  | [Ms Phoon Chee Ling](mailto:phoon.cheeling@cwss.moe.edu.sg)	| Mother Tongue Languages | 
   | [Mdm Quek Lay Hong](mailto:quek.layhong@cwss.moe.edu.sg) | 	Sciences  | 
   | [Mr Rizman Bin Hassan](mailto:rizman.hassan@cwss.moe.edu.sg)	 | Subject Head (Educational Technology)  | 
@@ -65,7 +64,6 @@ variant: markdown
  | 	 | Mother Tongue Languages  | 
  | [Ms Rubiyah Bte Khamis](mailto:rubiyah.khamis@cwss.moe.edu.sg) 	 |  Subject Head (Design & Technology)  | 
  | 	 | Craft & Technology | 
- | [Mr Rudy Hakeem Sulaiman](mailto:rudyhakeem.sulaiman@cwss.moe.edu.sg) 	 | English  | 
  |  [Mrs Sheila Philip](mailto:sheila.philip@cwss.moe.edu.sg)	 |  Mathematics | 
   | [Miss Seah Pei Shan Elizabeth](mailto:elizabeth.seah@cwss.moe.edu.sg)	  | PE & CCA | 
   | [Mr Sim Kwong Wee Matthias](mailto:matthias.sim@cwss.moe.edu.sg)	  | Sciences | 
