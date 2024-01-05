@@ -2,10 +2,10 @@
 title: Our Teaching Staff
 permalink: /our-people/00-our-teaching-staff/
 description: ""
+variant: markdown
 ---
 | Name | Department | 
 | --------------- | --------------- |
-| [Miss Adelia Nivaashini](mailto:nivaashini@cwss.moe.edu.sg)|	English Language & Literature  |
 |[Ms Aiswarya Manickavasagam](mailto:aiswarya@cwss.moe.edu.sg) 	 |Mother Tongue Languages|
 |[Mrs Ang -Wong Yee May](mailto:wong.yeemay@cwss.moe.edu.sg) 	|Mathematics |
 | [Ms Bao Ya](mailto:bao.ya@cwss.moe.edu.sg)	|Mother Tongue Languages |
@@ -14,11 +14,8 @@ description: ""
  |[Mrs Noella Chua](mailto:noella.yee@cwss.moe.edu.sg)	|Music|
 |	|English Language |
  |[Mr Cheon Chee Yong](mailto:cheon.cheeyong@cwss.moe.edu.sg)|	Mother Tongue Languages |
- |[Mr Cheong Hock Soan](mailto:cheong.hocksoan@cwss.moe.edu.sg)|	Assistant Year Head|
-|	|Mathematics |
-|[Mrs Jasmine Chew](mailto:jasmine.chew@cwss.moe.edu.sg)|	Sciene Department |
-|[Ms Megan Chia](mailto:megan.chia@cwss.moe.edu.sg)|	 Subject Head (Mathematics) |
-|	|Mathematics|
+ |[Mr Cheong Hock Soan](mailto:cheong.hocksoan@cwss.moe.edu.sg)|	Mathematics |
+|[Mrs Jasmine Chew](mailto:jasmine.chew@cwss.moe.edu.sg)|	Science Department |
 |[Ms Dimple Kaur Sidhu](mailto:dimple.kaur@cwss.moe.edu.sg)|	 Mathematics|
 |[Mr Elson Quek](mailto:elson.quek@cwss.moe.edu.sg) 	|English Language & Literature |
 |[Mdm Dasari Brinda Nagaraju](mailto:brinda@cwss.moe.edu.sg) 	|English Language & Literature |
