@@ -97,6 +97,6 @@ Parents may opt their children out of the Sexuality Education lessons, eTeens an
 
 Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://go.gov.sg/annexasedoptout). The completed form is to be submitted by 18/1/2024.<br>
 
-Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 18/1/2024. <br>
+Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://go.gov.sg/annexbsedoptout). The completed form is to be submitted by 18/1/2024. <br>
 
 Parents can contact the school at 6560 6866 for discussion or to seek clarification about the school’s sexuality education programme.  <br>
