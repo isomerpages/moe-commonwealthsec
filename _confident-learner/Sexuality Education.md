@@ -95,7 +95,7 @@ At Commonwealth Secondary School, the eTeens programme will be implemented as fo
 
 Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 18/1/2024.<br>
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://go.gov.sg/annexasedoptout). The completed form is to be submitted by 18/1/2024.<br>
 
 Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 18/1/2024. <br>
 
