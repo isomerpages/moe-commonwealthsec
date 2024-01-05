@@ -58,7 +58,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
   
 
-At Commonwealth Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2024: <p></p>
+At Commonwealth Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2024:
 
 <p></p>
 
