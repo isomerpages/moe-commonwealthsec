@@ -1,0 +1,29 @@
+logo: /images/Logo.png
+links:
+  - title: About Cwss
+    collection: about-cwss
+  - title: Admissions
+    collection: admissions
+  - title: Confident Learner
+    collection: confident-learner
+  - title: Compassionate Leaders
+    collection: compassionate-leaders
+  - title: Imaginative TrailBlazers
+    url: /imaginative-trailblazers
+    sublinks:
+      - title: Design & Innovation
+        url: https://sway.office.com/FFEksk6wAeEmzj0U?ref=Link
+      - title: Design Thinking
+        url: /imaginative-trailblazers/design-thinking
+      - title: Maker Education
+        url: /imaginative-trailblazers/maker-education
+      - title: The TrailBlazer Programme
+        url: /imaginative-trailblazers/the-trailblazer-programme
+      - title: Environmental Education
+        url: /imaginative-trailblazers/environmental-education
+      - title: Aesthetics & Performing Arts
+        url: /imaginative-trailblazers/aesthetics-n-performing-arts
+  - title: Our People
+    collection: our-people
+  - title: 2024 Sec 1 Registration
+    collection: 2024-secondary-1-registration

@@ -1,0 +1,9 @@
+collections:
+  cwss-virtual-experience:
+    output: true
+    order:
+      - Virtual Tour.md
+      - Graduates' Stories.md
+      - 3 Minutes With.md
+      - Imaginative Trailblazers.md
+      - Ask a question.md
