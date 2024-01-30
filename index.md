@@ -11,4 +11,6 @@ sections:
       variant: center
       size: md
       alignment: left
+      button: Virtual CWSS Experience
+      url: permalink/virtualcwssexp/virtual-tour/
 ---
