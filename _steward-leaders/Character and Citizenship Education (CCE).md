@@ -6,29 +6,27 @@ variant: markdown
 ---
 Character and Citizenship Education (CCE)
 =============================================
-
 CCE is integrated into our instructional programmes, various co-curricular programmes and key Student Development Experiences (SDEs). The design and delivery of CCE lessons and programmes in CWSS are guided by the school’s Character Framework, anchored on  Steward Leadership. The 4 qualities of Steward Leadership are mapped to the CCE Learning Outcomes and CWSS WEALTH Values.
 
 The school adopts the following guiding principles and approaches:
 
-*   _Every teacher a CCE teacher_
+* Every teacher a CCE teacher
 
-<img src="/images/Compassionate%20Leaders/CCE%20Prog.jpg" style="width:370px;height:240px;margin-left:15px;" align="right">
+Teachers are best placed to lead and uphold the school’s WEALTH Values. Teachers role-model values to shape and instil good character in students. The quality of teacher-student relationships and the provision of a caring and enabling environment are essential to the character development of the students.
+
+* Values are both taught and caught
+
+Values are taught as knowledge and skills encapsulated in the CCE learning outcomes. Values are caught when students witness values enacted by peers and adults in different learning experiences.
+
+* Life experiences as a context for learning
+
+The teaching and learning of CCE focus on using students’ as well as teachers’ life experiences to form the context for learning. This enables students to better retain the knowledge, skills and values taught and caught.
+
+* Expanding domain from self to world
+
+Students learn to embrace their social roles through interaction with the world around them and act with consideration for the consequences of their actions on themselves and others.
 
 
-Teachers are best placed to lead and uphold the school’s WEALTH Values. Teachers role-model values to shape and instil good character in students. The quality of teacher-student relationships and a caring environment are essential to the character development of the students.
-
-*   _Values are both taught and caught_
-
-Values are taught as knowledge and skills encapsulated in the CCE learning outcomes. Values are caught when students experience and witness values enacted in different learning platforms.
-
-*   _Life experiences as a context for learning_
-
-The teaching and learning of CCE focus on using students’ as well as teachers’ life experiences to form the context for learning, so that students can better retain the knowledge, skills and values taught to them.
-
-*   _Expanding domain from self to world_
-
-Students learn to embrace their social roles through interaction with the world around them and act with due consideration of the consequences of their actions on themselves and others.
 
 The school’s key CCE programmes include:-
 
