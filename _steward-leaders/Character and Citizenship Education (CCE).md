@@ -136,8 +136,9 @@ Total Defence Day, Racial Harmony Day, and International Friendship Day.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Bangkok_trip.jpg">
 </div>
 <p>Racial Harmony Day Celerbrations</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Snapinsta_app_360208758_824639029229466_3548293879339191884_n_1080.jpg">
 </div>
 <p>Racial Harmony Day Celerbrations</p>
 <div class="isomer-image-wrapper">
@@ -148,8 +149,9 @@ Total Defence Day, Racial Harmony Day, and International Friendship Day.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/4.jpg">
 </div>
 <p>Racial Harmony Day Celerbrations</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/National_Day_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/National_Day.jpg">
 </div>
 <p>National Day Celebrations</p>
 <div class="isomer-image-wrapper">
