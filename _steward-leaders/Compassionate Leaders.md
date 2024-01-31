@@ -1,13 +1,14 @@
 ---
 title: Compassionate Leaders
-permalink: /compassionate-leaders
+permalink: /compassionate-leaders/
 description: ""
+variant: markdown
 ---
 Compassionate Leaders
 =====================
 
-Commonwealth Secondary School believes that every child is unique and can grow to champion something worthy in the future. Anchored in our WEALTH values (Warmth, Enterprise, Adventurousness, Loyalty, Tenacity, Honour), every child is mentored by a Champion Mentor from Sec 1 to graduation, to be a Compassionate Leader. 
+At Commonwealth Secondary School, our vision is for every child to grow to become a Steward Leader: a changemaker who champions a better future with the Community. In support of this vision, every child is mentored by a Champion Mentor, from Sec 1 to graduation, to be anchored in our WEALTH values (Warmth, Enterprise, Adventurousness, Loyalty, Tenacity, Honour)
 
-  
+We want our students to explore the concepts of stewardship: taking ownership; having a long-term view; being creatively resilient; and understanding our interdependence with one another. 
 
-Through our comprehensive Education and Career Guidance, our Champion Mentors will help the students to discover their strengths and interests, guide them to identify a meaningful purpose that they would champion and inspire them to be the change that they want to see. By connecting to students’ goals and aspirations, their learning in school would be more meaningful and purposeful.
+Ultimately, we want our students to become stewards of our community and shared future, with every generation endeavouring to pass on an even better world to the next generation. 
