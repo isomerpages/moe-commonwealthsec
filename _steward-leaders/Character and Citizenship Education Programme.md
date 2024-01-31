@@ -1,18 +1,19 @@
 ---
 title: Character and Citizenship Education Programme
-permalink: /compassionate-leaders/character-and-citizenship-education-programme
+permalink: /compassionate-leaders/character-and-citizenship-education-programme/
 description: ""
+variant: markdown
 ---
-Character and Citizenship Education Programme
+Character and Citizenship Education (CCE)
 =============================================
 
-CCE is integrated into instructional programmes, various co-curricular programmes and other learning experiences. The design and delivery of CCE lessons package and programmes in CWSS are guided by the school Character Framework that is anchored on Servant Leadership. The 10 qualities of Servant Leadership are mapped to the CCE Learning Outcomes and CWSS WEALTH Values.
+CCE is integrated into our instructional programmes, various co-curricular programmes and key Student Development Experiences (SDEs). The design and delivery of CCE lessons and programmes in CWSS are guided by the school’s Character Framework, anchored on  Steward Leadership. The 4 qualities of Steward Leadership are mapped to the CCE Learning Outcomes and CWSS WEALTH Values.
 
 The school adopts the following guiding principles and approaches:
 
 *   _Every teacher a CCE teacher_
 
-<img src="/images/Compassionate%20Leaders/CCE%20Prog.jpg" style="width:370px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/Compassionate%20Leaders/CCE%20Prog.jpg" style="width:370px;height:240px;margin-left:15px;" align="right">
 
 
 Teachers are best placed to lead and uphold the school’s WEALTH Values. Teachers role-model values to shape and instil good character in students. The quality of teacher-student relationships and a caring environment are essential to the character development of the students.
@@ -35,7 +36,7 @@ The school’s key CCE programmes include:-
 
   
 
-*   _Cohort Camps_ provide students with immersive and experiential learning opportunities to develop character traits of resilience and resourcefulness, as well as social skills such as collaboration and communication.
+*   _•	Education and Career Guidance_&nbsp;(ECG) experiences helps students to develop a sense of purpose in life. By nurturing self-awareness and self-directedness for lifelong learning, ECG helps students develop a growth mindset, adaptability and resilience to tackle challenges, embrace opportunities and appreciate the value of various occupations.
 
   
 
@@ -43,4 +44,4 @@ The school’s key CCE programmes include:-
 
   
 
-*   _Citizenship Education activities_, including NRIC CCE Lesson, NSmen Alumni sharing and commemorating the four key National Education events, National Day, Total Defence Day, Racial Harmony Day and International Friendship Day.
+*   _Citizenship Education activities_, including NRIC CCE Lesson, NSmen Alumni sharing&nbsp;and commemorating the four key National Education events, National Day, Total Defence Day, Racial Harmony Day and International Friendship Day.
