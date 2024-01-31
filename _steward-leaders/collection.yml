@@ -1,5 +1,5 @@
 collections:
-  compassionate-leaders:
+  steward-leaders:
     output: true
     order:
       - Compassionate Leaders.md
