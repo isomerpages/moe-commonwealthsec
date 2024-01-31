@@ -1,0 +1,10 @@
+collections:
+  steward-leaders:
+    output: true
+    order:
+      - Steward Leaders.md
+      - Character and Citizenship Education (CCE).md
+      - Values in Action.md
+      - Education and Career Guidance (ECG) Experiences.md
+      - Internationalisation Trips.md
+      - Student Leadership Development.md
