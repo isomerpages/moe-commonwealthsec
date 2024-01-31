@@ -21,4 +21,6 @@ Beside level-specific platforms, the programme also provides opportunities for w
 | Teacher-led Design Thinking iClean VIA     | Teacher-facilitated Intergenerational VIA     | Student-Led CCA VIA     | Whole-school VIA     |
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRhgqO3Znr7sRcMEMrHe3-VhmiFT3_uWSUy0_UNeOOx6WuunFbdAnl5NvZAQasbFzAvom2yw3Nu4FwV/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+![](/images/VIA_1.jpg)
+![](/images/VIA_2.jpg)
+Secondary 2 students interacting with our elderly as part of the Intergenerational VIA programme. 
