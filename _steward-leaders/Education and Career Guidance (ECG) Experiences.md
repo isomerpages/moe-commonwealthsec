@@ -102,6 +102,7 @@ Hospital</p>
 <p>Secondary 2 Careers Alive Industrial visits to Irvin Factory and Alexandra
 Hospital</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_3.jpg">
 </div>
