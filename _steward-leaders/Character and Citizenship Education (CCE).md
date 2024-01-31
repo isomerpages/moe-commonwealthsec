@@ -30,14 +30,12 @@ Students learn to embrace their social roles through interaction with the world 
 
 The school’s key CCE programmes include:-
 
-*   _Values-In-Action_, which is an important aspect of CCE in developing vital 21st century skills and social-emotional competencies. CWSS works closely with our long-term beneficiaries to provide opportunities for students to give back to the community.
+* *Values-In-Action*, which is an important aspect of CCE in developing vital 21st century skills and social-emotional competencies. CWSS works closely with our long-term partners to provide opportunities for students to contribute to the community and learn while contributing.
 
-  
+* *Education and Career Guidance* (ECG) experiences helps students to develop a sense of purpose in life. By nurturing self-awareness and self-directedness for lifelong learning, ECG helps students develop a growth mindset, adaptability and resilience to tackle challenges, embrace opportunities and appreciate the value of various occupations.
 
-*   *Education and Career Guidance* , (ECG) experiences helps students to develop a sense of purpose in life. By nurturing self-awareness and self-directedness for lifelong learning, ECG helps students develop a growth mindset, adaptability and resilience to tackle challenges, embrace opportunities and appreciate the value of various occupations.
-
-  
-*   _Cohort Camps_, provide students with immersive and experiential learning opportunities to develop character traits of resilience and resourcefulness, as well as social skills such as collaboration and communication. Each cohort will go through different theme and experiences during their camp. 
+* *Cohort Camps* provide students with immersive and experiential learning opportunities to develop character traits of resilience and resourcefulness, as well as social skills such as collaboration and communication. Each cohort will go through different theme and experiences during their camp. 
+ 
 
 
 |Level | Secondary 1 | Secondary 2 | Secondary 3 | Secondary 4/5 |
@@ -47,9 +45,9 @@ The school’s key CCE programmes include:-
 
 
 
+* *Citizenship Education activities*, including, CCE Lesson, NSmen Alumni sharing and commemorating four key National events: National Day, Total Defence Day, Racial Harmony Day, and International Friendship Day.
 
 
-*   _Citizenship Education activities_, including, CCE Lesson, NSmen Alumni sharing and commemorating four key National events: National Day, Total Defence Day, Racial Harmony Day, and International Friendship Day.
 
 ![Racial Harmony Day Celerbrations](/images/1.jpg)
 Racial Harmony Day Celerbrations
