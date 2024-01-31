@@ -131,8 +131,9 @@ Alumni sharing and commemorating four key National events: National Day,
 Total Defence Day, Racial Harmony Day, and International Friendship Day.</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Racial Harmony Day Celerbrations" src="/images/1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Bangkok_trip.jpg">
 </div>
 <p>Racial Harmony Day Celerbrations</p>
 <div class="isomer-image-wrapper">
