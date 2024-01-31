@@ -2,7 +2,7 @@ collections:
   steward-leaders:
     output: true
     order:
-      - Compassionate Leaders.md
+      - Steward Leaders.md
       - Character and Citizenship Education Programme.md
       - Student Leadership Development.md
       - Internationalisation Trips.md
