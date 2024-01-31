@@ -51,8 +51,16 @@ The school’s key CCE programmes include:-
 
 
 
-*   _CCE Guidance modules programmes_, including Educational Career Guidance (ECG), Values-In-Action (VIA), Cyberwellness (CW) and Sexuality Education (SEd) which address students’ social-emotional and developmental needs and help students understand themselves and others better.
+*   _Citizenship Education activities_, including, CCE Lesson, NSmen Alumni sharing and commemorating four key National events: National Day, Total Defence Day, Racial Harmony Day, and International Friendship Day.
 
-  
+![Racial Harmony Day Celerbrations](/images/1.jpg)
+Racial Harmony Day Celerbrations
 
-*   _Citizenship Education activities_, including NRIC CCE Lesson, NSmen Alumni sharing&nbsp;and commemorating the four key National Education events, National Day, Total Defence Day, Racial Harmony Day and International Friendship Day.
+![](/images/2.jpg)
+Racial Harmony Day Celerbrations
+
+![](/images/3.jpg)
+Racial Harmony Day Celerbrations
+
+![](/images/4.jpg)
+Racial Harmony Day Celerbrations
