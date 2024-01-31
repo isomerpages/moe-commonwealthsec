@@ -4,7 +4,7 @@ permalink: /steward-leaders/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>Education and Career Guidance (ECG) Experiences </h2>
+<h2>Education and Career Guidance (ECG) Experiences</h2>
 <p>The comprehensive Commonwealth Education and Career Guidance (ECG) experiences
 equip students with the necessary knowledge, skills and values to make
 informed decisions at each key education stage. This enables successful
@@ -19,7 +19,7 @@ learning in school would be more meaningful and purposeful.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ECG Goals </strong>
+<p><strong>ECG Goals</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,3 +89,25 @@ peers through team-bonding activities.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Secondary 2 Careers Alive Industrial visits to Irvin Factory and Alexandra Hospital" src="/images/ECG_1.jpg">
+</div>
+<p>Secondary 2 Careers Alive Industrial visits to Irvin Factory and Alexandra
+Hospital</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_2.jpg">
+</div>
+<p>Secondary 2 Careers Alive Industrial visits to Irvin Factory and Alexandra
+Hospital</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_3.jpg">
+</div>
+<p>Secondary 3 Careers Day</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_4.jpg">
+</div>
+<p>Secondary 3 Careers Day</p>
