@@ -91,24 +91,24 @@ peers through team-bonding activities.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary 2 Careers Alive Industrial visits to Irvin Factory and Alexandra Hospital" src="/images/ECG_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Secondary 2 Careers Alive Industrial visits to Irvin Factory and Alexandra Hospital" src="/images/ECG_1.jpg">
 </div>
 <p>Secondary 2 Careers Alive Industrial visits to Irvin Factory and Alexandra
 Hospital</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ECG_2.jpg">
 </div>
 <p>Secondary 2 Careers Alive Industrial visits to Irvin Factory and Alexandra
 Hospital</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ECG_3.jpg">
 </div>
 <p>Secondary 3 Careers Day</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ECG_4.jpg">
 </div>
 <p>Secondary 3 Careers Day</p>
