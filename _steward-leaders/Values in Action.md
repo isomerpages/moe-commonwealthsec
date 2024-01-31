@@ -73,12 +73,14 @@ Gardens residents.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/VIA_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Sec_2_VIA.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/VIA_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Sec_2_VIA_2.png">
 </div>
 <p>Secondary 2 students interacting with our elderly as part of the Intergenerational
 VIA programme.</p>
