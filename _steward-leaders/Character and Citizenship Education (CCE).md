@@ -167,7 +167,7 @@ Total Defence Day, Racial Harmony Day, and International Friendship Day.</p>
 </div>
 <p>National Day Celebrations</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/National_Day_5.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Snapinsta_app_365474627_247682784398823_7946872640230647894_n_1080.jpg">
 </div>
 <p>National Day Celebrations</p>
 <div class="isomer-image-wrapper">
