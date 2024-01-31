@@ -36,9 +36,20 @@ The school’s key CCE programmes include:-
 
   
 
-*   _•	Education and Career Guidance_&nbsp;(ECG) experiences helps students to develop a sense of purpose in life. By nurturing self-awareness and self-directedness for lifelong learning, ECG helps students develop a growth mindset, adaptability and resilience to tackle challenges, embrace opportunities and appreciate the value of various occupations.
+*   *Education and Career Guidance* , (ECG) experiences helps students to develop a sense of purpose in life. By nurturing self-awareness and self-directedness for lifelong learning, ECG helps students develop a growth mindset, adaptability and resilience to tackle challenges, embrace opportunities and appreciate the value of various occupations.
 
   
+*   _Cohort Camps_, provide students with immersive and experiential learning opportunities to develop character traits of resilience and resourcefulness, as well as social skills such as collaboration and communication. Each cohort will go through different theme and experiences during their camp. 
+
+
+|Level | Secondary 1 | Secondary 2 | Secondary 3 | Secondary 4/5 |
+| -------- | -------- | -------- | -------- | -------- |
+|    | Orientation Camp    | Outdoor Adventure Camp      | Design Thinking Camp     | Education Career Guidance Camp     |
+| Theme     | What does being a Commonwealthian mean to me?     | How do I work well with my friends?     | How can I empower myself &amp; my friends to make a difference to our community?     | How do I prepare myself &amp; my friends for the future?     |
+
+
+
+
 
 *   _CCE Guidance modules programmes_, including Educational Career Guidance (ECG), Values-In-Action (VIA), Cyberwellness (CW) and Sexuality Education (SEd) which address students’ social-emotional and developmental needs and help students understand themselves and others better.
 
