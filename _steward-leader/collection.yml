@@ -1,5 +1,5 @@
 collections:
-  steward-leaders:
+  steward-leader:
     output: true
     order:
       - Steward Leaders.md
