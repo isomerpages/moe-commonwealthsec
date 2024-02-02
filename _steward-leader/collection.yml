@@ -2,7 +2,7 @@ collections:
   steward-leader:
     output: true
     order:
-      - Steward Leaders.md
+      - Steward Leader.md
       - Character and Citizenship Education (CCE).md
       - Values in Action.md
       - Education and Career Guidance (ECG) Experiences.md
