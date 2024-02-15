@@ -12,5 +12,5 @@ sections:
       size: md
       alignment: left
       button: Virtual CWSS Experience
-      url: permalink/virtualcwssexp/virtual-tour/
+      url: http://commonwealthsec.moe.edu.sg/virtualcwssexp/virtual-tour/
 ---
