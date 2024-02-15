@@ -9,7 +9,7 @@ Vision & Mission
 
 **VISION**
 
-Every Commonwealthian a Confident Learner, Imaginative Trailblazer, and Steward Leader
+Every Commonwealthian a Confident Learner, Steward Leader, and Imaginative Trailblazer
 
   
 
