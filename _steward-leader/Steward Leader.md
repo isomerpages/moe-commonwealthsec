@@ -1,10 +1,10 @@
 ---
-title: Steward Leaders
+title: Steward Leader
 permalink: /compassionate-leaders/
 description: ""
 variant: markdown
 ---
-Steward Leaders
+Steward Leader
 =====================
 
 At Commonwealth Secondary School, our vision is for every child to grow to become a Steward Leader: a changemaker who champions a better future with the Community. In support of this vision, every child is mentored by a Champion Mentor, from Sec 1 to graduation, to be anchored in our WEALTH values (Warmth, Enterprise, Adventurousness, Loyalty, Tenacity, Honour)

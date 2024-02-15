@@ -6,9 +6,9 @@ links:
     collection: admissions
   - title: Confident Learner
     collection: confident-learner
-  - title: Steward Leaders
-    collection: steward-leaders
-  - title: Imaginative TrailBlazers
+  - title: Steward Leader
+    collection: steward-leader
+  - title: Imaginative TrailBlazer
     url: /imaginative-trailblazers
     sublinks:
       - title: Design & Innovation
