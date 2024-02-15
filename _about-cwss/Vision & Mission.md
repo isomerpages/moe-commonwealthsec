@@ -1,14 +1,15 @@
 ---
 title: Vision & Mission
-permalink: /about-cwss/vision-n-mission
+permalink: /about-cwss/vision-n-mission/
 description: ""
+variant: markdown
 ---
 Vision & Mission
 ================
 
 **VISION**
 
-Every CommonWEALTHIAN a Confident Learner, Imaginative Trailblazer, and Compassionate Leader
+Every Commonwealthian a Confident Learner, Imaginative Trailblazer, and Compassionate Leader
 
   
 
