@@ -12,8 +12,7 @@ description: ""
 <p>Ms&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ye.dan@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ye Dan</a>
-</p>
+<p>Ye Dan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department Innovation &amp; Design&nbsp;</p>
@@ -24,8 +23,7 @@ description: ""
 <p>Mrs&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="noella.yee@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Noella Chua</a>
-</p>
+<p>Noella Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head Student Leadership&nbsp;</p>
@@ -36,8 +34,7 @@ description: ""
 <p>Mdm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="rubiyah.khamis@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rubiyah Bte Khamis</a>
-</p>
+<p>Rubiyah Bte Khamis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head Craft &amp; Technology&nbsp;</p>
@@ -48,8 +45,7 @@ description: ""
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="heng.sweekee@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Heng Swee Kee</a>
-</p>
+<p>Heng Swee Kee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
