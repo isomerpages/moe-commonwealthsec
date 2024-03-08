@@ -24,7 +24,8 @@ description: ""
 <p>Mrs&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Noella Chua</p>
+<p><a href="noella.yee@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Noella Chua</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head Student Leadership&nbsp;</p>
@@ -35,7 +36,8 @@ description: ""
 <p>Mdm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rubiyah Bte Khamis</p>
+<p><a href="rubiyah.khamis@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rubiyah Bte Khamis</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head Craft &amp; Technology&nbsp;</p>
@@ -46,7 +48,8 @@ description: ""
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Heng Swee Kee</p>
+<p><a href="heng.sweekee@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Heng Swee Kee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
