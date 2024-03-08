@@ -12,7 +12,8 @@ description: ""
 <p>Ms&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ye Dan</p>
+<p><a href="ye.dan@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ye Dan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department Innovation &amp; Design&nbsp;</p>
