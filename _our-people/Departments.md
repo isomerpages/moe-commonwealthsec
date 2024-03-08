@@ -98,7 +98,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h3>English Language &amp; Literature Department </h3>
+<h3>English Language &amp; Literature Department</h3>
 <table>
 <tbody>
 <tr>
@@ -501,8 +501,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p></p>
-<h3>Mother Tongue Languages Department </h3>
+<h3>Mother Tongue Languages Department</h3>
 <table>
 <tbody>
 <tr>
@@ -736,7 +735,7 @@ description: ""
 </tbody>
 </table>
 <h3></h3>
-<h3>Science Department </h3>
+<h3>Science Department</h3>
 <table>
 <tbody>
 <tr>
