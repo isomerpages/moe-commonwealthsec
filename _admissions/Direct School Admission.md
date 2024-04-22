@@ -12,7 +12,7 @@ Secondary School before the Secondary One Posting Exercise.</p>
 <h4>Admission Criteria</h4>
 <p>We invite pupils who fulfill any of the admission criteria mentioned below
 to apply:</p>
-<p><strong>Category 1: Performing Arts - Band, Choir, International Dance, Indian Dance, Drama</strong>
+<p><strong>Category 1: Performing Arts - Band, Choir, Modern Dance, Indian Dance, Drama</strong>
 </p>
 <ul>
 <li>
