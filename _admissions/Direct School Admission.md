@@ -99,7 +99,7 @@ to develop the area of talent.</p>
 expected to honour their&nbsp;commitment to the school, and participate
 in the activities related to the talent they are selected&nbsp;for from
 year 1 - 4.</p>
-<p><strong>Enquiries</strong>
+<p><strong>Enquiries</strong> 
 <br>8. For further enquiries, please contact the school at&nbsp;<strong>6560 6866</strong>&nbsp;or
 via email to&nbsp;<a href="mailto:cwss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cwss@moe.edu.sg</a>
 </p>
