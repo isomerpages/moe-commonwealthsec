@@ -97,6 +97,50 @@ to develop the area of talent.</p>
 expected to honour their&nbsp;commitment to the school, and participate
 in the activities related to the talent they are selected&nbsp;for from
 year 1 - 4.</p>
+<p><u>Selection Schedule</u>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Dates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Actions</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 May at 11am to 3 June at 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Candidates to submit DSA Application via MOE website <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 June to 9 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisting and selection</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>By 12 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School will inform candidates of results.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Enquiries</strong> 
 <br>8. For further enquiries, please contact the school at&nbsp;<strong>6560 6866</strong>&nbsp;or
 via email to&nbsp;<a href="mailto:cwss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cwss@moe.edu.sg</a>
