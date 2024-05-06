@@ -13,4 +13,8 @@ sections:
       alignment: left
       button: Virtual CWSS Experience
       url: http://www.commonwealthsec.moe.edu.sg/virtualcwssexp/virtual-tour/
+      key_highlights:
+        - title: Direct School Admission Exercise
+          description: Click here for DSA Application
+          url: https://www.commonwealthsec.moe.edu.sg/admissions/direct-school-admission/
 ---

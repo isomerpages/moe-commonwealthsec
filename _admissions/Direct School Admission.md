@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Direct School Admission</h1>
-<p><em>Updated 22 April 2024</em>
+<p><em>Updated 6 May 2024</em>
 </p>
 <p>Primary Six pupils may seek Direct School Admission into Commonwealth
 Secondary School before the Secondary One Posting Exercise.</p>
@@ -87,9 +87,7 @@ are expected to join the respective CCA allocated by the school during
 their 4 or 5 years with the school.</p>
 <p><strong>Application Procedure</strong>
 </p>
-<p>5. The application for DSA-Sec can be submitted through a centralized
-DSA-Sec Portal. <strong>Information on the 2024 Direct School Admission exercise will be made available in early May</strong>.
-For more details, please refer to MOE website <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+<p>5. <strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
 </p>
 <p>6. Parents and students are encouraged to choose schools wisely based
 on the student’s&nbsp;aptitudes and strengths, bearing in mind the schools’
@@ -99,6 +97,50 @@ to develop the area of talent.</p>
 expected to honour their&nbsp;commitment to the school, and participate
 in the activities related to the talent they are selected&nbsp;for from
 year 1 - 4.</p>
+<p><u>Selection Schedule</u>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Dates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Actions</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 May at 11am to 3 June at 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Candidates to submit DSA Application via MOE website <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 June to 9 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisting and selection</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>By 12 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School will inform candidates of results.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Enquiries</strong> 
 <br>8. For further enquiries, please contact the school at&nbsp;<strong>6560 6866</strong>&nbsp;or
 via email to&nbsp;<a href="mailto:cwss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cwss@moe.edu.sg</a>
