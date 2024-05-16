@@ -84,7 +84,7 @@ be an advantage.</p>
 will be shortlisted/given an offer.</p>
 <p>4. Students selected based on their talents relevant to a particular CCA
 are expected to join the respective CCA allocated by the school during
-their 4 or 5 years with the school.</p>
+their 4 years with the school.</p>
 <p><strong>Application Procedure</strong>
 </p>
 <p>5. <strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
