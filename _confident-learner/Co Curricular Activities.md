@@ -61,7 +61,7 @@ which serve as a platform to cater to students’ interests and talents.</p>
 <br>
 <br>- Drama Club
 <br>
-<br>- International Dance
+<br>- Modern Dance
 <br>
 <br>- Indian Dance
 <br>
