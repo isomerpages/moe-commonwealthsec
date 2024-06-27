@@ -1,16 +1,17 @@
 ---
 title: Environmental Education
-permalink: /imaginative-trailblazers/environmental-education
+permalink: /imaginative-trailblazers/environmental-education/
 description: ""
+variant: markdown
 ---
-Environmental Education
+Eco-Stewardship
 =======================
 
 Commonwealth Secondary School is a West Zone Centre of Excellence for Environmental Education since 2008. The school was also the first school to be awarded the President’s Award for the Environment in 2009 and later awarded the ASEAN Eco-Schools Award (Secondary School Category) in 2012.
 
   
 
- _“A community of passionate learners who spark imagination, illuminate new frontiers, and inspire change for a better world.”_ 
+&nbsp;_“A community of passionate learners who spark imagination, illuminate new frontiers, and inspire change for a better world.”_&nbsp;
 
   
 
@@ -40,8 +41,7 @@ Students in the school are also actively involved in environmental projects. Ope
 ![](/images/Imaginative%20Trailblazers/enviro6.jpg)
 
 
-<img src="/images/Imaginative%20Trailblazers/enviro7.png"  
-     style="width:70%">
+<img src="/images/Imaginative%20Trailblazers/enviro7.png" style="width:70%">
 		 
 ![](/images/Imaginative%20Trailblazers/enviro8.jpg)
 
