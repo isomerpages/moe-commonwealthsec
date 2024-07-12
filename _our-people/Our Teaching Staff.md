@@ -9,7 +9,6 @@ variant: markdown
 |[Ms Aiswarya Manickavasagam](mailto:aiswarya@cwss.moe.edu.sg) 	 |Mother Tongue Languages|
 |[Ms Alvina Leong](mailto:alvina.leong@cwss.moe.edu.sg) 	 |PE & CCA |
 |[Mrs Ang -Wong Yee May](mailto:wong.yeemay@cwss.moe.edu.sg) 	|Mathematics |
-| [Ms Bao Ya](mailto:bao.ya@cwss.moe.edu.sg)	|Mother Tongue Languages |
 | [Ms Jaclyn Chan Pei Yi](mailto:jaclyn.chanpeiyi@cwss.moe.edu.sg)	|Sciences |
 |[Mr Chua Joel](mailto:joel.chua@cwss.moe.edu.sg) 	 |Humanities|
  |[Mrs Noella Chua](mailto:noella.yee@cwss.moe.edu.sg)	|Music|
@@ -20,7 +19,6 @@ variant: markdown
 |[Ms Dimple Kaur Sidhu](mailto:dimple.kaur@cwss.moe.edu.sg)|	 Mathematics|
 |[Mr Elson Quek](mailto:elson.quek@cwss.moe.edu.sg) 	|English Language & Literature |
 |[Mdm Dasari Brinda Nagaraju](mailto:brinda@cwss.moe.edu.sg) 	|English Language & Literature |
- |[Miss Goh Jee Meng](mailto:goh.jeemeng@cwss.moe.edu.sg)	|Humanities |
  |[Mdm Gopal Chitradevi](mailto:gopal.chitradevi@cwss.moe.edu.sg)	| Mother Tongue Languages|
 | [Mr Heng Swee Kee](mailto:heng.sweekee@cwss.moe.edu.sg)	|Craft & Technology |
 | [Ms Hoo Pei Xian](mailto:hoo.peixian@cwss.moe.edu.sg)|	Mathematics |
@@ -44,7 +42,6 @@ variant: markdown
 | [Miss Low Yee Lin](mailto:low.yeelin@cwss.moe.edu.sg)	| Mother Tongue Languages | 
 | [Ms Lu Lineng](mailto:lu.lineng@cwss.moe.edu.sg) 	| English Language & Literature | 
  | [Miss Lye Zhen Xi](mailto:lye.zhenxi@cwss.moe.edu.sg)	| Humanities|  
- | [Mrs Margaret Loh nee Teng Eng Chew](mailto:margaret.loh@cwss.moe.edu.sg)| 	Mathematics | 
  | [Ms Mok Sheau Pei](mailto:mok.sheaupei@cwss.moe.edu.sg)	| Mother Tongue Languages| 
  | [Mr Muhammad Aidil Bin Noor](mailto:aidil.noor@cwss.moe.edu.sg)	| English Language & Literature| 
 | [Mr Musa Shukor](mailto:musa.shukor@cwss.moe.edu.sg) 	|  Subject Head (English Language) | 
@@ -82,7 +79,6 @@ variant: markdown
  | 	| Sciences| 
   | [Mrs Audrey Tham](mailto:audrey.tham@cwss.moe.edu.sg)	 | English Language & Literature  | 
   |  [Ms Tian Yilin](mailto:tian.yilin@cwss.moe.edu.sg)	 | Sciences   | 
-  | [Mdm Toh Siau Yien](mailto:toh.siauyien@cwss.moe.edu.sg) 	 |  Mother Tongue Languages  | 
   | [Mdm Vineeta](mailto:vineeta@cwss.moe.edu.sg)	 |  Sciences | 
  |  [Mrs Yeo Siew Mui](mailto:yeo.siewmui@cwss.moe.edu.sg) | 	 Sciences | 
  | [Mr Yong Lek Lai](mailto:yong.leklai@cwss.moe.edu.sg)	 |  Craft & Technology | 
