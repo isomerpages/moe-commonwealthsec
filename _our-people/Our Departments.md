@@ -372,7 +372,7 @@ description: ""
 <p>Rafeek Ahmed s/o Abdul Majeed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department Student Management&nbsp;</p>
+<p>Head of Department Student Leadership &amp; Management&nbsp;</p>
 </td>
 </tr>
 <tr>
