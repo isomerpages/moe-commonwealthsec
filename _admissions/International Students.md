@@ -13,4 +13,4 @@ MOE conducts admission exercises for new International Students (non- Singapo
 
 The Admission Exercise for International Students (AEIS) consists of a centralised test on English and Mathematics that will assess the applicants’ English literacy, numeracy and reasoning abilities.  Admission is not guaranteed, and is subject to the applicant’s performance in the test. If successful, placement will depend on available vacancies and the applicant’s declared residential area in Singapore.
 
-More information on AEIS is available [here.](https://www.moe.gov.sg/international-students).
+More information on AEIS is available [here](https://www.moe.gov.sg/international-students).
