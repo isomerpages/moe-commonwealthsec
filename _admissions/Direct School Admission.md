@@ -8,10 +8,10 @@ variant: tiptap
 <p><em>Updated 6 May 2024</em>
 </p>
 <p>Primary Six pupils may seek Direct School Admission into Commonwealth
-Secondary School before the Secondary One Posting Exercise.</p>
+Secondary School before the Secondary One Posting Exercise. The deadline
+for DSA application in 2025 has passed. Parents may still refer to this
+page for information on DSA.</p>
 <h4>Admission Criteria</h4>
-<p>We invite pupils who fulfill any of the admission criteria mentioned below
-to apply:</p>
 <p><strong>Category 1: Performing Arts - Band, Choir, Modern Dance, Indian Dance, Drama</strong>
 </p>
 <ul>
@@ -119,7 +119,7 @@ year 1 - 4.</p>
 <p>7 May at 11am to 3 June at 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Candidates to submit DSA Application via MOE website <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+<p>Candidates to submit DSA Application via MOE website <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 </td>
 </tr>
