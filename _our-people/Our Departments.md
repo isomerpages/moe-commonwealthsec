@@ -5,7 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h3>Craft &amp; Technology Department</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -99,7 +104,12 @@ description: ""
 </table>
 <p></p>
 <h3>English Language &amp; Literature Department</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -131,7 +141,7 @@ description: ""
 <p>Muhammad Aidil Bin Noor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Acting)</p>
+<p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +225,12 @@ description: ""
 </table>
 <p></p>
 <h3>Humanities Department</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -331,7 +346,12 @@ description: ""
 </table>
 <p></p>
 <h3>Mathematics Department</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -502,7 +522,12 @@ description: ""
 </table>
 <p></p>
 <h3>Mother Tongue Languages Department</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -674,7 +699,12 @@ description: ""
 </table>
 <p></p>
 <h3>Physical Education Department</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -736,7 +766,12 @@ description: ""
 </table>
 <h3></h3>
 <h3>Science Department</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -941,7 +976,12 @@ description: ""
 </table>
 <p></p>
 <h3>Allied Educators</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
