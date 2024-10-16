@@ -17,4 +17,13 @@ sections:
         - title: Direct School Admission Exercise
           description: Click here for DSA Application
           url: https://www.commonwealthsec.moe.edu.sg/admissions/direct-school-admission/
+  - infopic:
+      title: Call for Applicants
+      subtitle: School Canteen Advertisement
+      id: infopic
+      description: 16 November 2024
+      button: Click here for details
+      url: /permalink/stall-opportunities/
+      image: /images/Infopic/Canteen.jpg
+      alt: Image alt text
 ---
