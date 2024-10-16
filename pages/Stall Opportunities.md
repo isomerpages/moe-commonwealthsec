@@ -75,7 +75,7 @@ description: ""
 </tbody>
 </table>
 <h3><strong>Application Procedure</strong></h3>
-<h4>1. Download and complete the application form. </h4>
+<h4>1. Download and complete the application form.</h4>
 <p>You may also request for a hardcopy from the School’s General Office.
 <a href="https://go.gov.sg/cwsscanteenapplication" rel="noopener nofollow" target="_blank">Click here to download Canteen Application Form</a>
 </p>
