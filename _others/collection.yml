@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Open House 2024.md
       - Parents.md
       - Students.md
       - Teachers.md
