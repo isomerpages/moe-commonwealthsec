@@ -19,7 +19,7 @@ sections:
           url: https://www.commonwealthsec.moe.edu.sg/admissions/direct-school-admission/
         - title: Open House 2024
           description: Key Highlight description
-          url: /permalink/open-house-2024/
+          url: /permalink/stall-opportunities/
   - infopic:
       title: Canteen Stall Opportunities
       subtitle: Call for applicants
