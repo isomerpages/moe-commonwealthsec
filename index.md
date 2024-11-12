@@ -17,6 +17,9 @@ sections:
         - title: Direct School Admission Exercise
           description: Click here for DSA Application
           url: https://www.commonwealthsec.moe.edu.sg/admissions/direct-school-admission/
+        - title: Open House 2024
+          description: Key Highlight description
+          url: permalink/open-house-2024/
   - infopic:
       title: Canteen Stall Opportunities
       subtitle: Call for applicants
