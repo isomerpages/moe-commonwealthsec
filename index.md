@@ -25,4 +25,5 @@ sections:
       button: Click here for more
       url: /permalink/open-house-2024/
       alt: Image alt text
+      image: /images/Open House 2024/open house 2024.png
 ---
