@@ -14,15 +14,16 @@ sections:
       button: Virtual CWSS Experience
       url: http://www.commonwealthsec.moe.edu.sg/virtualcwssexp/virtual-tour/
       key_highlights:
-        - title: Direct School Admission Exercise
-          description: Click here for DSA Application
-          url: https://www.commonwealthsec.moe.edu.sg/admissions/direct-school-admission/
+        - title: Open House 2024
+          description: Click here for information!
+          url: /open-house-2024/
   - infopic:
-      title: Canteen Stall Opportunities
-      subtitle: Call for applicants
+      title: Open House 2024
+      subtitle: 16 November 2024
       id: infopic
-      button: More information
-      url: /permalink/stall-opportunities/
-      image: /images/Canteen_v2.jpg
+      description: 8.30am to 1.30pm
+      button: Click here for more
+      url: /permalink/open-house-2024/
       alt: Image alt text
+      image: /images/Open House 2024/open house 2024.png
 ---
