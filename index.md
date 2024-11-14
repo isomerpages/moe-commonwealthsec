@@ -19,9 +19,9 @@ sections:
           url: /open-house-2024/
   - infopic:
       title: Open House 2024
-      subtitle: Invitation to all
+      subtitle: 16 November 2024
       id: infopic
-      description: 16 November 2024
+      description: 8.30am to 1.30pm
       button: Click here for more
       url: /permalink/open-house-2024/
       alt: Image alt text
