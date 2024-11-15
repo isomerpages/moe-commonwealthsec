@@ -2,5 +2,6 @@ collections:
   open-house:
     output: true
     order:
+      - Tell us what you think!.md
       - Open House 2024.md
       - Location Map.md
