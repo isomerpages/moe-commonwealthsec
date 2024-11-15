@@ -15,7 +15,8 @@ description: ""
 <th rowspan="1" colspan="3">
 <p>We hope you enjoyed our Open House! Tell us what you think so we can do
 better next year!</p>
-<p>Click here or scan the QR Code below to complete the Open House survey.</p>
+<p><a href="https://form.gov.sg/6736ba25adbd3242a64acca8" rel="noopener nofollow" target="_blank">Click here</a> or
+scan the QR Code below to complete the Open House survey.</p>
 </th>
 </tr>
 <tr>
