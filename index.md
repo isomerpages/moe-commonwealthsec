@@ -23,7 +23,7 @@ sections:
       id: infopic
       description: 8.30am to 1.30pm
       button: Click here for more
-      url: open-house-2024/
+      url: /open-house-2024/
       alt: Image alt text
       image: /images/Open House 2024/open house 2024.png
 ---
