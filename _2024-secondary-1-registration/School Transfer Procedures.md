@@ -21,62 +21,13 @@ contact the school’s General Office at 6560-6866.</p>
 <p><strong>Students posted other schools but wish to transfer to Commonwealth Secondary (CWSS)</strong>
 </p>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong><em>Update: We regret that we will no longer be considering appeals for transfer to Commonwealth Secondary School. All successful applicants have been contacted. If you have not heard from us, we regret that your appeal was not successful.</em></strong>
-</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p>Please note that appellants are required to meet the cut-off points for
 the relevant Posting Group in order for their appeal for transfer to be
-considered.</p>
+considered. Please submit the below appeal form via email to <a rel="noopener noreferrer nofollow" target="_blank">cwss@moe.edu.sg</a> &nbsp;<strong><u>OR</u></strong> &nbsp;
+<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psle-to-s1-2025-posting-appeal-form</a>&nbsp; <strong>By 27 Dec 2024.</strong>
+</p>
 <p></p>
-<p>Our cut-off points for the respective posting groups are:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Posting Group 3</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Posting Group 2</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Posting Group 1</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>13</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>23</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>30</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
-<p>Please submit the appeal form via <a href="https://go.gov.sg/s1-2024-posting-appeal-form-apply-to-transfer-to-commonwealth-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1-2024-posting-appeal-form-apply-to-transfer-to-commonwealth-sec</a>  <strong>by 28 Dec 2023, 12 noon. </strong>Due
-to the large number of appeals, we will only contact successful applicants.</p>
 <p></p>
 </li>
 </ul>
