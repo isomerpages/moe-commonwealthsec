@@ -4,7 +4,7 @@ permalink: /2024-secondary-1-registration/permalink/para7/
 variant: tiptap
 description: ""
 ---
-<h4>3. Eligibility for Higher Mother Tongue (HMT) <em>– only applicable to students who are offered this option by MOE.</em></h4>
+<h4>7. Eligibility for Higher Mother Tongue (HMT) <em>– only applicable to students who are offered this option by MOE.</em></h4>
 <p>If your child is eligible to study Higher Mother-Tongue, the school will
 send you an offer letter via Parents Gateway after the Secondary 1 Posting
 Results are released on the afternoon of posting day. Please respond to
