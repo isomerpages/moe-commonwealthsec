@@ -27,5 +27,5 @@ required to submit your acceptance/rejection of the offer <strong><u>via Parents
 <p>If you need to seek clarification, please contact the teacher-in-charge,
 Ms Chan Foong Keng via email: <a href="mailto:chan.foongkeng@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.foongkeng@cwss.moe.edu.sg</a>
 </p>
-<p><a href="/files/Sec_1_SBB_slides_for_Parents_updated_20231113.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for Sec 1 SBB information</a>
+<p><a href="/files/2025 Sec 1 Registration/6_Sec_1_Eligibility_to_take_subjects_at_More_Demanding_Levels.pdf" rel="noopener nofollow" target="_blank">Click here for Sec 1 SBB information</a>
 </p>
