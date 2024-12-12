@@ -11,4 +11,5 @@ School!</p>
 posting day to confirm their posting. The school will instead be using
 Parents Gateway (PG) to communicate with parents (on the afternoon) after
 the Secondary 1 Posting Results are released.</p>
-<p></p>
+<p><a href="/files/2025 Sec 1 Registration/1_Principal_s_Letter.pdf" rel="noopener nofollow" target="_blank">Click here for Principal's Welcome Letter</a>
+</p>
