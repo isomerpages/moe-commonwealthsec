@@ -10,5 +10,5 @@ via PG from the afternoon of posting day. If you need clarifications, please
 contact the teacher-in-charge, Mr Cheon Cheeyong via email: <a href="mailto:cheon.cheeyong@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheon.cheeyong@cwss.moe.edu.sg</a>&nbsp;</p>
 <p>Please refer to the attached fact sheet below for more information on
 3rd language.</p>
-<p><a href="/files/MTL_Factsheet_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Mother Tongue Languages</a>
+<p><a href="/files/2025 Sec 1 Registration/7_8_MTL_Factsheet_2024.pdf" rel="noopener nofollow" target="_blank">Click here for information on Mother Tongue Languages</a>
 </p>
