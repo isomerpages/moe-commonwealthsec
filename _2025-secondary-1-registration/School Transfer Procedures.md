@@ -26,10 +26,8 @@ the relevant Posting Group in order for their appeal for transfer to be
 considered. Please submit the below appeal form via email to <a rel="noopener noreferrer nofollow" target="_blank">cwss@moe.edu.sg</a> &nbsp;<strong><u>OR</u></strong> &nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psle-to-s1-2025-posting-appeal-form</a>&nbsp; <strong>By 27 Dec 2024.</strong>
 </p>
-<p></p>
-<p></p>
-<p></p>
 </li>
 </ul>
-<p></p>
+<p><a href="/files/2025 Sec 1 Registration/12_CWSS_Sec_1_Appeal_Form_2025.pdf" rel="noopener nofollow" target="_blank">Click here for Appeal Form</a>
+</p>
 <p></p>
