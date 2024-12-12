@@ -12,5 +12,5 @@ the offer letter by <strong><u>26 December 2024 (Thursday)</u></strong>.</p>
 <p>If you need to seek clarification, please contact the teacher-in-charge,
 Mr Cheon Cheeyong via email: <a href="mailto:cheon.cheeyong@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheon.cheeyong@cwss.moe.edu.sg</a>
 </p>
-<p><a href="/files/MTL_Factsheet_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for information on Mother Tongue Languages</a>
+<p><a href="/files/2025 Sec 1 Registration/7_8_MTL_Factsheet_2024.pdf" rel="noopener nofollow" target="_blank">Click here for information on Mother Tongue Languages</a>
 </p>
