@@ -73,18 +73,19 @@ account in the Pacific Bookstores’ website.)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/CWSS_2024_SEC1_PG1_BOOKLIST.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Posting Group 1 Booklist</a>
+<p><a href="/files/2025 Sec 1 Registration/2A_Book_List_Posting_Group_1.pdf" rel="noopener nofollow" target="_blank">Booklist: Posting Group 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/CWSS_2024_SEC1_PG2_BOOKLIST.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Posting Group 2 Booklist</a>
+<p><a href="/files/2025 Sec 1 Registration/2B_Book_List_Posting_Group_2.pdf" rel="noopener nofollow" target="_blank">Booklist: Posting Group 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/CWSS_2024_SEC1_PG3_BOOKLIST.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Posting Group 3 Booklist</a>
+<p><a href="/files/2025 Sec 1 Registration/2C_Book_List_Posting_Group_3.pdf" rel="noopener nofollow" target="_blank">Booklist: Posting Group 3</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/files/2025 Sec 1 Registration/2D_On_SIte_Bookshop_Opening_Hours.pdf" rel="noopener nofollow" target="_blank">Click here for bookshop operating hours for walk-ins.</a>
+</p>
