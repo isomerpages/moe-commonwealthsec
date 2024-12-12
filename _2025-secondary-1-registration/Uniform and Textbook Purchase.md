@@ -49,10 +49,10 @@ below.</p>
 </li>
 </ul>
 <p>The purchase of the school uniform and textbooks can be done via the online
-links found below.</p>
+link found below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>School uniform &amp; Textbooks: Pacific Bookstore </strong>
+<p><strong><u>School uniform &amp; Textbooks</u>: Pacific Bookstore </strong>
 <a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>(New users will need to create an
 account in the Pacific Bookstores’ website.)</p>
 <p></p>
