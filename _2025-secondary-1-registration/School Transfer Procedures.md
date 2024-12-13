@@ -23,8 +23,8 @@ contact the school’s General Office at 6560-6866.</p>
 <p></p>
 <p>Please note that appellants are required to meet the cut-off points for
 the relevant Posting Group in order for their appeal for transfer to be
-considered. Please submit the below appeal form via email to <a rel="noopener noreferrer nofollow" target="_blank">cwss@moe.edu.sg</a> &nbsp;<strong><u>OR</u></strong> &nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psle-to-s1-2025-posting-appeal-form</a>&nbsp; <strong>By 27 Dec 2024.</strong>
+considered. Please submit the below appeal form via email to <a href="mailto:cwss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cwss@moe.edu.sg</a> &nbsp;<strong><u>OR</u></strong> &nbsp;
+<a href="https://go.gov.sg/psle-to-s1-2025-posting-appeal-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psle-to-s1-2025-posting-appeal-form</a>&nbsp; <strong>By 27 Dec 2024.</strong>
 </p>
 </li>
 </ul>
