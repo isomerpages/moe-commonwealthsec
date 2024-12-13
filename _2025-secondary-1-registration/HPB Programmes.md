@@ -8,4 +8,4 @@ description: ""
 <p>Each year, the Health Promotion Board’s team will visit the school to
 conduct health screening, immunisation, and dental services for your child.
 More information on the required parental consent to enrol your child for
-the health &amp; dental Services will be posted up via PG in Jan 2025.</p>
+the health &amp; dental services will be posted up via PG in Jan 2025.</p>
