@@ -4,7 +4,7 @@ permalink: /2025-secondary-1-registration/permalink/para3/
 variant: tiptap
 description: ""
 ---
-<h4>3. Reporting Details on 1st Day of School in 2024</h4>
+<h4>3. Reporting Details on 1st Day of School in 2025</h4>
 <p></p>
 <p>Students are to report to school by <strong>0725hr on Thursday 2 January 2025</strong> in
 full school uniform. They will be guided by our Student Councillors to
