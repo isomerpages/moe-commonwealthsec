@@ -10,8 +10,8 @@ description: ""
 <p>After the Secondary 1 Posting Results are released, the school will send
 a notification of offer via Parents Gateway to parents whose children are
 eligible to study one or more subjects at a more demanding level in that
-afternoon. Eligibility to study a subject a more demanding level will be
-based on the AL score obtained for the corresponding PSLE subject.</p>
+afternoon. Eligibility to study a subject at a more demanding level will
+be based on the AL score obtained for the corresponding PSLE subject.</p>
 <p>Eligible students in Posting Group 1 can choose to accept the offer to
 study one or more subjects at the G2 level. Similarly, eligible students
 in Posting Group 2 can choose to accept the offer to study one or more
