@@ -8,5 +8,5 @@ description: ""
 <p>Students will be attending the Secondary 1 Orientation Level Camp (<u>non-residential day camp</u>)
 from <strong>2 Jan 2025</strong> to <strong>8 Jan 2025</strong>. Please refer
 to the information provided in the document attached.&nbsp;&nbsp;&nbsp;</p>
-<p><a href="/files/2025 Sec 1 Registration/4_2025_Sec_1_Orientation_Level_Camp.pdf" rel="noopener nofollow" target="_blank">Click here for 2025 Sec 1 Orientation Camp Information</a>
+<p><a href="/files/2025 Sec 1 Registration/4_2025_S1OLC_Info_for_Parents_6_Dec_2024.pdf" rel="noopener nofollow" target="_blank">Click here for 2025 Sec 1 Orientation Camp Information</a>
 </p>
