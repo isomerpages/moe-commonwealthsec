@@ -23,11 +23,50 @@ contact the school’s General Office at 6560-6866.</p>
 <p></p>
 <p>Please note that appellants are required to meet the cut-off points for
 the relevant Posting Group in order for their appeal for transfer to be
-considered. Please submit the below appeal form via email to <a href="mailto:cwss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cwss@moe.edu.sg</a> &nbsp;<strong><u>OR</u></strong> &nbsp;
-<a href="https://go.gov.sg/psle-to-s1-2025-posting-appeal-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psle-to-s1-2025-posting-appeal-form</a>&nbsp; <strong>By 27 Dec 2024.</strong>
+considered.</p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Posting Group</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PG3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PG2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PG1</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Cut-off Point for 2025 Sec 1 Intake</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Please submit the below appeal form via this online form <a href="https://go.gov.sg/psle-to-s1-2025-posting-appeal-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psle-to-s1-2025-posting-appeal-form</a> by<strong> 27 Dec 2024.</strong>
 </p>
 </li>
 </ul>
-<p><a href="/files/2025 Sec 1 Registration/12_CWSS_Sec_1_Appeal_Form_2025.pdf" rel="noopener nofollow" target="_blank">Click here for Appeal Form</a>
-</p>
 <p></p>
