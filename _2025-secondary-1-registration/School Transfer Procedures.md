@@ -21,9 +21,8 @@ contact the school’s General Office at 6560-6866.</p>
 <p><strong>Students posted other schools but wish to transfer to Commonwealth Secondary (CWSS)</strong>
 </p>
 <p></p>
-<p>Please note that appellants are required to meet the cut-off points for
-the relevant Posting Group in order for their appeal for transfer to be
-considered.</p>
+<p>Please note that appellants must meet the cut-off points for the relevant
+Posting Group in order for their appeal to be eligible for consideration.</p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
