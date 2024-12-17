@@ -65,7 +65,8 @@ considered.</p>
 </tbody>
 </table>
 <p></p>
-<p>Please submit the below appeal form via this online form <a href="https://go.gov.sg/psle-to-s1-2025-posting-appeal-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psle-to-s1-2025-posting-appeal-form</a> by<strong> 27 Dec 2024.</strong>
+<p>If you wish to appeal for a transfer to CWSS, please submit this online
+form <a href="https://go.gov.sg/psle-to-s1-2025-posting-appeal-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psle-to-s1-2025-posting-appeal-form</a> by<strong> 27 Dec 2024.</strong>
 </p>
 </li>
 </ul>
