@@ -23,7 +23,7 @@ and your response, to select the appropriate textbooks to purchase for
 your child for each subject. Please purchase the learning materials for
 the corresponding subject level that your child will be studying.</p>
 <p>You may refer to the attached slides below for more information and are
-required to submit your acceptance/rejection of the offer <strong><u>via Parents Gateway by 24 December 2024</u></strong>.</p>
+required to submit your acceptance/rejection of the offer <strong><u>via Parents Gateway by Tuesday 24 December 2024</u></strong>.</p>
 <p>If you need to seek clarification, please contact the teacher-in-charge,
 Ms Chan Foong Keng via email: <a href="mailto:chan.foongkeng@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.foongkeng@cwss.moe.edu.sg</a>
 </p>
