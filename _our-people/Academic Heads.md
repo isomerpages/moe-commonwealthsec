@@ -17,4 +17,6 @@ variant: markdown
 | Ms Edlyn Lee Li Hui | Head of Department, Sciences | [edlyn.lee@cwss.moe.edu.sg](mailto:edlyn.lee@cwss.moe.edu.sg) |
 | Mdm Rubiyah Bte Khamis | Subject Head, Design & Technology | [rubiyah.khamis@cwss.moe.edu.sg](mailto:rubiyah.khamis@cwss.moe.edu.sg) |
 | Mr Musa Bin Shukor | Subject Head, English Language | [musa.shukor@cwss.moe.edu.sg](mailto:musa.shukor@cwss.moe.edu.sg) |
-| Ms Vinodhini M Selveindran | Subject Head, Science and Research | [vinodhini@cwss.moe.edu.sg](mailto:cheon.cheeyong@cwss.moe.edu.sg) |
+| Ms Tan Rou Jing | Subject Head, Humanities |  [tan.rou.jing@cwss.moe.edu.sg](nailto:tan.rou.jing@cwss.moe.edu.sg) |
+| Ms Liao Xinwei | Subject Head, Mathematics | [liao.xinwei@cwss.moe.edu.sg](mailto:liao.xinwei@cwss.moe.edu.sg)  |
+| Ms Vinodhini M Selveindran | Subject Head, Science and Research | [vinodhini@cwss.moe.edu.sg](mailto:vinodhini@cwss.moe.edu.sg)  |
