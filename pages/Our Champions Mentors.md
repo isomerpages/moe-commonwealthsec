@@ -8,25 +8,25 @@ variant: markdown
 
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
-| 1 Curie    |   Ms Kokila Vani d/o Nagalingam   |   Ms Tian Yilin   |
-| 1 Hawking    |   Mr Paul Lai Chyi Shyan   |  Mdm Rubiyah Khamis
-| 1 Armstrong    |   Mr Lim Swee Kian   |   Ms Low Yee Lin
-| 1 Mandela    | Mr Liew Chen Kong   |   Ms Tan Rou Jing  |
-| 1 Polo    |   Mr Victor Paul Brang Tun   |  Ms Liao Xinwei   |
-| 1 Ohm    |  Mdm Gopal Chitradevi   |   Mr Tan Guanrui Jacob
-| 1 Nightingale    |  Mr Heng Swee Kee   |  Ms Jasmiyanti Bte Maharjas   |
+| 1 Curie    |   [Ms Kokila Vani d/o Nagalingam](mailto:kokila.vani@cwss.moe.edu.sg)   |  [ Ms Tian Yilin](mailto:tian.yilin@cwss.moe.edu.sg)   |
+| 1 Hawking    |   [Mr Paul Lai Chyi Shyan](mailto:paul.lai.chyishyan@cwss.moe.edu.sg)   |  [Mdm Rubiyah Khamis](mailto:rubiyah.khamis@cwss.moe.edu.sg)
+| 1 Armstrong    |   [Mr Lim Swee Kian](mailto:peter.lim@cwss.moe.edu.sg)   |   [Ms Low Yee Lin](mailto:low.yeelin@cwss.moe.edu.sg)
+| 1 Mandela    | [Mr Liew Chen Kong   ](mailto:liew.chenkong@cwss.moe.edu.sg)|  [ Ms Tan Rou Jing](mailto:tan.rou.jing@cwss.moe.edu.sg)  |
+| 1 Polo    |   [Mr Victor Paul Brang Tun](mailto:victor.brang@cwss.moe.edu.sg)   | [ Ms Liao Xinwei ](mailto:liao.xinwei@cwss.moe.edu.sg)  |
+| 1 Ohm    |  [Mdm Gopal Chitradevi ](mailto:gopal.chitradevi@cwss.moe.edu.sg)  |  [ Mr Tan Guanrui Jacob](mailto:jacob.tan@cwss.moe.edu.sg)
+| 1 Nightingale    |  [Mr Heng Swee Kee](mailto:heng.sweekee@cwss.moe.edu.sg)   |  [Ms Jasmiyanti Bte Maharjas](mailto:jasmiyanti.marhajas@cwss.moe.edu.sg)   |
 
 ### Secondary 2
 
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
-| 2 Curie    |   Ms Tai Kai Zhen   |  Ms Tong Siok Mei   |
-| 2 Hawking    |   Mr Quek Jie Rong Elson   | Ms Aiswarya d/o Manickavasagam  |
-| 2 Armstrong    |   Ms Lai Ying Ying   |   Mdm Vineeta|
-| 2 Mandela    |   Ms Phoon Chee Ling   |   Ms Vinodhini M Selveindran  |
-| 2 Polo    |  Ms Alvina Leong Yoke Wai   |   Ms Lye Zhen Xi   |
-| 2 Ohm    |   Mr Lim Sze Tim   |   Ms Nurliana Bte Abdullah   |
-| 2 Nightingale    |  Ms Liao Liting   |   Mr Sun Guangzhou   |
+| 2 Curie    |   [Ms Tai Kai Zhen](mailto:tai.kaizhen@cwss.moe.edu.sg)   |  [Ms Tong Siok Mei](mailto:tong.siokmei@cwss.moe.edu.sg)   |
+| 2 Hawking    |   [Mr Quek Jie Rong Elson](mailto:elson.quek@cwss.moe.edu.sg)   | [Ms Aiswarya d/o Manickavasagam](mailto:aiswarya@cwss.moe.edu.sg)  |
+| 2 Armstrong    |   [Ms Lai Ying Ying](mailto:lai.yingying@cwss.moe.edu.sg)   |   [Mdm Vineeta](mailto:vineeta@cwss.moe.edu.sg)|
+| 2 Mandela    |   [Ms Phoon Chee Ling](mailto:phoon.cheeling@cwss.moe.edu.sg)   |   [Ms Vinodhini M Selveindran](mailto:vinodhini@cwss.moe.edu.sg)  |
+| 2 Polo    |  [Ms Alvina Leong Yoke Wai ](mailto:alvina.leong@cwss.moe.edu.sg)  |   [Ms Lye Zhen Xi ](mailto:lye.zhenxi@cwss.moe.edu.sg)  |
+| 2 Ohm    |   [Mr Kenneth Lim](mailto:kenneth.lim@cwss.moe.edu.sg)   |  [ Ms Nurliana Bte Abdullah](mailto:nurliana.abdullah@cwss.moe.edu.sg)   |
+| 2 Nightingale    |  [Ms Liao Liting ](mailto:liao.liting@cwss.moe.edu.sg)  |   [Mr Sun Guangzhou](mailto:sun.guangzhou@cwss.moe.edu.sg)   |
 
 ### Secondary 3
 
@@ -37,9 +37,8 @@ variant: markdown
 | 3 Armstrong    |   [Mr Joel Chua](mailto:joel.chua@cwss.moe.edu.sg)   |   [Mrs June Tang](mailto:june.tang@cwss.moe.edu.sg)   |
 | 3 Mandela    |   [Mr Cheong Hock Soan](mailto:cheong.hocksoan@cwss.moe.edu.sg)   |   [Mrs Leong Sai Hong](mailto:Leong.saihong@cwss.moe.edu.sg)   |
 | 3 Polo    |   [Ms Nur Fatin Haziqah](mailto:nur.fatin.haziqah@cwss.moe.edu.sg)   |   [Mrs Yeo Siew Mui](mailto:yeo.siewmui@cwss.moe.edu.sg)   |
-| 3 Ip Man    |   [Mrs Chew Jasmine](mailto:jasmine.chew@cwss.moe.edu.sg)   |   [Mdm Tang Wai Yin](mailto:tang.waiyin@cwss.moe.edu.sg)   |
-| 3 Ohm    |   [Ms Lee Ying Jie](mailto:lee.yingjie@cwss.moe.edu.sg)   |   [Mr Scott Ng](mailto:ng.hanliat@cwss.moe.edu.sg)   |
-| 3 Nightingale    |   [Ms Joey Lim](mailto:joeylim.peisi@cwss.moe.edu.sg)   |      |
+| 3 Ohm    |   [Mr Aidil Noor](mailto:aidil.noor@cwss.moe.edu.sg)   |   [Mrs Ang Yee May](mailto:wong.yeemay@cwss.moe.edu.sg)   |
+| 3 Nightingale    |   [Ms Dasari Brinda Nagaraju](mailto:brinda@cwss.moe.edu.sg)   |  [Mr Liang Lu](mailto:Liang.lu@cwss.moe.edu.sg)    |
 
 ### Secondary 4
 
