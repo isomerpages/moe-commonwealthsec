@@ -234,10 +234,10 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sia Ling Ee</p>
+<p>Chong Wensheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department Humanities&nbsp;</p>
@@ -252,6 +252,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Rou Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Humanities</p>
 </td>
 </tr>
 <tr>
@@ -383,7 +394,7 @@ description: ""
 <p>Rizman Bin Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Educational Technology</p>
+<p>Year Head</p>
 </td>
 </tr>
 <tr>
@@ -391,10 +402,10 @@ description: ""
 <p>Ms&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sophia Lim</p>
+<p>Liao Xin Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Subject Head Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -534,33 +545,10 @@ description: ""
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loo Jiaming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department Mother Tongue Languages&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Saadiah Aziz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Cheon Chee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>Chinese Language</p>
+<p>Head of Department Mother Tongue Languages&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -715,6 +703,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department Physical Education &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tho Yan Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
