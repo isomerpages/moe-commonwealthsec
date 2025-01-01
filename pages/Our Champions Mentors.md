@@ -34,7 +34,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | 3 Curie    |   [Ms Mahalingam Umamaheswari](mailto:mahalingam.umamaheswari@cwss.moe.edu.sg)   |   [Mr Zuwardy Bin Said](mailto:zuwardy.said@cwss.moe.edu.sg)   |
 | 3 Hawking    |   [Mr Matthias Sim Kwong Wee](mailto:matthias.sim@cwss.moe.edu.sg)   |  [Mrs Noella Chua](mailto:noella.yee@cwss.moe.edu.sg)  |
-| 3 Armstrong    |   [Mr Joel Chua](mailto:joel.chua@cwss.moe.edu.sg)   |   [Ms Nabilah Mohd Rashid](mailto:nabilah@cwss.moe.edu.sg)   |
+| 3 Armstrong    |   [Mr Joel Chua](mailto:joel.chua@cwss.moe.edu.sg)   |   [Mrs June Tang](mailto:june.tang@cwss.moe.edu.sg)   |
 | 3 Mandela    |   [Mdm Quek Lay Hong](mailto:quek.layhong@cwss.moe.edu.sg)   |   [Mr Musa Shukor](mailto:musa.shukor@cwss.moe.edu.sg)   |
 | 3 Polo    |   [Ms Lee Sin Choon](mailto:lee.sinchoon@cwss.moe.edu.sg)   |   [Mr Muhd Yusman](mailto:muhammad.yusman@cwss.moe.edu.sg)   |
 | 3 Ip Man    |   [Mrs Chew Jasmine](mailto:jasmine.chew@cwss.moe.edu.sg)   |   [Mdm Tang Wai Yin](mailto:tang.waiyin@cwss.moe.edu.sg)   |
