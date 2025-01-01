@@ -36,7 +36,7 @@ variant: markdown
 | 3 Hawking    |   [Mr Matthias Sim Kwong Wee](mailto:matthias.sim@cwss.moe.edu.sg)   |  [Mrs Noella Chua](mailto:noella.yee@cwss.moe.edu.sg)  |
 | 3 Armstrong    |   [Mr Joel Chua](mailto:joel.chua@cwss.moe.edu.sg)   |   [Mrs June Tang](mailto:june.tang@cwss.moe.edu.sg)   |
 | 3 Mandela    |   [Mr Cheong Hock Soan](mailto:cheong.hocksoan@cwss.moe.edu.sg)   |   [Mrs Leong Sai Hong](mailto:Leong.saihong@cwss.moe.edu.sg)   |
-| 3 Polo    |   [Ms Lee Sin Choon](mailto:lee.sinchoon@cwss.moe.edu.sg)   |   [Mr Muhd Yusman](mailto:muhammad.yusman@cwss.moe.edu.sg)   |
+| 3 Polo    |   [Ms Nur Fatin Haziqah](mailto:nur.fatin.haziqah@cwss.moe.edu.sg)   |   [Mrs Yeo Siew Mui](mailto:yeo.siewmui@cwss.moe.edu.sg)   |
 | 3 Ip Man    |   [Mrs Chew Jasmine](mailto:jasmine.chew@cwss.moe.edu.sg)   |   [Mdm Tang Wai Yin](mailto:tang.waiyin@cwss.moe.edu.sg)   |
 | 3 Ohm    |   [Ms Lee Ying Jie](mailto:lee.yingjie@cwss.moe.edu.sg)   |   [Mr Scott Ng](mailto:ng.hanliat@cwss.moe.edu.sg)   |
 | 3 Nightingale    |   [Ms Joey Lim](mailto:joeylim.peisi@cwss.moe.edu.sg)   |      |
