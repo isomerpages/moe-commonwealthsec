@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Our Champions Mentors.md
       - School Advisory Committee.md
       - School Leaders.md
       - Academic Heads.md
@@ -10,4 +9,5 @@ collections:
       - Our Departments.md
       - Our Teaching Staff.md
       - Our Allied Educators.md
+      - Our Champions Mentors.md
       - Our Staff Recognition.md
