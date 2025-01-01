@@ -33,7 +33,7 @@ variant: markdown
 | Class | Mentor 1 | Mentor 2 |
 | -------- | -------- | -------- |
 | 3 Curie    |   [Ms Mahalingam Umamaheswari](mailto:mahalingam.umamaheswari@cwss.moe.edu.sg)   |   [Mr Zuwardy Bin Said](mailto:zuwardy.said@cwss.moe.edu.sg)   |
-| 3 Hawking    |   [Mr](mailto:audrey.tham@cwss.moe.edu.sg)   |      |
+| 3 Hawking    |   [Mr Matthias Sim Kwong Wee](mailto:matthias.sim@cwss.moe.edu.sg)   |      |
 | 3 Armstrong    |   [Mr Christopher Sim](mailto:christopher.sim@cwss.moe.edu.sg)   |   [Ms Nabilah Mohd Rashid](mailto:nabilah@cwss.moe.edu.sg)   |
 | 3 Mandela    |   [Mdm Quek Lay Hong](mailto:quek.layhong@cwss.moe.edu.sg)   |   [Mr Musa Shukor](mailto:musa.shukor@cwss.moe.edu.sg)   |
 | 3 Polo    |   [Ms Lee Sin Choon](mailto:lee.sinchoon@cwss.moe.edu.sg)   |   [Mr Muhd Yusman](mailto:muhammad.yusman@cwss.moe.edu.sg)   |
