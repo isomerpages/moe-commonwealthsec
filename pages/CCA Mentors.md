@@ -2,8 +2,8 @@
 title: CCA Mentors
 permalink: /permalink/
 description: ""
+variant: markdown
 ---
-
 #### Sports
 | CCA | Teacher In Charge |
 | -------- | -------- |
