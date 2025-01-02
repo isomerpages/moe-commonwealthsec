@@ -20,7 +20,7 @@ description: ""
 <p>Ye Dan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department Innovation &amp; Design&nbsp;</p>
+<p>Head of Department (Innovation &amp; Design)</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +31,7 @@ description: ""
 <p>Noella Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Student Leadership&nbsp;</p>
+<p>Subject Head (Student Leadership)</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ description: ""
 <p>Rubiyah Bte Khamis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Craft &amp; Technology&nbsp;</p>
+<p>Subject Head (Craft &amp; Technology)</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ description: ""
 <p>Lin Weiquan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department English Language and Literature</p>
+<p>Head of Department (English Language and Literature)</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ description: ""
 <p>Musa Bin Shukor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head English Language</p>
+<p>Subject Head (English Language)</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ description: ""
 <p>Dasari Brinda Nagaraju</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher English Language</p>
+<p>Senior Teacher (English Language)</p>
 </td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ description: ""
 <p>Chong Wensheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department Humanities&nbsp;</p>
+<p>Head of Department (Humanities)</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ description: ""
 <p>Tan Rou Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Humanities</p>
+<p>Subject Head (Humanities)</p>
 </td>
 </tr>
 <tr>
@@ -350,7 +350,7 @@ description: ""
 <p>Chan Foong Keng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department Mathematics&nbsp;</p>
+<p>Head of Department (Mathematics)</p>
 </td>
 </tr>
 <tr>
@@ -361,7 +361,7 @@ description: ""
 <p>Rafeek Ahmed s/o Abdul Majeed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department Student Leadership &amp; Management&nbsp;</p>
+<p>Head of Department (Student Leadership &amp; Management)</p>
 </td>
 </tr>
 <tr>
@@ -383,7 +383,7 @@ description: ""
 <p>Liao Xin Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Mathematics</p>
+<p>Subject Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
@@ -394,7 +394,7 @@ description: ""
 <p>Tan Hwee Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher Mathematics</p>
+<p>Lead Teacher (Mathematics)</p>
 </td>
 </tr>
 <tr>
@@ -515,7 +515,7 @@ description: ""
 <p>Cheon Chee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department Mother Tongue Languages&nbsp;</p>
+<p>Head of Department (Mother Tongue Languages)</p>
 </td>
 </tr>
 <tr>
@@ -537,7 +537,7 @@ description: ""
 <p>Jasmiyanti Bte Marhajas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Malay Language</p>
+<p>Senior Teacher (Malay Language)</p>
 </td>
 </tr>
 <tr>
@@ -680,7 +680,7 @@ description: ""
 <p>Vilau s/o Muniyandhi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department Physical Education &amp; CCA</p>
+<p>Head of Department (Physical Education &amp; CCA)</p>
 </td>
 </tr>
 <tr>
@@ -703,7 +703,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
-<br>Physical Education</p>
+<br>(Physical Education)</p>
 </td>
 </tr>
 <tr>
@@ -747,7 +747,7 @@ description: ""
 <p>Edlyn Lee Li Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department Sciences</p>
+<p>Head of Department (Sciences)</p>
 </td>
 </tr>
 <tr>
@@ -759,7 +759,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Character Development &amp; Partnerships</p>
+<br>(Character Development &amp; Partnerships)</p>
 </td>
 </tr>
 <tr>
@@ -770,7 +770,7 @@ description: ""
 <p>Wong Sok Foon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department Info-Communication Technology&nbsp;</p>
+<p>Head of Department (Info-Communication Technology)</p>
 </td>
 </tr>
 <tr>
@@ -781,7 +781,7 @@ description: ""
 <p>Ye Dan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department Innovation &amp; Design&nbsp;</p>
+<p>Head of Department (Innovation &amp; Design)</p>
 </td>
 </tr>
 <tr>
@@ -803,7 +803,7 @@ description: ""
 <p>Lew Keng Wah, Simon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Citizenship &amp; Character Education&nbsp;</p>
+<p>Subject Head (Citizenship &amp; Character Education)</p>
 </td>
 </tr>
 <tr>
@@ -814,7 +814,7 @@ description: ""
 <p>Vinodhini M Selveindran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Science and Research&nbsp;</p>
+<p>Subject Head (Science and Research)</p>
 </td>
 </tr>
 <tr>
@@ -825,7 +825,7 @@ description: ""
 <p>Yusman Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Co-Curricular Activities&nbsp;</p>
+<p>Subject Head (Co-Curricular Activities)</p>
 </td>
 </tr>
 <tr>
@@ -836,7 +836,7 @@ description: ""
 <p>Tan Guanrui&nbsp; Jacob</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Biology&nbsp;</p>
+<p>Senior Teacher (Biology)</p>
 </td>
 </tr>
 <tr>
@@ -847,7 +847,7 @@ description: ""
 <p>Quek Lay Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Physics</p>
+<p>Senior Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
@@ -946,7 +946,7 @@ description: ""
 <p>Edwin Lim Yong Hwee&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(AED) Student Welfare Officer (SWO)</p>
+<p>Student Welfare Officer</p>
 </td>
 </tr>
 <tr>
@@ -968,7 +968,7 @@ description: ""
 <p>Shalini d/o Chandran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Education Needs Officer (SENS)</p>
+<p>Special Education Needs Officer</p>
 </td>
 </tr>
 <tr>
@@ -979,7 +979,7 @@ description: ""
 <p>Theeyagaspara Dyal Olagnathan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Counsellor (SC)</p>
+<p>School Counsellor</p>
 </td>
 </tr>
 </tbody>
