@@ -184,7 +184,7 @@ faithful, correct, and consistent condom use).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Learn to negotiate their way out of a risky situation by applying skills
+<p>Learn to negotiate their way out of a risky situation by applying skills
 of assertiveness and responsible decision-making
 <br>
 </p>
