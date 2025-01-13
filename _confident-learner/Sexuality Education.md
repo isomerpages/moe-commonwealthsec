@@ -101,7 +101,7 @@ Education Programme will be taught in 2025:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/7.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/8A.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/9.jpg">
