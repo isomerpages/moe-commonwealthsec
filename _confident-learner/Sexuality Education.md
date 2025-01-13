@@ -18,7 +18,6 @@ on sexuality issues.</p>
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/banner_sexualityeducation.jpg">
 </div>
-<p>![](/images/Sexuality%20Education%202025/2.jpg)</p>
 <h5>The Goals of Sexuality Education are to:</h5>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
