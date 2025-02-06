@@ -5,12 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h1>Direct School Admission</h1>
-<p><em>Updated 6 May 2024</em>
+<p><em>Updated 6 February 2025</em>
 </p>
 <p>Primary Six pupils may seek Direct School Admission into Commonwealth
-Secondary School before the Secondary One Posting Exercise. The deadline
-for DSA application in 2025 has passed. Parents may still refer to this
-page for information on DSA.</p>
+Secondary School before the Secondary One Posting Exercise. The DSA application
+for entry into Commonwealth Secondary School in 2026 has yet to commence.
+Parents may still refer to this page for information on DSA and are advised
+to check this page periodically for updates.</p>
 <h4>Admission Criteria</h4>
 <p><strong>Category 1: Performing Arts - Band, Choir, Modern Dance, Indian Dance, Drama</strong>
 </p>
@@ -87,7 +88,7 @@ are expected to join the respective CCA allocated by the school during
 their 4 years with the school.</p>
 <p><strong>Application Procedure</strong>
 </p>
-<p>5. <strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
+<p>5. The DSA Application for Primary 6 students in 2025 has yet to commence.<strong> For more details, please refer to MOE website <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
 </p>
 <p>6. Parents and students are encouraged to choose schools wisely based
 on the student’s&nbsp;aptitudes and strengths, bearing in mind the schools’
@@ -108,7 +109,7 @@ year 1 - 4.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Dates</p>
+<p>Period</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Actions</p>
@@ -116,7 +117,7 @@ year 1 - 4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May at 11am to 3 June at 3pm</p>
+<p>May to June</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Candidates to submit DSA Application via MOE website <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
@@ -125,7 +126,7 @@ year 1 - 4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 June to 9 September</p>
+<p>June to September</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisting and selection</p>
@@ -133,7 +134,7 @@ year 1 - 4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 12 September</p>
+<p>By end September</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School will inform candidates of results.</p>
