@@ -28,43 +28,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Noodles Stall (Halal or Non-Halal)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1 Nov 2024</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Noodles</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>International Cuisine (Halal or Non-Halal)</strong>
-</p>
-<p><strong>Or Indian Cuisine (Halal or Non-Halal)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1 Nov 2024</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Fusion Food Rice, e.g Japanese / Korean Food. We are open to other proposals too.</strong>
-</p>
-<p><strong>Indian cuisine</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Snack and Hot Drink</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1 Nov 2024</strong>
+<p><strong>27 Mar 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
