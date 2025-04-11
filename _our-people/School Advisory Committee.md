@@ -2,14 +2,19 @@
 title: School Advisory Committee
 permalink: /our-people/00-School-Advisory-Committee/
 description: ""
+variant: markdown
 ---
 | Name | Appointment
 | -------- | --------
-| Mr Bernard Chan Teck Hock | Chairperson
+| Mr Lam Yen Gi Gideon | Chairperson
 | Mdm Harjit Kaur | Vice-Chairperson
-| Mr Ee Kuo-Ren | Member
-| Mr Lam Yen Gi Gideon | Member
+| Dr Christopher Leo  | Member
 | Ms Jill Wong | Member
+| Mr Lee Kok Kin | Member
 | Ms Lim Ting Ting | Member
+| Mr Low Heng Yi | Member
 | Mr Muhammad Haikal Bin Muhammad Ridwan Yeo | Member
+| Ms Selvakumar Panneerselvam | Member
+| Mr Soh I Kin Ronald Mark | Member
+| Ms Teoh Swee Bing | Member
 | Mr Jeremy Ang | Honorary Secretary
