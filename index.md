@@ -13,8 +13,4 @@ sections:
       alignment: left
       button: Virtual CWSS Experience
       url: http://www.commonwealthsec.moe.edu.sg/virtualcwssexp/virtual-tour/
-      key_highlights:
-        - title: 2025 Sec 1 Registration
-          description: Click here for information!
-          url: /2025-secondary-1-registration/permalink/para1/
 ---
