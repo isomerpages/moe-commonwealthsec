@@ -101,10 +101,10 @@ May 2025 to 3 Jun 2025.<strong> For more details, please refer to MOE website <a
 on the student’s&nbsp;aptitudes and strengths, bearing in mind the schools’
 academic and non-academic&nbsp;requirements, and the programmes available
 to develop the area of talent.</p>
-<p>8.&nbsp;Students who are successfully admitted to the school via DSA are
-required to honour their&nbsp;commitment to the school, and participate
-in the activities related to the talent they are selected&nbsp;for from
-year 1 - 4.</p>
+<p>8.&nbsp;Students who are successfully admitted to the Commonwealth Secondary
+School via DSA are required to honour their&nbsp;commitment to the school,
+and participate in the activities related to the talent they are selected&nbsp;for
+from year 1 - 4.</p>
 <p><u>Selection Schedule</u>
 </p>
 <table style="minWidth: 50px">
