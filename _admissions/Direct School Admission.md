@@ -135,7 +135,11 @@ from year 1 - 4.</p>
 <p>30 June 2025 to 4 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shortlisting and selection</p>
+<p>Shortlisting and selection.</p>
+<p></p>
+<p>All parents will receive notification from the school by end of July,
+if their child has been shortlisted to undergo Direct School Admission
+(DSA) selection.</p>
 </td>
 </tr>
 <tr>
