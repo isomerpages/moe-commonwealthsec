@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Contact Us
 ---
 <p>We have been alerted to incidents where members of the public, including
-contractors, have received phone calls from individuals attempting to impersonate
+vendors, have received phone calls from individuals attempting to impersonate
 staff of Commonwealth Secondary School.</p>
 <p>The following are likely to be scam phone calls:</p>
 <ul data-tight="true" class="tight">
