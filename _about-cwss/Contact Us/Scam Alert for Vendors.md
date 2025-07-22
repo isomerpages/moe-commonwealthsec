@@ -33,6 +33,9 @@ remittance agencies, or any other means.</p>
 bank account, credit card information, One-time Password (OTP) etc.</p>
 </li>
 <li>
+<p>Call our school at 65606866 to verify the information.</p>
+</li>
+<li>
 <p>Report these incidents to the authorities.</p>
 </li>
 </ul>
