@@ -2,11 +2,11 @@ collections:
   about-cwss:
     output: true
     order:
-      - Contact Us/Contact.md
-      - Contact Us/.keep
       - Vision & Mission.md
       - Values.md
       - School Crest.md
       - History.md
       - Ethos Philosophy.md
       - Code of Conduct.md
+      - Contact Us/.keep
+      - Contact Us/Contact.md
