@@ -2,6 +2,7 @@ collections:
   about-cwss:
     output: true
     order:
+      - Contact Us/.keep
       - Vision & Mission.md
       - Values.md
       - School Crest.md
