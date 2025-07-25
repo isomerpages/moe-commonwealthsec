@@ -188,7 +188,7 @@ video featuring Alfyan, Vice President of the 25th Student Council, as
 he reflects on how his journey has shaped his growth as a Student Councillor.</p>
 <p>Insert Link:</p>
 <div class="iframe-wrapper">
-<iframe height="1080" width="1920" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JX-wTryOcac?si=DqIu50Mjw1ogqDKU"></iframe>
+<iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JX-wTryOcac?si=DqIu50Mjw1ogqDKU"></iframe>
 </div>
 <p></p>
 <p>&nbsp;</p>
