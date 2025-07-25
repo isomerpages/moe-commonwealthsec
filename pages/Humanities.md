@@ -21,8 +21,7 @@ students build foundational business knowledge and practical skills that
 equip them to navigate the future of work with confidence, adaptability,
 and purpose.</p>
 <p></p>
-<p><strong>Enrichment Activities</strong>
-</p>
+<h3><strong>Enrichment Activities</strong></h3>
 <p>As part of our Trailblazer Thursday programme, Commonwealthians engage
 in creative and thought-provoking enrichment activities that bring learning
 to life. One such activity is the Wartime Kitchen, where students combine
@@ -31,8 +30,7 @@ from wartime Singapore. These hands-on experiences deepen students’ understand
 and allow them to meaningfully connect with the Humanities curriculum through
 research and experiential learning.</p>
 <p></p>
-<p><strong>Humanities Talent Development</strong>
-</p>
+<h3><strong>Humanities Talent Development</strong></h3>
 <p>Commonwealthians who demonstrate passion and potential in the Humanities
 can take part in the Humanities Talent Development Programme, which provides
 authentic platforms for exploration and growth. Through this programme,
