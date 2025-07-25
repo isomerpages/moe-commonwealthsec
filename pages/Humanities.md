@@ -52,7 +52,7 @@ them as thoughtful young thinkers and active global citizens.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Historical_Investigation_Learning_Journey_at_the_Singapore_Chinese_Cultural_Centre__SCCC_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Historical_Investigation_Learning_Journey_at_the_Singapore_Chinese_Cultural_Centre__SCCC_.jpg">
 </div>
 <p></p>
 <p><strong>EBS Data Collection Field work at Merlion Park</strong>
