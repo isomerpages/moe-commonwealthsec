@@ -192,8 +192,7 @@ he reflects on how his journey has shaped his growth as a Student Councillor.</p
 </div>
 <p></p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<h3><u>CCA Leaders</u></h3>
+<h3>&nbsp;<u>CCA Leaders</u></h3>
 <p>CCA Leaders play a vital role in shaping the culture and spirit of their
 co-curricular groups. They work closely with CCA teachers and instructors
 to plan training sessions, organise events, and uphold the values and standards
