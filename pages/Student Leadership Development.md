@@ -186,8 +186,10 @@ school community.</p>
 <p>To gain deeper insight into the student leadership experience, watch this
 video featuring Alfyan, Vice President of the 25th Student Council, as
 he reflects on how his journey has shaped his growth as a Student Councillor.</p>
-<p>Insert Link: <a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/JX-wTryOcac</a>
-</p>
+<p>Insert Link:</p>
+<div class="iframe-wrapper">
+<iframe height="1080" width="1920" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JX-wTryOcac?si=DqIu50Mjw1ogqDKU"></iframe>
+</div>
 <p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
