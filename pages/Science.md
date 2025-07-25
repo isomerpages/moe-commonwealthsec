@@ -66,52 +66,25 @@ themselves, such as through participation in the National Chemistry and
 Physics Olympiads. We also offer our STEM Elective Programme as a subject
 for interested Upper Secondary students to pursue self-directed, innovative
 research projects.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/SunRice_Academy.jpg">
+</div>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Science_Center_Travelling_Exhibition.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Science_Center_Travelling_Exhibition.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/SunRice_Academy.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p>Our commitment to excellence is reflected in students' achievements. Our
 Commonwealthians have obtained prestigious awards at national competitions
 including the Singapore Science and Engineering Fair, Singapore Youth Science
 Festival, NJC Star Symposium, and A*STAR VJC Science Fair.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/2025_Star_Symposium_in_NJC.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/2025_Star_Symposium_in_NJC.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/2025_SSEF.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/2025_SSEF.jpg">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
 <h3><strong>Where Science Meets Life</strong></h3>
 <p>At Commonwealth Secondary School, we don't just teach science—we live
 it. Our programmes show students that research and innovation are essential
@@ -120,7 +93,7 @@ learning and creative problem-solving, we prepare Commonwealthians to become
 Confident Learners, Imaginative Trailblazers and Steward Leaders.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Sec_2_Solar_Cooker.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Sec_2_Solar_Cooker.jpg">
 </div>
 <p></p>
 <p></p>
