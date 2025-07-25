@@ -45,28 +45,54 @@ them as thoughtful young thinkers and active global citizens.</p>
 <p><strong>Historical Investigation Learning Journey to the Singapore Chinese Cultural Centre</strong>
 </p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Historical_Investigation_Learning_Journey_at_the_Singapore_Chinese_Cultural_Centre__SCCC__2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Historical_Investigation_Learning_Journey_at_the_Singapore_Chinese_Cultural_Centre__SCCC__2.jpg">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Historical_Investigation_Learning_Journey_at_the_Singapore_Chinese_Cultural_Centre__SCCC_.jpg">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>EBS Data Collection Field work at Merlion Park</strong>
 </p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/EBS_Field_work_at_Merlion_Park_Group_Photo.jpg">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/EBS_Field_Work_Interview_photographs.jpg">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Geographical Investigation Field work at the Wetlands in our school</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Geographical_Investigation__GI__with_water_testing_kits.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Geographical_Investigation__GI__with_water_testing_kits.jpg">
 </div>
 <p></p>
