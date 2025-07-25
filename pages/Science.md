@@ -28,6 +28,17 @@ they literally taste the fruits of their labour.</p>
 <p>These activities support Singapore's goal of producing 30% of our food
 supply locally by 2030, by helping Commonwealthians understand how science
 addresses real-world challenges and improves daily life.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 1 Farm To Table" src="/images/Academic Programmes 2025/Sec_1_Farm_To_Table.jpg">
+</div>
+<p>Sec 1 Farm To Table</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 2 Farm To Table" src="/images/Academic Programmes 2025/Sec_2_Farm_To_Table.jpg">
+</div>
+<p>Sec 2 Farm To Table</p>
 <h3><strong>Nurturing Scientific Talent</strong></h3>
 <p>We take learning beyond classroom walls so that Commonwealthians can observe
 Science in action. Every year, Secondary 2 and 3 students embark on learning
@@ -44,16 +55,36 @@ themselves, such as through participation in the National Chemistry and
 Physics Olympiads. We also offer our STEM Elective Programme as a subject
 for interested Upper Secondary students to pursue self-directed, innovative
 research projects.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Science_Center_Travelling_Exhibition.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/SunRice_Academy.jpg">
+</div>
 <p>Our commitment to excellence is reflected in students' achievements. Our
 Commonwealthians have obtained prestigious awards at national competitions
 including the Singapore Science and Engineering Fair, Singapore Youth Science
 Festival, NJC Star Symposium, and A*STAR VJC Science Fair.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/2025_Star_Symposium_in_NJC.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/2025_SSEF.jpg">
+</div>
 <h3><strong>Where Science Meets Life</strong></h3>
 <p>At Commonwealth Secondary School, we don't just teach science—we live
 it. Our programmes show students that research and innovation are essential
 tools for understanding and improving the world around us. Through inquiry-based
 learning and creative problem-solving, we prepare Commonwealthians to become
 Confident Learners, Imaginative Trailblazers and Steward Leaders.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Sec_2_Solar_Cooker.jpg">
+</div>
 <p></p>
 <p></p>
 <p>&nbsp;</p>
