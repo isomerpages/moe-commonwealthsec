@@ -23,24 +23,15 @@ Fostering the ability to think and plan for the future.</p>
 <p>&nbsp;Ultimately, we aspire for our students to become stewards of our
 community and shared future, with each generation striving to pass on an
 even better world to the next.</p>
-<p></p>
 <h3><strong><u>Student Leadership Framework</u></strong></h3>
 <p>At Commonwealth, our student leadership development is guided by the <strong>4E1R Model</strong>,
 which charts a progressive pathway to nurture Commonwealthians to be Steward
-Leaders.</p>
-<p>&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;</p>
+Leaders.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/White_and_Blue_corporate_modern_Timeline_graph.png">
+</div>
 <p>To support this progression, we adopt <strong>level-specific foci</strong> for
-each secondary level, anchored in key behavioural traits:</p>
-<p>&nbsp;</p>
+each secondary level, anchored in key behavioural traits:&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -149,25 +140,44 @@ Model, we hope to develop every Commonwealthian to be a Steward Leader—a
 changemaker who champions a better future with the community.</p>
 <h3><strong><u>Student Council</u></strong></h3>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/student_council.jpg">
+</div>
 <p></p>
 <p>The Student Council is a dynamic, student-led organisation dedicated to
 representing and serving the student body. Its mission is to build the
 Commonwealthian spirit through engaging and enriching programmes, foster
 a nurturing and supportive school environment, and maintain a safe and
 positive learning atmosphere for all students.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image__17_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image__16_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image__13_.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Student Councillors are equipped through a combination of leadership training
 and on-the-job experiences that prepare them to serve confidently and effectively.
 They contribute across three interconnected wings: <strong>Peer Support Leaders</strong> who
@@ -178,11 +188,29 @@ exemplify the school’s values by upholding discipline and leading school-wide
 projects that promote wellbeing.</p>
 <p>Together, these wings collaborate to create a vibrant, caring, and safe
 school community.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Image__12_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Image__11_.jpg">
+</div>
 <p>To gain deeper insight into the student leadership experience, watch this
 video featuring Alfyan, Vice President of the 25th Student Council, as
 he reflects on how his journey has shaped his growth as a Student Councillor.</p>
@@ -190,9 +218,7 @@ he reflects on how his journey has shaped his growth as a Student Councillor.</p
 <div class="iframe-wrapper">
 <iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JX-wTryOcac?si=DqIu50Mjw1ogqDKU"></iframe>
 </div>
-<p></p>
-<p>&nbsp;</p>
-<h3>&nbsp;<u>CCA Leaders</u></h3>
+<h3><u>CCA Leaders</u></h3>
 <p>CCA Leaders play a vital role in shaping the culture and spirit of their
 co-curricular groups. They work closely with CCA teachers and instructors
 to plan training sessions, organise events, and uphold the values and standards
