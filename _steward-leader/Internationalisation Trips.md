@@ -56,3 +56,12 @@ with them for life.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Trips_8.jpg">
 </div>
 <p>Internationalisation Trip to Thailand</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Image__15_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Image__14_.jpg">
+</div>
+<p>Internationalisation trip to Surabaya, Indonesia</p>
