@@ -4,7 +4,7 @@ permalink: /eco-stewardship-campus/
 variant: tiptap
 description: ""
 ---
-<h4>Campus</h4>
+<h4><strong>Campus</strong></h4>
 <p>Commonwealth Secondary School has transformed its campus into an ecologically
 rich learning environment that aligns closely with national sustainability
 goals such as the Singapore Green Plan 2030 and the #OneMillionTreesSG
