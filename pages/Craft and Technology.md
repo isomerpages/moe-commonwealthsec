@@ -11,11 +11,7 @@ description: ""
 hands-on and minds-on experiences. We aim to nurture confident, imaginative
 learners who find joy in creating, problem-solving, and appreciating how
 design shapes everyday life.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Figure_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Figure_2.jpg">
 </div>
 <p></p>
-<p></p>
-<p>prototyping process</p>
