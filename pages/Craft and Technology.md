@@ -17,3 +17,5 @@ design shapes everyday life.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Figure_2.jpg">
 </div>
 <p></p>
+<p></p>
+<p>prototyping process</p>
