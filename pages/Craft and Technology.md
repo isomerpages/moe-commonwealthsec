@@ -133,7 +133,7 @@ and self-expression.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/G1_5.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/G1_5.jpg">
 </div>
 </th>
 </tr>
