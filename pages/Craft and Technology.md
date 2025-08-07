@@ -66,7 +66,7 @@ students ideate, create, and critique. Students use AI not just as a creative
 tool, but to expand their conceptual thinking and digital fluency in an
 evolving artistic landscape.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/5_storyboard.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/5_storyboard.jpg">
 </div>
 <p><strong>2. Making Thinking Visible with Drawing</strong>
 </p>
@@ -127,7 +127,7 @@ and self-expression.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/G1_6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/G1_6.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
