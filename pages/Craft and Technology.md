@@ -47,3 +47,16 @@ resilience, and real-world problem-solving skills.</p>
 nurtures critical, inventive, and adaptive thinking—shaping confident problem-solvers
 for a fast-changing, technology-driven world.</p>
 <p></p>
+<h4><strong>ART</strong></h4>
+<p>Our Art Programme offers a rich blend of <strong>visual art, art theory, art history, and art critique</strong>.
+Rooted in a project-based approach, students explore, experiment, and create
+across a wide range of traditional and digital media while developing both <strong>technical skills</strong> and <strong>personal expression</strong>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Screenshot_2023_11_16_011847___Copy.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Screenshot_2023_11_16_010005___Copy.png">
+</div>
+<p></p>
