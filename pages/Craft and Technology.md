@@ -25,5 +25,25 @@ materials, building both creativity and technical skills. Students also
 begin using digital platforms like <strong>Onshape</strong>, a cloud-based
 3D CAD software, to visualize and develop their ideas in a virtual environment.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Figure_3.png">
+</div>
+<p><strong>Upper Secondary: Deepening Skills with Technology</strong>
+</p>
+<p>At the upper secondary level, students take on more complex design challenges
+through coursework. They apply a structured design process to identify
+user needs, conduct research, generate ideas, and develop functional prototypes.</p>
+<p>The curriculum continues to evolve with the advancement of technology,
+including the growing relevance of tools such as <strong>Artificial Intelligence (AI)</strong>,
+which are increasingly recognized for their potential to support ideation
+and development.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Figure_4.png">
+</div>
+<p>Throughout this process, students learn to manage project timelines, document
+their thinking, and reflect critically on their outcomes—developing independence,
+resilience, and real-world problem-solving skills.</p>
+<p><strong>With every challenge and creation, </strong>the D&amp;T curriculum
+nurtures critical, inventive, and adaptive thinking—shaping confident problem-solvers
+for a fast-changing, technology-driven world.</p>
 <p></p>
