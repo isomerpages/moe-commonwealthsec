@@ -59,4 +59,15 @@ across a wide range of traditional and digital media while developing both <stro
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Screenshot_2023_11_16_010005___Copy.png">
 </div>
+<p><strong>1. Learning Through Technology and AI</strong>
+</p>
+<p><strong>AI and EdTech</strong> are central to our lessons, reshaping how
+students ideate, create, and critique. Students use AI not just as a creative
+tool, but to expand their conceptual thinking and digital fluency in an
+evolving artistic landscape.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/5_storyboard.jpg">
+</div>
 <p></p>
