@@ -41,7 +41,7 @@ learned, fostering self-awareness and personal growth.
 </p><div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA_Emages.jpg">
 </div>
-<table style="minWidth: 100px">
+<p></p><table style="minWidth: 100px">
 <colgroup>
 <col>
 <col>
@@ -70,51 +70,32 @@ learned, fostering self-awareness and personal growth.
 <tr>
 <td rowspan="1" colspan="1">
 <p>- Basketball
-<br>
 <br>- Badminton
-<br>
 <br>- Cross-Country
-<br>
 <br>- Dragon-Boat
-<br>
 <br>- Netball
-<br>
 <br>- Soccer
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Band
-<br>
 <br>- Choir
-<br>
 <br>- Drama Club
-<br>
 <br>- Ethereal <em>(Modern Dance)</em> 
-<br>
 <br>- Indian Dance
-<br>
 <br>- Urban Percussion</p>
-</td>
+	</td>
 <td rowspan="1" colspan="1">
 <p>- Girl Guides
-<br>
 <br>- National Cadet Corps
-<br>
 <br>- National Police Cadet Corps
-<br>
 <br>- Red Cross
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Bits &amp; Atoms <em>(Robotics)</em>
-</p>
-<p>-CWSS Live! <em>(Broadcast Journalism)</em>
-</p>
-<p>
+</p><p>-CWSS Live! <em>(Broadcast Journalism)</em>
 <br>- Eco Club
-<br>
 <br>- New Media Club <em>(Photography &amp; Videography)</em>
 </p>
 </td>
