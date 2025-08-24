@@ -6,11 +6,13 @@ variant: tiptap
 ---
 <h1>Co-Curricular Activities</h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/International_Dance.jpg">
+</div>
 <p>At CWSS, we offer a diverse range of Co-Curricular Activities (CCAs) to
 support the holistic development of our students. Our CCA programme is
 designed to nurture character, cultivate leadership, and build social-emotional
 skills while fostering a strong sense of belonging and teamwork.</p>
-<p></p>
 <p>Our Co-Curricular Activities (CCAs) empower students to serve, grow and
 lead through the school experience. Students are given platforms to:</p>
 <table style="minWidth: 25px">
@@ -20,6 +22,7 @@ lead through the school experience. Students are given platforms to:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Represent the School</strong>
 <br>Showcase their talents at national platforms such as the&nbsp;<em>National School Games</em>,&nbsp;<em>Singapore Youth Festival Arts Presentations</em>,
 and various competitions and exhibitions.</p>
@@ -71,8 +74,9 @@ learned, fostering self-awareness and personal growth.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -88,17 +92,10 @@ learned, fostering self-awareness and personal growth.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>SPORTS</strong>
