@@ -22,7 +22,6 @@ lead through the school experience. Students are given platforms to:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong>Represent the School</strong>
 <br>Showcase their talents at national platforms such as the&nbsp;<em>National School Games</em>,&nbsp;<em>Singapore Youth Festival Arts Presentations</em>,
 and various competitions and exhibitions.</p>
@@ -66,7 +65,8 @@ and a sense of personal mastery.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Reflect and Grow</p>
+<p><strong>Reflect and Grow</strong>
+</p>
 <p>Reflect meaningfully on their experiences and articulate the values they’ve
 learned, fostering self-awareness and personal growth.</p>
 <p></p>
@@ -74,6 +74,15 @@ learned, fostering self-awareness and personal growth.</p>
 </tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA_Emages.jpg">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -82,20 +91,6 @@ learned, fostering self-awareness and personal growth.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>SPORTS</strong>
@@ -128,8 +123,6 @@ learned, fostering self-awareness and personal growth.</p>
 <br>
 <br>- Soccer
 <br>
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,13 +147,10 @@ learned, fostering self-awareness and personal growth.</p>
 <br>
 <br>- Red Cross
 <br>
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Bits &amp; Atoms <em>(Robotics) </em>
-<br>
 </p>
 <p>-CWSS Live! <em>(Broadcast Journalism)</em>
 </p>
@@ -168,8 +158,6 @@ learned, fostering self-awareness and personal growth.</p>
 <br>- Eco Club
 <br>
 <br>- New Media Club <em>(Photography &amp; Videography)</em>
-<br>
-<br>
 </p>
 </td>
 </tr>
