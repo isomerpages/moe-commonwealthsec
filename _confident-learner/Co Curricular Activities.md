@@ -22,9 +22,10 @@ lead through the school experience. Students are given platforms to:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Represent the School</strong>
-<br>Showcase their talents at national platforms such as the&nbsp;<em>National School Games</em>,&nbsp;<em>Singapore Youth Festival Arts Presentations</em>,
-and various competitions and exhibitions.</p>
+<p>Represent the School
+<br>Showcase their talents at national platforms such as the&nbsp;National
+School Games,&nbsp;Singapore Youth Festival Arts Presentations, and various
+competitions and exhibitions.</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +151,7 @@ learned, fostering self-awareness and personal growth.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Bits &amp; Atoms <em>(Robotics) </em>
+<p>- Bits &amp; Atoms <em>(Robotics)</em>
 </p>
 <p>-CWSS Live! <em>(Broadcast Journalism)</em>
 </p>
