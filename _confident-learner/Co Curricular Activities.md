@@ -2,7 +2,7 @@
 title: Co Curricular Activities
 permalink: /confident-learner/co-curricular-activities/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>Co-Curricular Activities</h1>
 <p></p>
@@ -14,34 +14,50 @@ support the holistic development of our students. Our CCA programme is
 designed to nurture character, cultivate leadership, and build social-emotional
 skills while fostering a strong sense of belonging and teamwork.</p>
 <p>Our Co-Curricular Activities (CCAs) empower students to serve, grow and
-lead through the school experience. Students are given platforms to:
-<br><strong>Represent the school</strong>
+lead through the school experience. Students are given platforms to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Represent the school</strong>
 <br>Showcase their talents at national platforms such as the&nbsp;National
 School Games,&nbsp;Singapore Youth Festival Arts Presentations, and various
-competitions and exhibitions.
-<br><strong>Serve the Community</strong>
+competitions and exhibitions.</p>
+</li>
+<li>
+<p><strong>Serve the Community</strong>
 <br>Participate in Values-in-Action (VIA) projects that are integrated into
-CCAs, fostering empathy and civic responsibility.
-<br><strong>Develop Interpersonal Competencies</strong>
+CCAs, fostering empathy and civic responsibility.</p>
+</li>
+<li>
+<p><strong>Develop Interpersonal Competencies</strong>
 <br>Engage in team-based activities that promote collaboration, communication,
-and lasting friendships.
-<br><strong>Explore Interests and Aspirations </strong>
+and lasting friendships.</p>
+</li>
+<li>
+<p><strong>Explore Interests and Aspirations </strong>
 <br>Explore strengths and interests, discover new talent, build a strong foundation
-of knowledge and skills, and grow into confident, passionate learners.
-<br><strong>Gain Real-World Experience</strong>
+of knowledge and skills, and grow into confident, passionate learners.</p>
+</li>
+<li>
+<p><strong>Gain Real-World Experience</strong>
 <br>Learn in authentic settings through hands-on activities and on-the-job
-training that connect classroom learning to real-life applications.
-<br><strong>Lead with Purpose</strong>
+training that connect classroom learning to real-life applications.</p>
+</li>
+<li>
+<p><strong>Lead with Purpose</strong>
 <br>Take on leadership roles within their CCAs to develop confidence, initiative,
-and a sense of personal mastery.
-<br><strong>Reflect and Grow</strong>
+and a sense of personal mastery.</p>
+</li>
+<li>
+<p><strong>Reflect and Grow</strong>
 <br>Reflect meaningfully on their experiences and articulate the values they’ve
-learned, fostering self-awareness and personal growth.
-
-</p><div class="isomer-image-wrapper">
+learned, fostering self-awareness and personal growth.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA_Emages.jpg">
 </div>
-<p></p><table style="minWidth: 100px">
+<p></p>
+<table style="minWidth: 100px">
 <colgroup>
 <col>
 <col>
@@ -74,8 +90,7 @@ learned, fostering self-awareness and personal growth.
 <br>- Cross-Country
 <br>- Dragon-Boat
 <br>- Netball
-<br>- Soccer
-</p>
+<br>- Soccer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Band
@@ -84,17 +99,17 @@ learned, fostering self-awareness and personal growth.
 <br>- Ethereal <em>(Modern Dance)</em> 
 <br>- Indian Dance
 <br>- Urban Percussion</p>
-	</td>
+</td>
 <td rowspan="1" colspan="1">
 <p>- Girl Guides
 <br>- National Cadet Corps
 <br>- National Police Cadet Corps
-<br>- Red Cross
-</p>
+<br>- Red Cross</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Bits &amp; Atoms <em>(Robotics)</em>
-</p><p>-CWSS Live! <em>(Broadcast Journalism)</em>
+</p>
+<p>-CWSS Live! <em>(Broadcast Journalism)</em>
 <br>- Eco Club
 <br>- New Media Club <em>(Photography &amp; Videography)</em>
 </p>
