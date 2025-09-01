@@ -14,7 +14,7 @@ variant: markdown
 | Ms Lim Ting Ting | Member
 | Mr Low Heng Yi | Member
 | Mr Muhammad Haikal Bin Muhammad Ridwan Yeo | Member
-| Ms Selvakumar Panneerselvam | Member
+| Mr Selvakumar Panneerselvam | Member
 | Mr Soh I Kin Ronald Mark | Member
 | Ms Teoh Swee Bing | Member
 | Mr Jeremy Ang | Honorary Secretary
