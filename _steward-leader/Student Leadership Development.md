@@ -1,7 +1,8 @@
 ---
 title: Student Leadership Development
-permalink: /compassionate-leaders/student-leadership-development
+permalink: /steward-leaders/student-leadership-development/
 description: ""
+variant: tiptap
 ---
 Student Leadership Development
 ==============================
