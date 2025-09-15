@@ -22,7 +22,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noella.yee@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Noella Chua</a>
+<p><a href="mailto:noella.yee@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Noella Chua-Yee Ziyun</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
