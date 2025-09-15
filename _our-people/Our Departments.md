@@ -13,7 +13,8 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ye Dan</p>
+<p><a href="Mailto:ye.dan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ye Dan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Innovation &amp; Design)</p>
@@ -21,7 +22,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Noella Chua</p>
+<p><a href="mailto:noella.yee@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Noella Chua</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Student Leadership)</p>
@@ -29,7 +31,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rubiyah Bte Khamis</p>
+<p><a href="mailto:rubiyah.khamis@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Rubiyah Bte Khamis</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Craft &amp; Technology)</p>
@@ -37,7 +40,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Heng Swee Kee</p>
+<p><a href="mailto:heng.sweekee@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Heng Swee Kee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -45,7 +49,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Nur Fatin Haziqah Binte Mokhtaza</p>
+<p><a href="mailto:nur.fatin.haziqah@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Nur Fatin Haziqah Binte Mokhtaza</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -53,7 +58,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ruth Ng</p>
+<p><a href="mailto:ruth.ng@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ruth Ng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -61,7 +67,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tong Siok Mei</p>
+<p><a href="mailto:tong.siokmei@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tong Siok Mei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -69,7 +76,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Victor Paul Brang Tun&nbsp;</p>
+<p><a href="mailto:victor.brang@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Victor Paul Brang Tun</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -77,7 +85,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yong Lek Lai</p>
+<p><a href="mailto:yong.leklai@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Yong Lek Lai</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -85,7 +94,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Zuwardy Bin Said</p>
+<p><a href="mailto:zuwardy.said@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Zuwardy Bin Said</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -103,7 +113,8 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lin Weiquan</p>
+<p><a href="mailto:lin.weiquan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lin Weiquan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (English Language and Literature)</p>
@@ -111,7 +122,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Musa Bin Shukor</p>
+<p><a href="mailto:musa.shukor@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Musa Bin Shukor</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (English Language)</p>
@@ -119,7 +131,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Aidil Bin Noor</p>
+<p><a href="mailto:aidil.noor@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Aidil Bin Noor</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
@@ -127,7 +140,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Dasari Brinda Nagaraju</p>
+<p><a href="mailto:brinda@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Dasari Brinda Nagaraju</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (English Language)</p>
@@ -135,7 +149,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Audrey Tham</p>
+<p><a href="mailto:audrey.tham@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Audrey Tham-Ng Ai Mei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -143,7 +158,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lai Ying Ying&nbsp;</p>
+<p><a href="mailto:lai.yingying@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Lai Ying Ying</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -151,7 +167,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Low-Lu Lineng</p>
+<p><a href="mailto:lu.lineng@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Low-Lu Lineng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -159,7 +176,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mrithini D/O T G Gritharan</p>
+<p><a href="mailto:mrithini.gritharan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Mrithini D/O T G Gritharan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -167,7 +185,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pamela Yang Weiqian</p>
+<p><a href="mailto:pamela@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Pamela Yang Weiqian</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -175,7 +194,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Jie Rong Elson</p>
+<p><a href="mailto:elson.quek@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Quek Jie Rong Elson</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -183,7 +203,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tang Wai Yin</p>
+<p><a href="mailto:tang.waiyin@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tang Wai Yin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -191,7 +212,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Veronica Teo</p>
+<p><a href="mailto:veronica.teo@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Veronica Teo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -199,7 +221,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Pei Yun Jasmin</p>
+<p><a href="mailto:wong.pei.yun.jasmine@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Wong Pei Yun Jasmin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
