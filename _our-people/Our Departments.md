@@ -176,7 +176,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mrithini.gritharan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Mrithini D/O T G Gritharan</a>
+<p><a href="mailto:mrithini.gritharan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Mrithini d/o T G Gritharan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -684,7 +684,8 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vilau s/o Muniyandhi</p>
+<p><a href="mailto:vilau.muniyandhi@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Vilau s/o Muniyandhi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Physical Education &amp; CCA)</p>
@@ -692,7 +693,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tho Yan Han</p>
+<p><a href="mailto:tho.yan.han@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tho Yan Han</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
@@ -700,7 +702,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Han Liat</p>
+<p><a href="mailto:ng.hanliat@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ng Han Liat, Scott</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
@@ -718,7 +721,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Benny Tan</p>
+<p><a href="mailto:benny.tan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Weifeng Benny</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -726,7 +730,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Swee Kian, Peter</p>
+<p><a href="mailto:peter.lim@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lim Swee Kian, Peter</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -744,7 +749,8 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Edlyn Lin-Lee Li Hui</p>
+<p><a href="mailto:edlyn.lee@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Edlyn Lin-Lee Li Hui</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Sciences)</p>
