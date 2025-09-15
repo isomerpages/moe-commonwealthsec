@@ -6,15 +6,12 @@ variant: markdown
 ---
 | Name | Department | 
 | --------------- | --------------- |
-|[Ms Aiswarya Manickavasagam](mailto:aiswarya@cwss.moe.edu.sg) 	 |Mother Tongue Languages|
 |[Ms Alvina Leong](mailto:alvina.leong@cwss.moe.edu.sg) 	 |PE & CCA |
 |[Mrs Ang -Wong Yee May](mailto:wong.yeemay@cwss.moe.edu.sg) 	|Mathematics |
-| [Ms Jaclyn Chan Pei Yi](mailto:jaclyn.chanpeiyi@cwss.moe.edu.sg)	|Sciences |
 |[Mr Chua Joel](mailto:joel.chua@cwss.moe.edu.sg) 	 |Humanities|
- |[Mrs Noella Chua](mailto:noella.yee@cwss.moe.edu.sg)	|Music|
-|	|English Language |
- |[Mr Cheon Chee Yong](mailto:cheon.cheeyong@cwss.moe.edu.sg)|	Mother Tongue Languages |
- |[Mr Cheong Hock Soan](mailto:cheong.hocksoan@cwss.moe.edu.sg)|	Mathematics |
+|[Mrs Noella Chua](mailto:noella.yee@cwss.moe.edu.sg)	|Music|
+|[Mr Cheon Chee Yong](mailto:cheon.cheeyong@cwss.moe.edu.sg)|	Mother Tongue Languages |
+|[Mr Cheong Hock Soan](mailto:cheong.hocksoan@cwss.moe.edu.sg)|	Mathematics |
 |[Mrs Jasmine Chew](mailto:jasmine.chew@cwss.moe.edu.sg)|	Science Department |
 |[Ms Dimple Kaur Sidhu](mailto:dimple.kaur@cwss.moe.edu.sg)|	 Mathematics|
 |[Mr Elson Quek](mailto:elson.quek@cwss.moe.edu.sg) 	|English Language & Literature |
