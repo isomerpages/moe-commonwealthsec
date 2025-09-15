@@ -376,20 +376,20 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liao.xinwei@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Liao Xin Wei</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Mathematics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:tan.hweeping@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Tan Hwee Ping</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (Mathematics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liao.xinwei@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Liao Xin Wei</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
