@@ -855,7 +855,7 @@ description: ""
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Guanrui&nbsp; Jacob</p>
+<p>Tan Guanrui, Jacob</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Biology)</p>
@@ -910,7 +910,7 @@ description: ""
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liew Chen Kong&nbsp;Vincent</p>
+<p>Liew Chen Kong,&nbsp;Vincent</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
