@@ -349,7 +349,8 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Foong Keng</p>
+<p><a href="mailto:chan.foongkeng@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chan Foong Keng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Mathematics)</p>
@@ -357,7 +358,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Rafeek Ahmed s/o Abdul Majeed</p>
+<p><a href="mailto:rafeek.ahmed@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Rafeek Ahmed s/o Abdul Majeed</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Student Leadership &amp; Management)</p>
@@ -365,7 +367,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Rizman Bin Hassan</p>
+<p><a href="mailto:rizman.hassan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Rizman Bin Hassan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head</p>
@@ -373,7 +376,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Liao Xin Wei</p>
+<p><a href="mailto:liao.xinwei@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Liao Xin Wei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Mathematics)</p>
@@ -381,7 +385,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Hwee Ping</p>
+<p><a href="mailto:tan.hweeping@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Tan Hwee Ping</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (Mathematics)</p>
@@ -389,7 +394,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang-Wong Yee May&nbsp;</p>
+<p><a href="mailto:wong.yeemay@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Ang-Wong Yee May</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -397,7 +403,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Cheong Hock Soan</p>
+<p><a href="mailto:cheong.hocksoan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Cheong Hock Soan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -405,7 +412,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Dimple Kaur Sindhu</p>
+<p><a href="mailto:dimple.kaur@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Dimple Kaur Sindhu</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -413,7 +421,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hoo Pei Xian&nbsp;</p>
+<p><a href="mailto:hoo.peixian@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Hoo Pei Xian</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -421,7 +430,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Ying Jie</p>
+<p><a href="mailto:lee.yingjie@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lee Ying Jie</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -429,7 +439,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Shu Hsi, Tommy</p>
+<p><a href="mailto:tommy.lee@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lee Shu Hsi, Tommy</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -437,7 +448,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Leong Sai Hong</p>
+<p><a href="mailto:leong.saihong@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Leong Sai Hong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -445,7 +457,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Leong Yin Pheng</p>
+<p><a href="mailto:leong.yin.pheng@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Leong Yin Pheng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
