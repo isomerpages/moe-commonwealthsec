@@ -416,11 +416,11 @@ variant: tiptap
 <p>4 Polo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee.sinchoon@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Sin Choon</a>
+<p><a href="mailto:lee.sinchoon@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan-Lee Sin Choon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad.yusman@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhd Yusman</a>
+<p><a href="mailto:muhammad.yusman@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhd Yusman Bin Mohd Yusoff</a>
 </p>
 </td>
 </tr>
@@ -429,11 +429,11 @@ variant: tiptap
 <p>4 Ip Man</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jasmine.chew@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chew Jasmine</a>
+<p><a href="mailto:jasmine.chew@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chew Puay Yin Jasmine</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang.waiyin@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Wai Yin</a>
+<p><a href="mailto:tang.waiyin@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tang Wai Yin</a>
 </p>
 </td>
 </tr>
@@ -446,7 +446,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng.hanliat@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Scott Ng</a>
+<p><a href="mailto:ng.hanliat@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Han Liat, Scott</a>
 </p>
 </td>
 </tr>
@@ -459,7 +459,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:simon.lew@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Simon Lew</a>
+<p><a href="mailto:simon.lew@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lew Keng Wah, Simon</a>
 </p>
 </td>
 </tr>
