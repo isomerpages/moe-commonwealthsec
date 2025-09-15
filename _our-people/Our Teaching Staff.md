@@ -185,7 +185,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pamela@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Pamela Yang Weiqian</a>
+<p><a href="mailto:pamela@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Pamela Yang Weiqian</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
