@@ -157,7 +157,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aiswarya@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Aiswarya d/o Manickavasagam</a>
+<p><a href="mailto:yong.che.yuan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Yong Che Yuan</a>
 </p>
 </td>
 </tr>
@@ -205,7 +205,7 @@ variant: tiptap
 <p>2 Ohm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kenneth.lim@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kenneth Lim</a>
+<p><a href="mailto:kenneth.lim@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Sze Tim, Kenneth</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -218,11 +218,11 @@ variant: tiptap
 <p>2 Nightingale</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liao.liting@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Liao Liting</a>
+<p><a href="mailto:liao.liting@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Toh-Liao Liting</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sun.guangzhou@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sun Guangzhou</a>
+<p><a href="mailto:kang.lu@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Kang Lu</a>
 </p>
 </td>
 </tr>
@@ -265,11 +265,11 @@ variant: tiptap
 <p>3 Hawking</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:matthias.sim@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Matthias Sim Kwong Wee</a>
+<p><a href="mailto:matthias.sim@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sim Kwong Wee Matthias</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noella.yee@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Noella Chua</a>
+<p><a href="mailto:noella.yee@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Noella Chua-Yee Ziyun</a>
 </p>
 </td>
 </tr>
@@ -278,11 +278,11 @@ variant: tiptap
 <p>3 Armstrong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joel.chua@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Joel Chua</a>
+<p><a href="mailto:joel.chua@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Joel</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:june.tang@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs June Tang</a>
+<p><a href="mailto:june.tang@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs June Tang-Lee Wei</a>
 </p>
 </td>
 </tr>
@@ -295,7 +295,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Leong.saihong@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Leong Sai Hong</a>
+<p><a href="mailto:Leong.saihong@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Leong-Tan Sai Hong</a>
 </p>
 </td>
 </tr>
@@ -308,7 +308,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo.siewmui@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yeo Siew Mui</a>
+<p><a href="mailto:yeo.siewmui@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yeo-Liew Siew Mui</a>
 </p>
 </td>
 </tr>
@@ -317,11 +317,11 @@ variant: tiptap
 <p>3 Ohm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aidil.noor@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aidil Noor</a>
+<p><a href="mailto:aidil.noor@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Aidil Noor</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong.yeemay@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ang Yee May</a>
+<p><a href="mailto:wong.yeemay@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ang-Wong Yee May</a>
 </p>
 </td>
 </tr>
