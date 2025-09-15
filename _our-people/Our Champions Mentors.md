@@ -364,7 +364,7 @@ variant: tiptap
 <p>4 Curie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lu.lineng@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lu Lineng</a>
+<p><a href="mailto:lu.lineng@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Low-Lu Lineng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -381,7 +381,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:audrey.tham@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Audrey Tham</a>
+<p><a href="mailto:audrey.tham@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Audrey Tham-Ng Ai Mei</a>
 </p>
 </td>
 </tr>
@@ -390,7 +390,7 @@ variant: tiptap
 <p>4 Armstrong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:christopher.sim@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Sim</a>
+<p><a href="mailto:christopher.sim@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sim Zhen Yang Christopher</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
