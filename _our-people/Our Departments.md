@@ -397,7 +397,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rukmani</p>
+<p>Mdm Rukmani Venkatakrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (Tamil Language)</p>
