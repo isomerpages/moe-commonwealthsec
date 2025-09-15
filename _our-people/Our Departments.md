@@ -466,7 +466,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Sze Tim Kenneth</p>
+<p><a href="mailto:kenneth.lim@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lim Sze Tim Kenneth</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -474,7 +475,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Sheila Philip</p>
+<p><a href="mailto:sheila.philip@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Sheila Philip</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -482,7 +484,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Zhen Yang, Christopher</p>
+<p><a href="mailto:christopher.sim@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Sim Zhen Yang, Christopher</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -490,7 +493,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tai Kai Zhen</p>
+<p><a href="mailto:tai.kaizhen@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tai Kai Zhen</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -498,7 +502,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Fatt Kee</p>
+<p><a href="mailto:wong.fattkee@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Wong Fatt Kee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
