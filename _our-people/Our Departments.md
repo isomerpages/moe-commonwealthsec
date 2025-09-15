@@ -5,19 +5,15 @@ variant: tiptap
 description: ""
 ---
 <h3>Craft &amp; Technology Department</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ye Dan</p>
+<p>Ms Ye Dan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Innovation &amp; Design)</p>
@@ -25,10 +21,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Noella Chua</p>
+<p>Mrs Noella Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Student Leadership)</p>
@@ -36,10 +29,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rubiyah Bte Khamis</p>
+<p>Mdm Rubiyah Bte Khamis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Craft &amp; Technology)</p>
@@ -47,10 +37,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Heng Swee Kee</p>
+<p>Mr Heng Swee Kee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -58,10 +45,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nur Fatin Haziqah Binte Mokhtaza</p>
+<p>Miss Nur Fatin Haziqah Binte Mokhtaza</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -69,10 +53,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tong Siok Mei</p>
+<p>Ms Tong Siok Mei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -80,10 +61,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Victor Paul Brang Tun&nbsp;</p>
+<p>Mr Victor Paul Brang Tun&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -91,10 +69,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zuwardy Bin Said</p>
+<p>Mr Zuwardy Bin Said</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -104,19 +79,15 @@ description: ""
 </table>
 <p></p>
 <h3>English Language &amp; Literature Department</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lin Weiquan</p>
+<p>Mr Lin Weiquan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (English Language and Literature)</p>
@@ -124,10 +95,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Musa Bin Shukor</p>
+<p>Mr Musa Bin Shukor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (English Language)</p>
@@ -135,10 +103,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Muhammad Aidil Bin Noor</p>
+<p>Mr Muhammad Aidil Bin Noor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
@@ -146,10 +111,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dasari Brinda Nagaraju</p>
+<p>Mdm Dasari Brinda Nagaraju</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (English Language)</p>
@@ -157,10 +119,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Audrey Tham</p>
+<p>Mrs Audrey Tham</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -168,10 +127,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lai Ying Ying&nbsp;</p>
+<p>Miss Lai Ying Ying&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -179,10 +135,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Low - Lu Lineng</p>
+<p>Mrs Low-Lu Lineng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -190,10 +143,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrithini D/O T G Gritharan</p>
+<p>Ms Mrithini D/O T G Gritharan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -201,21 +151,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr Quek Jie Rong Elson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tang Wai Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quek Jie Rong Elson</p>
+<p>Ms Tang Wai Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -225,19 +169,15 @@ description: ""
 </table>
 <p></p>
 <h3>Humanities Department</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chong Wensheng</p>
+<p>Mr Chong Wensheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Humanities)</p>
@@ -245,10 +185,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>De Roza Wayne Gerard</p>
+<p>Mr De Roza Wayne Gerard</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head</p>
@@ -256,10 +193,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Rou Jing</p>
+<p>Ms Tan Rou Jing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Humanities)</p>
@@ -267,10 +201,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chua Joel&nbsp;</p>
+<p>Mr Chua Joel&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -278,10 +209,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June Tang- Lee Wei</p>
+<p>Mrs June Tang- Lee Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -289,10 +217,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kokila Vani d/o Nagalingam</p>
+<p>Ms Kokila Vani d/o Nagalingam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -300,10 +225,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lye Zhen Xi</p>
+<p>Ms Lye Zhen Xi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -311,10 +233,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nurliana Bte Abdullah</p>
+<p>Ms Nurliana Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -322,10 +241,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan - Lee Sin Choon</p>
+<p>Mrs Tan-Lee Sin Choon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -333,10 +249,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Hui Lin</p>
+<p>Ms Tan Hui Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -346,19 +259,15 @@ description: ""
 </table>
 <p></p>
 <h3>Mathematics Department</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chan Foong Keng</p>
+<p>Ms Chan Foong Keng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Mathematics)</p>
@@ -366,10 +275,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rafeek Ahmed s/o Abdul Majeed</p>
+<p>Mr Rafeek Ahmed s/o Abdul Majeed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Student Leadership &amp; Management)</p>
@@ -377,10 +283,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rizman Bin Hassan</p>
+<p>Mr Rizman Bin Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head</p>
@@ -388,10 +291,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Liao Xin Wei</p>
+<p>Ms Liao Xin Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Mathematics)</p>
@@ -399,10 +299,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Hwee Ping</p>
+<p>Mrs Tan Hwee Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (Mathematics)</p>
@@ -410,10 +307,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ang - Wong Yee May&nbsp;</p>
+<p>Mrs Ang - Wong Yee May&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -421,10 +315,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cheong Hock Soan</p>
+<p>Mr Cheong Hock Soan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -432,10 +323,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hoo Pei Xian&nbsp;</p>
+<p>Ms Hoo Pei Xian&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -443,10 +331,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Ying Jie</p>
+<p>Ms Lee Ying Jie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -454,10 +339,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Leong Sai Hong</p>
+<p>Mrs Leong Sai Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -465,10 +347,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Sze Tim Kenneth</p>
+<p>Mr Lim Sze Tim Kenneth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -476,10 +355,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sheila Philip</p>
+<p>Mrs Sheila Philip</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -487,10 +363,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sim Zhen Yang, Christopher</p>
+<p>Mr Sim Zhen Yang, Christopher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -498,10 +371,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tai Kai Zhen</p>
+<p>Ms Tai Kai Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -511,19 +381,15 @@ description: ""
 </table>
 <p></p>
 <h3>Mother Tongue Languages Department</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cheon Chee Yong</p>
+<p>Mr Cheon Chee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Mother Tongue Languages)</p>
@@ -531,10 +397,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rukmani</p>
+<p>Mdm Rukmani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (Tamil Language)</p>
@@ -542,10 +405,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jasmiyanti Bte Marhajas</p>
+<p>Miss Jasmiyanti Bte Marhajas</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Malay Language)</p>
@@ -553,10 +413,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gopal Chitradevi</p>
+<p>Mdm Gopal Chitradevi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -564,10 +421,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kang Lu</p>
+<p>Ms Kang Lu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -575,10 +429,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kanishkar Panneerselvam</p>
+<p>Mr Kanishkar Panneerselvam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -586,10 +437,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Liang Lu</p>
+<p>Mr Liang Lu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -597,10 +445,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Low Yee Lin</p>
+<p>Ms Low Yee Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -608,10 +453,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mahalingam Umamaheswari</p>
+<p>Mdm Mahalingam Umamaheswari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -619,10 +461,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nabilah Binte Mohd Rashid&nbsp;</p>
+<p>Ms Nabilah Binte Mohd Rashid&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -630,10 +469,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nur Alinah Bte Ali</p>
+<p>Ms Nur Alinah Bte Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -641,10 +477,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nur Amalina Binte Shalan</p>
+<p>Ms Nur Amalina Binte Shalan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -652,10 +485,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phoon Chee Ling</p>
+<p>Mdm Phoon Chee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -663,10 +493,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vaidhiyanadhan Deepalakshmi</p>
+<p>Mrs Vaidhiyanadhan Deepalakshmi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -674,10 +501,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yong Che Yuan</p>
+<p>Miss Yong Che Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -687,19 +511,15 @@ description: ""
 </table>
 <p></p>
 <h3>Physical Education Department</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vilau s/o Muniyandhi</p>
+<p>Mr Vilau s/o Muniyandhi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Physical Education &amp; CCA)</p>
@@ -707,10 +527,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tho Yan Han</p>
+<p>Ms Tho Yan Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
@@ -718,10 +535,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ng Han Liat</p>
+<p>Mr Ng Han Liat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
@@ -730,10 +544,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Alvina Leong</p>
+<p><a href="mailto:alvina.leong@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Alvina Leong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -741,10 +553,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Swee Kian, Peter</p>
+<p>Mr Lim Swee Kian, Peter</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -754,19 +563,15 @@ description: ""
 </table>
 <h3></h3>
 <h3>Science Department</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Edlyn Lee Li Hui</p>
+<p>Mrs Edlyn Lin-Lee Li Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Sciences)</p>
@@ -774,10 +579,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ang Si Ling, Sheryl&nbsp;</p>
+<p>Ms Ang Si Ling, Sheryl&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department
@@ -786,10 +588,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong Sok Foon</p>
+<p>Mrs Wong Sok Foon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Info-Communication Technology)</p>
@@ -797,21 +596,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ye Dan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department (Innovation &amp; Design)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Jack Woan</p>
+<p>Mr Tan Jack Woan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -819,10 +604,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lew Keng Wah, Simon</p>
+<p>Mr Lew Keng Wah, Simon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Citizenship &amp; Character Education)</p>
@@ -830,10 +612,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vinodhini M Selveindran</p>
+<p>Ms Vinodhini M Selveindran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Science and Research)</p>
@@ -841,10 +620,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yusman Yusoff</p>
+<p>Mr Yusman Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Co-Curricular Activities)</p>
@@ -852,10 +628,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Guanrui, Jacob</p>
+<p>Mr Tan Guanrui, Jacob</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Biology)</p>
@@ -863,19 +636,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quek Lay Hong</p>
+<p>Mdm Quek Lay Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Aishah Binte Lidon</p>
 </td>
@@ -885,10 +652,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chew Puay Yin Jasmine</p>
+<p>Ms Chew Puay Yin Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -896,10 +660,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Charlene Teng Sin Yee</p>
+<p>Ms Charlene Teng Sin Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -907,10 +668,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Liew Chen Kong,&nbsp;Vincent</p>
+<p>Mr Liew Chen Kong,&nbsp;Vincent</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -918,10 +676,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sim Kwong Wee Matthias</p>
+<p>Mr Sim Kwong Wee Matthias</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -929,10 +684,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tian Yilin</p>
+<p>Ms Tian Yilin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -940,10 +692,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Toh - Liao Liting&nbsp;&nbsp;</p>
+<p>Mrs Toh-Liao Liting&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -951,10 +700,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vineeta</p>
+<p>Mdm Vineeta</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -962,68 +708,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yeo Siew Mui</p>
+<p>Mrs Yeo Siew Mui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h3>Allied Educators</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Edwin Lim Yong Hwee&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ivy Nyam Lee Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ECG Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shalini d/o Chandran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Education Needs Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Theeyagaspara Dyal Olagnathan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
 </td>
 </tr>
 </tbody>
