@@ -53,6 +53,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Ruth Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Tong Siok Mei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,6 +73,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yong Lek Lai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -241,6 +257,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Rene Chia-Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Tan-Lee Sin Choon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -307,7 +331,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang - Wong Yee May&nbsp;</p>
+<p>Mrs Ang-Wong Yee May&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -319,6 +343,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Dimple Kaur Sindhu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -409,6 +441,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Malay Language)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Chan Chiew Yean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -652,6 +692,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Charlene Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Chew Puay Yin Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -661,6 +709,14 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Charlene Teng Sin Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Dora Ong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
