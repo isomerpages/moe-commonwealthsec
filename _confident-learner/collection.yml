@@ -2,9 +2,9 @@ collections:
   confident-learner:
     output: true
     order:
-      - Science.md
-      - Mathematics.md
-      - Mother Tongues.md
-      - Humanities.md
       - Confident Learner.md
       - Academic Programmes.md
+      - Humanities.md
+      - Mother Tongues.md
+      - Mathematics.md
+      - Science.md
