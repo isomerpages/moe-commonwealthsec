@@ -11,16 +11,15 @@ variant: markdown
 |  |
 | ----- |
 | Mr Aidil Noor  |
-Mdm Chitra 
-Ms Elizabeth Seah
-
+| Mdm Chitra |
+| Ms Elizabeth Seah  |
 
 ##### National Day Awards 2024
 
 | Commendation Award |
 | ----- |
 | Ms Jasmiyanti Bte Marhajas |
-Mr Rafeek Ahmed s/o Abdul Majeed
+| Mr Rafeek Ahmed s/o Abdul Majeed |
 
 | Long Service Medal |
 | ----- |
@@ -40,7 +39,8 @@ Mr Rafeek Ahmed s/o Abdul Majeed
 | ----- |
 | Ms Ivy Nyam Lee Chin |
 | Mr Muhd Yusman Bin Muhd Yusoff |
-Mdm Rubiyah Bte Khamis
+| Mdm Rubiyah Bte Khamisf |
+
 
 | 20 years |
 | ----- |
