@@ -3,8 +3,10 @@ collections:
     output: true
     order:
       - Confident Learner.md
-      - Academic Programmes.md
+      - Craft and Technology.md
+      - English Language & Literature.md
       - Humanities.md
-      - Mother Tongues.md
-      - Mathematics.md
-      - Science.md
+      - Mathematics & Computing.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Sciences.md

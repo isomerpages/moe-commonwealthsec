@@ -21,7 +21,19 @@ links:
         url: /imaginative-trailblazers/the-trailblazer-programme
       - title: Eco-Stewardship
         url: /imaginative-trailblazers/eco-stewardship
+      - title: "Eco-Stewardship: Culture"
+        url: /eco-stewardship-culture/
+      - title: "Eco-Stewardship: Community"
+        url: /eco-stewardship-community/
+      - title: "Eco-Stewardship: Campus"
+        url: /eco-stewardship-campus/
+      - title: "Eco-Stewardship: Curriculum"
+        url: /eco-stewardship-curriculum/
+      - title: Imaginative Trailblazer
+        url: imaginative-trailblazers
       - title: Aesthetics & Performing Arts
         url: /imaginative-trailblazers/aesthetics-n-performing-arts
   - title: Our People
     collection: our-people
+  - title: Imaginative Trailblaz3r
+    collection: imaginative-trailblazer

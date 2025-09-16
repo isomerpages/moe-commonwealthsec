@@ -4,16 +4,16 @@ permalink: /humanities/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Humanities</strong></h3>
 <p>The Humanities Department adopts an Inquiry-Based Learning approach to
 spark curiosity and nurture self-directed learners with strong critical
-and analytical thinking skills. &nbsp;Through the curriculum, we seek to
-develop confident and thoughtful Commonwealthians who can critically examine
-diverse perspectives, communicate with empathy, collaborate effectively,
-and take action ethically in an increasingly interconnected and globalised
-world.</p>
+and analytical thinking skills. Through the curriculum, we seek to develop
+confident and thoughtful Commonwealthians who can critically examine diverse
+perspectives, communicate with empathy, collaborate effectively, and take
+action ethically in an increasingly interconnected and globalised world.</p>
 <p></p>
 <p>As part of the curriculum, Commonwealthians engage in experiential learning
-through activities such as History Investigation projects, Geographical
+through activities such as Historical Investigation projects, Geographical
 Investigation fieldwork, and learning journeys to sites of historical and
 geographical significance, where they apply inquiry skills to better understand
 real-world issues. Within our Elements of Business Skills (EBS) subject,
@@ -21,7 +21,7 @@ students build foundational business knowledge and practical skills that
 equip them to navigate the future of work with confidence, adaptability,
 and purpose.</p>
 <p></p>
-<h3><strong>Enrichment Activities</strong></h3>
+<h4><strong>Enrichment Activities</strong></h4>
 <p>As part of our Trailblazer Thursday programme, Commonwealthians engage
 in creative and thought-provoking enrichment activities that bring learning
 to life. One such activity is the Wartime Kitchen, where students combine
@@ -30,7 +30,7 @@ from wartime Singapore. These hands-on experiences deepen students’ understand
 and allow them to meaningfully connect with the Humanities curriculum through
 research and experiential learning.</p>
 <p></p>
-<h3><strong>Humanities Talent Development</strong></h3>
+<h4><strong>Humanities Talent Development</strong></h4>
 <p>Commonwealthians who demonstrate passion and potential in the Humanities
 can take part in the Humanities Talent Development Programme, which provides
 authentic platforms for exploration and growth. Through this programme,
