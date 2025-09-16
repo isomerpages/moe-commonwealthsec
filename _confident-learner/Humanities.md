@@ -13,7 +13,7 @@ and take action ethically in an increasingly interconnected and globalised
 world.</p>
 <p></p>
 <p>As part of the curriculum, Commonwealthians engage in experiential learning
-through activities such as History Investigation projects, Geographical
+through activities such as Historical Investigation projects, Geographical
 Investigation fieldwork, and learning journeys to sites of historical and
 geographical significance, where they apply inquiry skills to better understand
 real-world issues. Within our Elements of Business Skills (EBS) subject,
