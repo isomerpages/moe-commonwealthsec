@@ -2,7 +2,62 @@
 title: Our Staff Recognition
 permalink: /our-people/permalink/
 description: ""
+variant: markdown
 ---
+### 2024 
+
+##### NIE Caring Teacher Award 
+
+|  |
+| ----- |
+| Mr Aidil Noor  |
+Mdm Chitra 
+Ms Elizabeth Seah
+
+
+##### National Day Awards 2024
+
+| Commendation Award |
+| ----- |
+| Ms Jasmiyanti Bte Marhajas |
+Mr Rafeek Ahmed s/o Abdul Majeed
+
+| Long Service Medal |
+| ----- |
+| Mr Sim Kwong Wee |
+
+##### Long Service Award 2024
+
+| 5 years |
+| ----- |
+| Mdm Choo Phiak Hong
+
+| 10 years |
+| ----- |
+| Ms Nur Aqilah Binte Omar |
+
+| 15 years |
+| ----- |
+| Ms Ivy Nyam Lee Chin |
+| Mr Muhd Yusman Bin Muhd Yusoff |
+Mdm Rubiyah Bte Khamis
+
+| 20 years |
+| ----- |
+| Mr Chua Joel |
+| Mr Heng Swee Kee
+Ms Kokila Vani d/o Nagalingam|
+
+| 25 years |
+| ----- |
+| Ms Phoon Chee Ling |
+| Ms Tang Wai Yin |
+
+| 30 years |
+| ----- |
+Mr Vilau s/o Muniyandhi |
+
+
 ### 2023
 
 ##### National Day Awards 2023
