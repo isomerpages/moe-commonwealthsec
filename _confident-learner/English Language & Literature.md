@@ -4,7 +4,7 @@ permalink: /english-lang/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Department of English Language &amp; Literature</strong>&nbsp;</h4>
+<h3><strong>English Language &amp; Literature</strong>&nbsp;</h3>
 <ul>
 <li>
 <p>The ELL Department aims to nurture students to be passionate and confident
