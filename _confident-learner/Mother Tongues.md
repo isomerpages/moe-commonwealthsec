@@ -17,8 +17,18 @@ experiences, reading, creative writing, and our school’s effective communicato
 programme. Through the various platforms, the MTL Department supports all
 learners to develop their interests and talents in the languages.</p>
 <p></p>
-<p>[Insert photo of MTL activities, e.g. podcasting, DJ engagements, etc.]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Acad Prog/MTFN_Events_and_Activities__2_.png">
+</div>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Acad Prog/MTFN_Events_and_Activities.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Acad Prog/MTL_Student_Competitions.png">
+</div>
 <h4><strong>Tamil Language Elective Programme (TLEP)</strong></h4>
 <p>To nurture the love of Tamil Language and and Literature from young, the
 TLEP focuses on building a strong foundation for students’ appreciation
@@ -28,4 +38,8 @@ level.&nbsp;</p>
 enrichment and immersion activities, organised by MOE and by our school.
 These include local camps, overseas immersion trips, and school-based activities
 such as Meet-The-Author sessions and Literary Lectures.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Acad Prog/TLEP_Activities_and_Competitions.png">
+</div>
 <p></p>

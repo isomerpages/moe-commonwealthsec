@@ -2,6 +2,7 @@
 title: Confident Learner
 permalink: /confident-learner/
 description: ""
+variant: markdown
 ---
 Confident Learner
 =================

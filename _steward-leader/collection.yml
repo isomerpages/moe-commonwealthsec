@@ -2,8 +2,10 @@ collections:
   steward-leader:
     output: true
     order:
-      - Steward Leader.md
       - Character and Citizenship Education (CCE).md
+      - Co Curricular Activities.md
+      - Sexuality Education.md
+      - Steward Leader.md
       - Values in Action.md
       - Education and Career Guidance (ECG) Experiences.md
       - Internationalisation Trips.md
