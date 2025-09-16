@@ -2,4 +2,5 @@ collections:
   imaginative-trailblazer:
     output: true
     order:
+      - Imaginative Trailblazer.md
       - Design Thinking.md
