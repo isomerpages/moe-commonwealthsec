@@ -2,10 +2,10 @@ collections:
   confident-learner:
     output: true
     order:
+      - Confident Learner.md
       - Craft and Technology.md
       - English Lang.md
       - PE Dept.md
-      - Confident Learner.md
       - Academic Programmes.md
       - Humanities.md
       - Mother Tongues.md
