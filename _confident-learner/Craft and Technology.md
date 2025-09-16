@@ -4,7 +4,8 @@ permalink: /craft-and-technology/
 variant: tiptap
 description: ""
 ---
-<h4><strong>DESIGN AND TECHNOLOGY</strong></h4>
+<h3><strong>Craft &amp; Technology</strong></h3>
+<h4><strong>Design &amp; Technology</strong></h4>
 <p><strong>Bringing Ideas to Life through Design and Technology (D&amp;T)</strong>
 </p>
 <p>Our D&amp;T curriculum offers students a thoughtfully-designed blend of
@@ -47,7 +48,7 @@ resilience, and real-world problem-solving skills.</p>
 nurtures critical, inventive, and adaptive thinking—shaping confident problem-solvers
 for a fast-changing, technology-driven world.</p>
 <p></p>
-<h4><strong>ART</strong></h4>
+<h4><strong>Art</strong></h4>
 <p>Our Art Programme offers a rich blend of <strong>visual art, art theory, art history, and art critique</strong>.
 Rooted in a project-based approach, students explore, experiment, and create
 across a wide range of traditional and digital media while developing both <strong>technical skills</strong> and <strong>personal expression</strong>.</p>
@@ -89,7 +90,7 @@ and reflection</p>
 past and present</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build visual and critical literacy
 for the future</p>
-<h4><strong>MUSIC</strong></h4>
+<h4><strong>Music</strong></h4>
 <p>The Lower Secondary Music Curriculum aims to equip students with the skills
 to express themselves confidently through music creation and performance.
 It is designed around the three key Musical Processes: Listening, Creating,
