@@ -2,6 +2,7 @@ collections:
   confident-learner:
     output: true
     order:
+      - PE Dept.md
       - Confident Learner.md
       - Academic Programmes.md
       - Humanities.md
