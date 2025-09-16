@@ -2,6 +2,7 @@ collections:
   steward-leader:
     output: true
     order:
+      - Co Curricular Activities.md
       - Steward Leader.md
       - Character and Citizenship Education (CCE).md
       - Values in Action.md
