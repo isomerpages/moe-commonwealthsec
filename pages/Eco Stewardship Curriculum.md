@@ -20,5 +20,21 @@ urban farming.</p>
 Activities (CCAs) to lead sustainability-driven initiatives. They are encouraged
 to collaborate with community partners and champion causes they care about,
 from responsible consumption to animal welfare, developing both leadership
-and a strong sense of environmental stewardship in the process. <strong>[Insert Photo]</strong>
-</p>
+and a strong sense of environmental stewardship in the process.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Eco Stewardship/E87079F9_AE85_47DA_ADA4_44B33BFDFD38.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Eco Stewardship/7528FA9F_85DD_4B41_A510_15951940994B.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Eco Stewardship/PSX_20240129_235354.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Eco Stewardship/PSX_20240209_004148.jpg">
+</div>
+<p></p>
