@@ -17,6 +17,35 @@ differentiated instruction, we cater to diverse abilities and interests.
 During the teaching of games, we adopt the Game-Based Learning approach
 where students learn through play- developing skills, tactics, and strategies
 in various game scenarios.&nbsp;&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE Games Day Cross country/Games_Day_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PE Games Day Cross country/Games_Day_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE Games Day Cross country/Games_Day_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Our Syllabus</strong>&nbsp;</p>
 <p>Games Module: Students explore a wide range of games like Handball, Volleyball,
 Floorball, and Softball over 4 to 5 years in CWSS. This culminates into
@@ -55,3 +84,27 @@ memories:&nbsp;&nbsp;</p>
 <p>&nbsp;At CWSS, PE is more than physical activity. It is a journey of growth,
 teamwork and discovery as our department is committed to creating engaging,
 effective, and enjoyable PE experiences for every student!&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE Games Day Cross country/Cross_Country_5.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
