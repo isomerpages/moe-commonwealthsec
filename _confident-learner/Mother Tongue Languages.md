@@ -4,7 +4,7 @@ permalink: /mother-tongues/
 variant: tiptap
 description: ""
 ---
-<h3><strong>MOTHER TONGUE LANGUAGES</strong></h3>
+<h3><strong>Mother Tongue Languages</strong></h3>
 <p>Students keen to pursue the Higher Mother Tongue Languages, Tamil Literature
 and Hindi can do so in-house at CWSS. We are one of three Secondary schools
 in Singapore offering Tamil Language Elective Programme in Singapore. We
