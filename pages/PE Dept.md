@@ -52,7 +52,6 @@ memories:&nbsp;&nbsp;</p>
 <p>Outward-Bound School Camp (Sec 3)&nbsp;&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>At CWSS, PE is more than physical activity. It is a journey of growth,
+<p>&nbsp;At CWSS, PE is more than physical activity. It is a journey of growth,
 teamwork and discovery as our department is committed to creating engaging,
 effective, and enjoyable PE experiences for every student!&nbsp;</p>
