@@ -4,7 +4,8 @@ permalink: /mathematics/
 variant: tiptap
 description: ""
 ---
-<h4><strong>MATHEMATICS</strong></h4>
+<h3><strong>Mathematics &amp; Computing</strong></h3>
+<h4><strong>Mathematics</strong></h4>
 <p>Our teachers aim to develop students to be creative and metacognitive
 problem solvers through our Mathematics curriculum. To build confidence
 in&nbsp;Math, students are given opportunities to communicate their thinking
@@ -15,7 +16,7 @@ to develop understanding of Math concepts through technology using simulation,
 digital manipulatives, and Graphing tools.</p>
 <p></p>
 <hr>
-<h4><strong>COMPUTING</strong></h4>
+<h4><strong>Computing</strong></h4>
 <p>Computing is offered to our students as an upper secondary elective subject.
 It develops computational thinking, problem analysis and evaluation, effective
 problem-solving, and systems thinking. Through the study of this subject,
