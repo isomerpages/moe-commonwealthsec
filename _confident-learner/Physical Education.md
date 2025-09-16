@@ -4,7 +4,7 @@ permalink: /pe-dept/
 variant: tiptap
 description: ""
 ---
-<h4>Physical Education</h4>
+<h3><strong>Physical Education</strong></h3>
 <p>At Commonwealth Secondary School, our PE Department is all about inspiring
 students to become confident, resilient, and passionate about staying active-
 for life! Our curriculum is designed to Engage, Enthuse, and Equip students
