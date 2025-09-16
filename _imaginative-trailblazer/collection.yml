@@ -2,6 +2,7 @@ collections:
   imaginative-trailblazer:
     output: true
     order:
+      - Eco Stewardship Curriculum.md
       - The TrailBlazer Programme.md
       - Imaginative Trailblazer.md
       - Design Thinking.md
