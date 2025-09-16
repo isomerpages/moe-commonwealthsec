@@ -1,4 +1,5 @@
 collections:
   imaginative-trailblazer:
     output: true
-    order: []
+    order:
+      - Design Thinking.md
