@@ -2,7 +2,8 @@ collections:
   imaginative-trailblazer:
     output: true
     order:
-      - Aesthetics & Performing Arts.md
+      - Imaginative Trailblazer.md
+      - Design Thinking.md
       - Maker Education.md
       - Eco Stewardship.md
       - Eco Stewardship Culture.md
@@ -10,5 +11,4 @@ collections:
       - Eco Stewardship Campus.md
       - Eco Stewardship Curriculum.md
       - The TrailBlazer Programme.md
-      - Imaginative Trailblazer.md
-      - Design Thinking.md
+      - Aesthetics & Performing Arts.md
