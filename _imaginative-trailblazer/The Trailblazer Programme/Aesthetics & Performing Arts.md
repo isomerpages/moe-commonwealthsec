@@ -3,6 +3,7 @@ title: Aesthetics & Performing Arts
 permalink: /imaginative-trailblazers/aesthetics-n-performing-arts/
 description: ""
 variant: tiptap
+third_nav_title: The Trailblazer Programme
 ---
 <h1>Aesthetics &amp; Performing Arts</h1>
 <div class="isomer-image-wrapper">
