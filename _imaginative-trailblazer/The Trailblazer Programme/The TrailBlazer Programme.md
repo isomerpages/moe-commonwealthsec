@@ -81,7 +81,7 @@ and they will also have the opportunity to participate in various exhibitions
 and competitions. They are recognised in Trailblazer attainment levels:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative Trailblazers/SIM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative Trailblazers/image__17_.jpg">
 </div>
 <p>Some of the TrailBlazer Programme activities that have been conducted
 include:</p>
