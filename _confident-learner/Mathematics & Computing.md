@@ -15,6 +15,9 @@ learning and collaboratively solving real-world Math applications. &nbsp;Student
 to develop understanding of Math concepts through technology using simulation,
 digital manipulatives, and Graphing tools.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Academic Programmes 2025/Confident_Commmunicators__Maths_Dept__2024__jpeg_.jpg">
+</div>
 <hr>
 <h4><strong>Computing</strong></h4>
 <p>Computing is offered to our students as an upper secondary elective subject.
