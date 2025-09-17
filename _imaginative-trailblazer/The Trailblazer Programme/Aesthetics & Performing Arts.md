@@ -69,13 +69,11 @@ as music, art, drama, dance, digital and visual art.&nbsp;</p>
 <p><strong><u>Performing Arts</u></strong>&nbsp;</p>
 <p><strong>CCAs</strong>
 <br>Commonwealth Secondary School is well-known for our niche in Performing
-Arts CCAs. The various CCAs include&nbsp;<strong>Band, Chinese Dance, Choir, Drama, Indian Dance, Malay Dance</strong>&nbsp;and&nbsp;<strong>Urban Nature</strong>,
+Arts CCAs. The various CCAs include&nbsp;<strong>Band,Choir, Drama, Indian Dance, Modern Dance</strong>&nbsp;and&nbsp;<strong>Urban Percussion</strong>,
 our very own percussion group. Majority of these CCAs have consistently
 attained top honours at the Singapore Youth Festival (SYF) Central Judging
-since 2001. In the recent SYF Central Judging held in 2019, the school
-has attained four distinction awards, one commendation and one accomplishment
-award.</p>
-<p>&nbsp; &nbsp;Singapore Youth Festival (SYF) Central Judging Results</p>
+since 2001.</p>
+<p>&nbsp; &nbsp;Singapore Youth Festival (SYF) Arts Presentation</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -88,7 +86,7 @@ award.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>2023</strong>
+<p><strong>2025</strong>
 </p>
 </th>
 </tr>
@@ -97,15 +95,7 @@ award.</p>
 <p>Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Dance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Accomplishment</p>
+<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -134,10 +124,10 @@ award.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Dance</p>
+<p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Accomplishment</p>
+<p>Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -145,9 +135,9 @@ award.</p>
 <p>A wide variety of performing and competition platforms were provided for
 the students as deliverables of their learning in their CCAs. Students
 were given opportunities to perform at school events such as CCA Open House
-and annual Performing Arts Showcase, festive celebrations such as Chinese
-New Year, Hari Raya, Deepavali, International Friendship Day and friendly
-competition such as Battle of Dancers.</p>
+and ECLAT, our annual Performing Arts Showcase, and festive celebrations
+such as Chinese New Year, Hari Raya, Deepavali, International Friendship
+Day.</p>
 <p><em>CWSS 50th Anniversary 2014-Rhapsody of Colours at Esplanade Theatre on the Bay</em>
 </p>
 <div class="isomer-image-wrapper">
