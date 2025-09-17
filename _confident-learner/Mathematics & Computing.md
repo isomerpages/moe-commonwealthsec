@@ -33,12 +33,12 @@ interest groups in specialised areas, namely Data Analytics, Mathematical
 Modelling and Maths Ambassadors. Through these activities, students gain
 opportunities to deepen their understanding of Math, sharpen critical thinking
 skills, and explore diverse mathematical concepts. Our TDP inspires Commonwealthians
-to pursue their interest in Maths and also builds a community of young
-thinkers who are prepared to tackle complex problems with confidence and
-creativity. Our students participate in competitions such as the Singapore
-Mathematical Olympiad, the Singapore Mathematical and Computational Modelling
-Challenge, the International Mathematical Modelling Challenge and the NUS
-Statistical Poster Competition.</p>
+to pursue their interest in Math and also builds a community of young thinkers
+who are prepared to tackle complex problems with confidence and creativity.
+Our students participate in competitions such as the Singapore Mathematical
+Olympiad, the Singapore Mathematical and Computational Modelling Challenge,
+the International Mathematical Modelling Challenge and the NUS Statistical
+Poster Competition.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
