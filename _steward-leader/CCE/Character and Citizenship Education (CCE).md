@@ -69,7 +69,14 @@ as well as social skills such as collaboration and communication. Each
 cohort will go through different theme and experiences during their camp.</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
