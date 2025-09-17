@@ -8,30 +8,7 @@ links:
     collection: confident-learner
   - title: Steward Leader
     collection: steward-leader
-  - title: Imaginative TrailBlazer
-    url: /imaginative-trailblazers
-    sublinks:
-      - title: Design & Innovation
-        url: https://sway.office.com/FFEksk6wAeEmzj0U?ref=Link
-      - title: Design Thinking
-        url: /imaginative-trailblazers/design-thinking
-      - title: Maker Education
-        url: /imaginative-trailblazers/maker-education
-      - title: The TrailBlazer Programme
-        url: /imaginative-trailblazers/the-trailblazer-programme
-      - title: Imaginative Trailblazer
-        url: imaginative-trailblazers
-      - title: Aesthetics & Performing Arts
-        url: /imaginative-trailblazers/aesthetics-n-performing-arts
-      - title: Eco-Stewardship
-        url: /imaginative-trailblazers/eco-stewardship
-      - title: "Eco-Stewardship: Culture"
-        url: /eco-stewardship-culture/
-      - title: "Eco-Stewardship: Community"
-        url: /eco-stewardship-community/
-      - title: "Eco-Stewardship: Curriculum"
-        url: /eco-stewardship-curriculum/
-  - title: Our People
-    collection: our-people
   - title: Imaginative Trailblazer
     collection: imaginative-trailblazer
+  - title: Our People
+    collection: our-people
