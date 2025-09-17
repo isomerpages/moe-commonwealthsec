@@ -3,6 +3,7 @@ title: Eco Stewardship Campus
 permalink: /eco-stewardship-campus/
 variant: tiptap
 description: ""
+third_nav_title: Eco Stewardship
 ---
 <h4><strong>Campus</strong></h4>
 <p>Commonwealth Secondary School has transformed its campus into an ecologically

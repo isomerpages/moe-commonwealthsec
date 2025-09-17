@@ -3,6 +3,7 @@ title: Eco Stewardship Community
 permalink: /eco-stewardship-community/
 variant: tiptap
 description: ""
+third_nav_title: Eco Stewardship
 ---
 <h4><strong>Community</strong></h4>
 <p>Commonwealth Secondary School extends its eco-stewardship efforts into

@@ -3,6 +3,7 @@ title: Eco Stewardship Curriculum
 permalink: /eco-stewardship-curriculum/
 variant: tiptap
 description: ""
+third_nav_title: Eco Stewardship
 ---
 <h3><strong>Curriculum</strong></h3>
 <p>Sustainability is deeply embedded in the school’s total curriculum, spanning
