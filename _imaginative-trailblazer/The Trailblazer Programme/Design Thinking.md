@@ -13,7 +13,7 @@ variant: tiptap
 They identify complex challenges, understand the needs of those around
 them, and then work in teams to prototype and test innovative solutions
 that meet those needs.&nbsp;</p>
-<h4><strong>Design Thinking Mindsets</strong></h4>
+<h4><strong>Design Thinking Process</strong></h4>
 <p><u>Empathise_</u>
 <br>As human-centered designers, students need to understand the people for
 whom they are designing. Students learn to build empathy for who they are
@@ -64,8 +64,7 @@ employs the design thinking approach to drive innovation and continuous
 improvement.</p>
 <p>The school has applied design thinking in the following areas:</p>
 <p>• Developing innovative spaces including the Imaginarium (school library),
-the <a rel="noopener noreferrer nofollow" target="_blank">D.space</a> (school
-makerspace), the Asgard (school canteen)</p>
+the D.space (school makerspace), the Asgard (school canteen)</p>
 <p>• Transforming school programmes and events, including the lower secondary
 science Farm-to-Table programme, the &nbsp;TrailBlazer Festivals and the
 annual Open House&nbsp;</p>
