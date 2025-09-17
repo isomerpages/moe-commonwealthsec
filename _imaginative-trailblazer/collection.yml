@@ -2,6 +2,7 @@ collections:
   imaginative-trailblazer:
     output: true
     order:
+      - The Trailblazer Programme/Aesthetics & Performing Arts.md
       - The Trailblazer Programme/Maker Education.md
       - The Trailblazer Programme/Design Thinking.md
       - The Trailblazer Programme/The TrailBlazer Programme.md
