@@ -2,12 +2,12 @@ collections:
   imaginative-trailblazer:
     output: true
     order:
+      - Eco Stewardship/.keep
+      - Eco Stewardship/Eco Stewardship.md
       - Eco Stewardship/Eco Stewardship Curriculum.md
       - Eco Stewardship/Eco Stewardship Campus.md
       - Eco Stewardship/Eco Stewardship Community.md
       - Eco Stewardship/Eco Stewardship Culture.md
-      - Eco Stewardship/Eco Stewardship.md
-      - Eco Stewardship/.keep
       - Imaginative Trailblazer.md
       - Design Thinking.md
       - Maker Education.md
