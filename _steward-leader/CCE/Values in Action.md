@@ -3,6 +3,7 @@ title: Values in Action
 permalink: /compassionate-leaders/values-in-action/
 description: ""
 variant: tiptap
+third_nav_title: CCE
 ---
 <h1>Values in Action</h1>
 <p>The Commonwealth Secondary School Values in Action (VIA) programme is

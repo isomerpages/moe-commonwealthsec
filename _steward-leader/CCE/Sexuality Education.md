@@ -3,6 +3,7 @@ title: Sexuality Education
 permalink: /confident-learner/sexuality-education/
 description: ""
 variant: tiptap
+third_nav_title: CCE
 ---
 <h1>MOE Sexuality Education in Schools</h1>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand

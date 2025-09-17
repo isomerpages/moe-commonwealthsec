@@ -8,11 +8,11 @@ variant: tiptap
 <h3><strong>The TrailBlazer Programme</strong></h3>
 <p><a href="https://sway.cloud.microsoft/FFEksk6wAeEmzj0U?ref=Link" rel="noopener noreferrer nofollow" target="_blank">The Trailblazer Programme Sway Site for students</a>
 </p>
-<p>Commonwealth Secondary School adopted Maker Education since 2014. Over
-the years, it has expanded into the TrailBlazer Programme where students
-have the freedom to choose any types of purposeful making and creation.
-All Commonwealthians are encouraged to take part in TrailBalzer Programme
-through the following ways:</p>
+<p>Commonwealth Secondary School adopted Design Thinking &amp; Maker Education
+since 2014. Over the years, it has expanded into the TrailBlazer Programme
+where students have the freedom to choose any types of purposeful making
+and creation. All Commonwealthians are encouraged to take part in TrailBalzer
+Programme through the following ways:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>TrailBlazer Workshops offered by school</strong>
@@ -81,7 +81,7 @@ and they will also have the opportunity to participate in various exhibitions
 and competitions. They are recognised in Trailblazer attainment levels:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative Trailblazers/SIM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative Trailblazers/image__17_.jpg">
 </div>
 <p>Some of the TrailBlazer Programme activities that have been conducted
 include:</p>

@@ -3,6 +3,7 @@ title: Character and Citizenship Education (CCE)
 permalink: /compassionate-leaders/character-and-citizenship-education-programme/
 description: ""
 variant: tiptap
+third_nav_title: CCE
 ---
 <h1>Character and Citizenship Education (CCE)</h1>
 <p>CCE is integrated into our instructional programmes, various co-curricular
@@ -68,7 +69,14 @@ as well as social skills such as collaboration and communication. Each
 cohort will go through different theme and experiences during their camp.</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
