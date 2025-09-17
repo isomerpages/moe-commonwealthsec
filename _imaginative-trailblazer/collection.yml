@@ -2,6 +2,7 @@ collections:
   imaginative-trailblazer:
     output: true
     order:
+      - Eco Stewardship/.keep
       - Imaginative Trailblazer.md
       - Design Thinking.md
       - Maker Education.md
