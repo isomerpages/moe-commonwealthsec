@@ -5,7 +5,7 @@ description: ""
 third_nav_title: The Trailblazer Programme
 variant: tiptap
 ---
-<h1>The TrailBlazer Programme</h1>
+<h3><strong>The TrailBlazer Programme</strong></h3>
 <p><a href="https://sway.cloud.microsoft/FFEksk6wAeEmzj0U?ref=Link" rel="noopener noreferrer nofollow" target="_blank">The Trailblazer Programme Sway Site for students</a>
 </p>
 <p>Commonwealth Secondary School adopted Maker Education since 2014. Over
@@ -80,47 +80,59 @@ creations will be celebrated, they can build their creativity portfolio,
 and they will also have the opportunity to participate in various exhibitions
 and competitions. They are recognised in Trailblazer attainment levels:</p>
 <p></p>
-<p></p>
-<p></p>
-<h2>Some of the TrailBlazer Programme activities that have been conducted include:</h2>
-<h3><strong>3D printing Workshop (STEM Making @ D.space)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/01%20STEM%20Making%20-%203D%20Printing.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative Trailblazers/SIM.png">
 </div>
-<h3><strong>Hydraulic &amp; Pneumatic Engineering Home-based Workshop (STEM Making)</strong></h3>
+<p>Some of the TrailBlazer Programme activities that have been conducted
+include:</p>
+<p><strong>3D printing Workshop (STEM Making @ D.space)</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/02%20STEM%20Making%20-%20Hydraulic%20%20Pneumatic%20Engineering.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/01%20STEM%20Making%20-%203D%20Printing.png">
 </div>
-<h3><strong>Various Making @ D.space</strong></h3>
+<p><strong>Hydraulic &amp; Pneumatic Engineering Home-based Workshop (STEM Making)</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/03%20STEM%20Making%20at%20D%20Space.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/02%20STEM%20Making%20-%20Hydraulic%20%20Pneumatic%20Engineering.png">
 </div>
-<h3><strong>Micro:bit Remote Control Car Workshop (Digital Making)</strong></h3>
+<p><strong>Various Making @ D.space</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/04%20Digital%20Making%20-%20Microbit%20Remote%20Control%20Car.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/03%20STEM%20Making%20at%20D%20Space.png">
 </div>
-<h3><strong>Needle Felting Art Workshop (Arteastiq)</strong></h3>
+<p><strong>Micro:bit Remote Control Car Workshop (Digital Making)</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/05%20Arteastiq%20-%20Needle%20Felting.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/04%20Digital%20Making%20-%20Microbit%20Remote%20Control%20Car.png">
 </div>
-<h3><strong>Master Art Class (Arteastiq)</strong></h3>
+<p><strong>Needle Felting Art Workshop (Arteastiq)</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/06%20Arteastiq%20Master%20Art%20Class.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/05%20Arteastiq%20-%20Needle%20Felting.png">
 </div>
-<h4><strong>Cake Pop Workshop (Tinkering Kitchen)</strong></h4>
+<p><strong>Master Art Class (Arteastiq)</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/07%20Tinkering%20Kitchen%20-%20Cake%20Pop.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/06%20Arteastiq%20Master%20Art%20Class.png">
 </div>
-<h3><strong>Photography Workshop (Aesthetic Making)</strong></h3>
+<p><strong>Cake Pop Workshop (Tinkering Kitchen)</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/08%20Aesthetics%20Making%20-%20Photography.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/07%20Tinkering%20Kitchen%20-%20Cake%20Pop.png">
 </div>
-<h4><strong>Various Aesthetic Making - Music, Dance, Vocal, Video Production</strong></h4>
+<p><strong>Photography Workshop (Aesthetic Making)</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/09%20Aesthetics%20Making%20-%20Music%20Dance%20Vocal%20Video%20Production.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/08%20Aesthetics%20Making%20-%20Photography.png">
 </div>
-<h3><strong>Making in Academic Programmes</strong></h3>
+<p><strong>Various Aesthetic Making - Music, Dance, Vocal, Video Production</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/10%20Making%20in%20Academic%20Programmes.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/09%20Aesthetics%20Making%20-%20Music%20Dance%20Vocal%20Video%20Production.png">
+</div>
+<p><strong>Making in Academic Programmes</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/10%20Making%20in%20Academic%20Programmes.png">
 </div>
 <p></p>
