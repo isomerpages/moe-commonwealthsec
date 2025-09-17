@@ -2,12 +2,12 @@ collections:
   imaginative-trailblazer:
     output: true
     order:
+      - Imaginative Trailblazer.md
+      - The Trailblazer Programme/.keep
       - The Trailblazer Programme/Aesthetics & Performing Arts.md
       - The Trailblazer Programme/Maker Education.md
       - The Trailblazer Programme/Design Thinking.md
       - The Trailblazer Programme/The TrailBlazer Programme.md
-      - The Trailblazer Programme/.keep
-      - Imaginative Trailblazer.md
       - Eco Stewardship/.keep
       - Eco Stewardship/Eco Stewardship.md
       - Eco Stewardship/Eco Stewardship Curriculum.md
