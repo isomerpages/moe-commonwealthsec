@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: The Trailblazer Programme
 ---
-<h1>Maker Education</h1>
+<h3>Maker Education</h3>
 <p>"Learning as a reconstruction rather than as a transmission of knowledge”</p>
 <div class="isomer-image-wrapper">
 <img style="width:270px;height:240px;margin-left:15px;" height="auto" width="100%" src="/images/Imaginative%20Trailblazers/Maker%20Education.png">
@@ -16,8 +16,7 @@ meaningful objects. They learn to use prototyping techniques and new technology
 including 3D-printing, micro-controllers and basic programming to realise
 their ideas. As they tinker, they learn valuable skills and mindsets including
 resourcefulness, resilience, collaboration and communication.</p>
-<p><strong>Why Maker Education</strong>
-</p>
+<h4><strong>Why Maker Education</strong></h4>
 <p>Learning occurs when a new experience makes connections to existing knowledge.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,9 +48,9 @@ of the maker movement and adopting a constructionist approach (Papert and
 Harel, 1991), is well placed to meet this challenge of re-invigorating
 our educational programmes.</p>
 <p>To support Maker Education activities, the school has developed a custom-built
-Maker Space (d.space) which provides the environment, equipment and materials
+Maker Space (D.space) which provides the environment, equipment and materials
 for students to develop their skills and mindsets as young Makers. Our
-d.space (Maker Space) for students to drop in for workshops and to tinker
+D.space (Maker Space) for students to drop in for workshops and to tinker
 around.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Imaginative%20Trailblazers/Maker%202.jpg">
