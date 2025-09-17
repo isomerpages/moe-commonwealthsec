@@ -2,6 +2,7 @@ collections:
   imaginative-trailblazer:
     output: true
     order:
+      - The Trailblazer Programme/The TrailBlazer Programme.md
       - The Trailblazer Programme/.keep
       - Imaginative Trailblazer.md
       - Design Thinking.md
