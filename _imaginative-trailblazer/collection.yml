@@ -2,6 +2,7 @@ collections:
   imaginative-trailblazer:
     output: true
     order:
+      - Eco Stewardship/Eco Stewardship Culture.md
       - Eco Stewardship/Eco Stewardship.md
       - Eco Stewardship/.keep
       - Imaginative Trailblazer.md
