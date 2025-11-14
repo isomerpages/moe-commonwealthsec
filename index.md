@@ -16,5 +16,5 @@ sections:
       key_highlights:
         - title: OPEN HOUSE 2025
           description: Click here for details
-          url: https://www.commonwealthsec.moe.edu.sg/admissions/https://www.commonwealthsec.moe.edu.sg/open-house/
+          url: https://www.commonwealthsec.moe.edu.sg/admissions/https://www.commonwealthsec.moe.edu.sg/open-house
 ---
