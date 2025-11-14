@@ -14,7 +14,7 @@ sections:
       button: Virtual CWSS Experience
       url: http://www.commonwealthsec.moe.edu.sg/virtualcwssexp/virtual-tour/
       key_highlights:
-        - title: Direct School Admission (DSA) Exercise 2025
-          description: Click here for DSA information
-          url: https://www.commonwealthsec.moe.edu.sg/admissions/direct-school-admission/
+        - title: OPEN HOUSE 2025
+          description: Click here for details
+          url: https://www.commonwealthsec.moe.edu.sg/open-house/
 ---
