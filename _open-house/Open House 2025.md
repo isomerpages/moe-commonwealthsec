@@ -4,9 +4,7 @@ permalink: /open-house/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_Banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2024/Website_Banner.png">
 </div>
 <p></p>
