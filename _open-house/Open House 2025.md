@@ -1,6 +1,6 @@
 ---
 title: Open House 2025
-permalink: /open-house/
+permalink: /permalink/open-house/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Virtual Tour
-permalink: /virtualcwssexp/virtual-tour/
+permalink: /permalink/virtualcwssexp/virtual-tour/
 description: ""
 variant: tiptap
 ---
