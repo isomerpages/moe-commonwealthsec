@@ -12,9 +12,9 @@ sections:
       size: md
       alignment: left
       button: Virtual CWSS Experience
-      url: permalink/virtualcwssexp/virtual-tour/
+      url: /virtualcwssexp/virtual-tour/
       key_highlights:
         - title: OPEN HOUSE 2025
           description: Click here for details
-          url: permalink/open-house/
+          url: /open-house/
 ---
