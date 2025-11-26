@@ -12,9 +12,9 @@ sections:
       size: md
       alignment: left
       button: Virtual CWSS Experience
-      url: /virtualcwssexp/virtual-tour/
+      url: permalink/virtualcwssexp/virtual-tour/
       key_highlights:
         - title: OPEN HOUSE 2025
           description: Click here for details
-          url: https://www.commonwealthsec.moe.edu.sg/open-house/
+          url: permalink/open-house/
 ---
