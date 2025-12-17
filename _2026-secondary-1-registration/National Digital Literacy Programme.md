@@ -12,4 +12,4 @@ support their learning. Singaporean students can use their Edusave Account
 to pay for a PLD selected by the school. Additional support will also be
 provided for students on MOE's Financial Assistance Scheme.</p>
 <p>More information on the NDLP and the PLD will be shared at the Orientation
-Session for Parents of Secondary 1 students in January 2025.</p>
+Session for Parents of Secondary 1 students on 3 January 2026.</p>
