@@ -14,7 +14,7 @@ sections:
       button: Virtual CWSS Experience
       url: permalink/virtualcwssexp/virtual-tour/
       key_highlights:
-        - title: OPEN HOUSE 2025
+        - title: SECONDARY 1 REGISTRATION
           description: Click here for details
-          url: permalink/open-house/
+          url: /2026-secondary-1-registration/permalink/para1/
 ---
