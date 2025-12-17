@@ -4,7 +4,7 @@ permalink: /2025-secondary-1-registration/permalink/para6/
 variant: tiptap
 description: ""
 ---
-<h4>2. Eligibility to Take Subject(s) at a More Demanding Level under Full Subject-based Banding</h4>
+<h4>Eligibility to Take Subject(s) at a More Demanding Level under Full Subject-based Banding</h4>
 <p><em>This is applicable only to students in Posting Group 1 or Posting Group 2.</em>
 </p>
 <p>After the Secondary 1 Posting Results are released, the school will send
