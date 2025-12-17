@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4>8. Application for 3rd Language</h4>
-<p>The school will inform parents on the outcome of the students’ application
-via PG from the afternoon of posting day. If you need clarifications, please
-contact the teacher-in-charge, Mr Cheon Cheeyong via email: <a href="mailto:cheon.cheeyong@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheon.cheeyong@cwss.moe.edu.sg</a>&nbsp;</p>
-<p>Please refer to the attached fact sheet below for more information on
-3rd language.</p>
-<p><a href="/files/2025 Sec 1 Registration/7_8_MTL_Factsheet_2024.pdf" rel="noopener nofollow" target="_blank">Click here for information on Mother Tongue Languages</a>
+<p>Parents will be informed on the outcome of your child’s 3<sup>rd</sup> language
+application via Parents Gateway after the Secondary 1 Posting Results are
+released. If you need clarifications, please contact the teacher-in-charge,
+Mr Cheon Cheeyong via email: <a href="mailto:cheon.cheeyong@cwss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheon.cheeyong@cwss.moe.edu.sg</a>&nbsp;</p>
+<p><a href="/files/2026 Sec 1 Registration/MTL_Factsheet_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Click here for more information on 3rd Language</a>
 </p>
+<p></p>
