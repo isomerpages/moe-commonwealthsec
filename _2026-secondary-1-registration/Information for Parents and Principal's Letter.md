@@ -8,8 +8,7 @@ description: ""
 <p>Congratulations on your child’s successful posting to Commonwealth Secondary
 School!</p>
 <p>Please note that your child need not physically report to the school on
-posting day to confirm their posting. The school will instead be using
-Parents Gateway (PG) to communicate with parents (on the afternoon) after
-the Secondary 1 Posting Results are released.</p>
-<p><a href="/files/2025 Sec 1 Registration/1_Principal_Welcome_letter.pdf" rel="noopener nofollow" target="_blank">Click here for Principal's Welcome Letter</a>
+posting day to confirm their posting. The school will communicate with
+parents via Parents Gateway after the Secondary 1 posting results are released.</p>
+<p><a href="/files/2026 Sec 1 Registration/Principal_s_Welcome.pdf" rel="noopener nofollow" target="_blank">Click here for Principal's Welcome Letter</a>
 </p>
