@@ -21,11 +21,55 @@ contact the school’s General Office at 6560-6866.</p>
 <p><strong>Students posted to other schools but wish to transfer into Commonwealth Secondary School</strong>
 </p>
 <p></p>
-<p>Please note that appellants are required to meet the cut-off points for
-the relevant Posting Group for their transfer appeals to be considered,
-subject to availability of vacancy. Please submit the appeal form via
-<a href="https://go.gov.sg/s1-cwss-posting-appeal-form-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1-cwss-posting-appeal-form-2025</a>&nbsp;<strong>by 26 December 2025 (Fri), 12pm.</strong>
+<p>Please note that appellants are required to meet the cut-off points (COP)
+for the relevant Posting Group for their transfer appeals to be considered,
+subject to availability of vacancy. The COP for the three posting groups
+for the 2026 Secondary 1 intake at Commonwealth Secondary School are provided
+in the table below. Please submit the appeal form via <a href="https://go.gov.sg/s1-cwss-posting-appeal-form-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1-cwss-posting-appeal-form-2025</a>&nbsp;<strong>by 26 December 2025 (Fri), 12pm.</strong>
 </p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Posting Group</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Cut-off Point</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
