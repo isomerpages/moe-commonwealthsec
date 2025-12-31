@@ -512,6 +512,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:nabilah@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nabilah Binte Mohd Rashid</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Citizenship &amp; Character Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:chan.chiewyean@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Chan Chiew Yean</a>
 </p>
 </td>
@@ -567,15 +576,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mahalingam.umamaheswari@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Mahalingam Umamaheshwari</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nabilah@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nabilah Binte Mohd Rashid</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -713,7 +713,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang.siling@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ang Si Ling, Sheryl</a>
+<p><a href="mailto:simon.lew@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lew Keng Wah, Simon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -737,15 +737,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:simon.lew@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lew Keng Wah, Simon</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Citizenship &amp; Character Education)</p>
 </td>
 </tr>
 <tr>
@@ -795,15 +786,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:charlene.teng@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Charlene Teng Sin Yee</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:jasmine.chew@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chew Puay Yin Jasmine</a>
 </p>
 </td>
@@ -814,6 +796,15 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dora.ong@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Dora Ong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:grace.tan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Grace Tan Wai Yan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
