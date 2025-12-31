@@ -38,15 +38,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:edwin.lim@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Edwin Lim</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:shalini.chandran@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Shalini d/o Chandran</a>
 </p>
 </td>
