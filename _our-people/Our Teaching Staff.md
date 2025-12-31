@@ -231,6 +231,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:rita.thia@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Rita Thia</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Student Wellbeing)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:wayne.de.roza@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr De Roza Wayne Gerard</a>
 </p>
 </td>
@@ -272,6 +281,15 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur.ezzati.zukri@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nur Ezzati Binte Sukri</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -494,6 +512,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:ng.yeejia@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Yee Jia</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Chinese Language)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nabilah@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nabilah Binte Mohd Rashid</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Citizenship &amp; Character Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:rukmani@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Rukmani Venkatakrishnan</a>
 </p>
 </td>
@@ -508,15 +544,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Malay Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nabilah@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nabilah Binte Mohd Rashid</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Citizenship &amp; Character Education)</p>
 </td>
 </tr>
 <tr>
@@ -607,6 +634,15 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pua.jiaying@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Pua Jia Ying</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -818,6 +854,15 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng.shu.hua.fiona@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Shu Hua, Fiona</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
