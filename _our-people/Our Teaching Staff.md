@@ -122,15 +122,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:musa.shukor@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Musa Bin Shukor</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (English Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:aidil.noor@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Aidil Bin Noor</a>
 </p>
 </td>
@@ -172,15 +163,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mrithini.gritharan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Mrithini d/o T G Gritharan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -286,15 +268,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kokila.vani@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Kokila Vani d/o Nagalingam</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lye.zhenxi@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lye Zhen Xi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -500,15 +473,6 @@ description: ""
 <p>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong.fattkee@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Wong Fatt Kee</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -648,15 +612,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vaidhiyanadhan.deepalakshmi@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Vaidhiyanadhan Deepalakshmi</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yong.che.yuan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Yong Che Yuan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
