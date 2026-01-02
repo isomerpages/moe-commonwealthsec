@@ -122,15 +122,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:musa.shukor@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Musa Bin Shukor</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (English Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:aidil.noor@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Aidil Bin Noor</a>
 </p>
 </td>
@@ -172,15 +163,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mrithini.gritharan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Mrithini d/o T G Gritharan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -249,6 +231,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:rita.thia@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Rita Thia</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Student Wellbeing)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:wayne.de.roza@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr De Roza Wayne Gerard</a>
 </p>
 </td>
@@ -294,11 +285,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lye.zhenxi@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lye Zhen Xi</a>
+<p><a href="mailto:nur.ezzati.zukri@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nur Ezzati Binte Sukri</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -500,15 +491,6 @@ description: ""
 <p>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong.fattkee@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Wong Fatt Kee</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -526,6 +508,24 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Mother Tongue Languages)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng.yeejia@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Yee Jia</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Chinese Language)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nabilah@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nabilah Binte Mohd Rashid</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Citizenship &amp; Character Education)</p>
 </td>
 </tr>
 <tr>
@@ -611,15 +611,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nabilah@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nabilah Binte Mohd Rashid</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:nur.alinah.binte.ali@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nur Alinah Bte Ali</a>
 </p>
 </td>
@@ -647,7 +638,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vaidhiyanadhan.deepalakshmi@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Vaidhiyanadhan Deepalakshmi</a>
+<p><a href="mailto:pua.jiaying@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Pua Jia Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -656,7 +647,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yong.che.yuan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Yong Che Yuan</a>
+<p><a href="mailto:vaidhiyanadhan.deepalakshmi@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Vaidhiyanadhan Deepalakshmi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -758,7 +749,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang.siling@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ang Si Ling, Sheryl</a>
+<p><a href="mailto:simon.lew@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lew Keng Wah, Simon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -782,15 +773,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:simon.lew@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lew Keng Wah, Simon</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Citizenship &amp; Character Education)</p>
 </td>
 </tr>
 <tr>
@@ -840,15 +822,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:charlene.teng@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Charlene Teng Sin Yee</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:jasmine.chew@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chew Puay Yin Jasmine</a>
 </p>
 </td>
@@ -867,11 +840,29 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:grace.tan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Grace Tan Wai Yan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:liew.chenkong@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Liew Chen Kong, Vincent</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng.shu.hua.fiona@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Shu Hua, Fiona</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
