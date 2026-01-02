@@ -45,6 +45,15 @@ description: ""
 <p>Special Educational Needs (SEN) Officer</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:KOH_Hui_Yan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Koh Hui Yan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer (Roving)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
