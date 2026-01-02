@@ -10,6 +10,7 @@ variant: markdown
 | Mr De Roza Wayne Gerard | Year Head (Sec 2 & 4) | [wayne.de.roza@cwss.moe.edu.sg](mailto:wayne.de.roza@cwss.moe.edu.sg) |
 | Mr Lew Keng Wah, Simon | Head of Department, Character Development &  Partnerships | [simon.lew@cwss.moe.edu.sg](mailto:simon.lew@cwss.moe.edu.sg) |
 | Mr Rafeek Ahmed s/o Abdul Majeed | Head of Department, Student Leadership & Management| [rafeek.ahmed@cwss.moe.edu.sg](mailto:rafeek.ahmed@cwss.moe.edu.sg) |
+| Ms Rita Thia | Head of Department, Student Wellbeing|  [rita.thia@cwss.moe.edu.sg](mailto:rita.thia@cwss.moe.edu.sg)|
 | Mr Muhammad Aidil Noor | Assistant Year Head (Sec 2) | [aidil.noor@cwss.moe.edu.sg](mailto:aidil.noor@cwss.moe.edu.sg) |
 | Ms Tho Yan Han | Assistant Year Head (Sec 4) | [tho.yanhan@cwss.moe.edu.sg](mailto:tho.yanhan@cwss.moe.edu.sg)  |
 | Ms Nabilah B Mohd Rashid | Subject Head Citizenship & Character Education    | [nabilah@cwss.moe.edu.sg](mailto:nabilah@cwss.moe.edu.sg) |
