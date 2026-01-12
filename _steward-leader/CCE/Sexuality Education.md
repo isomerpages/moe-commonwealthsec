@@ -40,7 +40,7 @@ ones.
 </p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h3>OVERVIEW OF COMMONWEALTH SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h3>
+<h3>OVERVIEW OF COMMONWEALTH SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</h3>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -67,7 +67,7 @@ activities (including sexual activities), sometimes without understanding
 the unpleasant consequences that may arise from such experimentation. The
 need for peer acceptance can be overwhelmingly strong and hinder one’s
 ability to act responsibly. Given the pressures faced by the middle adolescent
-from within themselves and from peers, it is important to build a sdivong
+from within themselves and from peers, it is important to build a strong
 sense of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.&nbsp;
 <br>
@@ -79,7 +79,7 @@ issues related to sexuality, which are of prime concern at this age.&nbsp;
 <br>
 </p>
 <p>At Commonwealth Secondary School, the following lessons from the Sexuality
-Education Programme will be taught in 2025:</p>
+Education Programme will be taught in 2026:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality%20Education%202025/1.jpg">
 </div>
