@@ -80,23 +80,61 @@ issues related to sexuality, which are of prime concern at this age.&nbsp;
 </p>
 <p>At Commonwealth Secondary School, the following lessons from the Sexuality
 Education Programme will be taught in 2026:</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/8.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/9.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/10.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/11.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/12.png">
+</div>
 <h4>eTeens Programme</h4>
 <p>eTeens is a programme developed by Health Promotion Board, in collaboration
 with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme.</p>
+information on STIs, HIV and protection from a health perspective. With
+the formation of the Communicable Diseases Agency (CDA) on 1 April 2025,
+the programme would now be managed by CDA’s Training and Education Division
+instead of HPB. eTeens is conducted in two segments – a mass talk segment
+and a classroom-based programme. The desired outcome of the eTeens programme
+is that students are empowered to make wise, informed and sensible decisions
+to protect themselves from sexually transmitted infectious diseases.</p>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
-family. Abstinence and upholding family values are the key messages. The
-desired outcome of the eTeens programme is that students are empowered
-to make wise, informed and sensible decisions.
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.
 <br>
 </p>
 <p>At Commonwealth Secondary School, the eTeens programme will be implemented
-as follows in 2025:</p>
+as follows in 2026:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -128,12 +166,16 @@ as follows in 2025:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raise awareness and provide knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
-it spreads, how to prevent infection mainly through ABC (abstinence, being
-faithful, correct, and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.
-<br>
-</p>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 3</p>
@@ -165,13 +207,13 @@ external providers.</p>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/Sexuality Education/2025_SEd_Annex_A_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here.</a> The
-completed form is to be submitted by 27/1/2025.
+completed form is to be submitted by 26/1/2026.
 <br>
 </p>
 <p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/Sexuality Education/2025_SEd_Annex_B_eTeens_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 27/1/2025.
+The completed form is to be submitted by 26/1/2026.
 <br>
 </p>
 <p>Parents can contact the school at 6560 6866 for discussion or to seek
