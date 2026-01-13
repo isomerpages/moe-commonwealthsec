@@ -40,7 +40,7 @@ ones.
 </p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h3>OVERVIEW OF COMMONWEALTH SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h3>
+<h3>OVERVIEW OF COMMONWEALTH SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</h3>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -67,7 +67,7 @@ activities (including sexual activities), sometimes without understanding
 the unpleasant consequences that may arise from such experimentation. The
 need for peer acceptance can be overwhelmingly strong and hinder one’s
 ability to act responsibly. Given the pressures faced by the middle adolescent
-from within themselves and from peers, it is important to build a sdivong
+from within themselves and from peers, it is important to build a strong
 sense of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.&nbsp;
 <br>
@@ -79,63 +79,62 @@ issues related to sexuality, which are of prime concern at this age.&nbsp;
 <br>
 </p>
 <p>At Commonwealth Secondary School, the following lessons from the Sexuality
-Education Programme will be taught in 2025:</p>
+Education Programme will be taught in 2026:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality%20Education%202025/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality%20Education%202025/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/6.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/7.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/8A.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/8.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/9.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/10.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/11.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/12.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/13.jpg">
-</div>
-<p></p>
 <h4>eTeens Programme</h4>
 <p>eTeens is a programme developed by Health Promotion Board, in collaboration
 with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme.</p>
+information on STIs, HIV and protection from a health perspective. With
+the formation of the Communicable Diseases Agency (CDA) on 1 April 2025,
+the programme would now be managed by CDA’s Training and Education Division
+instead of HPB. eTeens is conducted in two segments – a mass talk segment
+and a classroom-based programme. The desired outcome of the eTeens programme
+is that students are empowered to make wise, informed and sensible decisions
+to protect themselves from sexually transmitted infectious diseases.</p>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
-family. Abstinence and upholding family values are the key messages. The
-desired outcome of the eTeens programme is that students are empowered
-to make wise, informed and sensible decisions.
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.
 <br>
 </p>
 <p>At Commonwealth Secondary School, the eTeens programme will be implemented
-as follows in 2025:</p>
+as follows in 2026:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -167,12 +166,16 @@ as follows in 2025:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raise awareness and provide knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
-it spreads, how to prevent infection mainly through ABC (abstinence, being
-faithful, correct, and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.
-<br>
-</p>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 3</p>
@@ -203,14 +206,14 @@ eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Sexuality Education/2025_SEd_Annex_A_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here.</a> The
-completed form is to be submitted by 27/1/2025.
+at the start of the year and is also downloadable <a href="/files/Sexuality Education/2026_SEd_Annex_A_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here.</a> The
+completed form is to be submitted by 27/1/2026.
 <br>
 </p>
 <p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Sexuality Education/2025_SEd_Annex_B_eTeens_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 27/1/2025.
+at the start of the year and is also downloadable <a href="/files/Sexuality Education/2026_SEd_Annex_B_eTeens_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here.</a> The
+completed form is to be submitted by 27/1/2026.
 <br>
 </p>
 <p>Parents can contact the school at 6560 6866 for discussion or to seek
