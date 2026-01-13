@@ -81,40 +81,40 @@ issues related to sexuality, which are of prime concern at this age.&nbsp;
 <p>At Commonwealth Secondary School, the following lessons from the Sexuality
 Education Programme will be taught in 2026:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/6.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/7.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/8.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/9.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/10.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/11.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education 2025/12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/12.png">
 </div>
 <h4>eTeens Programme</h4>
 <p>eTeens is a programme developed by Health Promotion Board, in collaboration
