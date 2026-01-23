@@ -285,7 +285,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur.ezzati.zukri@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nur Ezzati Binte Sukri</a>
+<p><a href="mailto:nur.ezzati.zukri@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nur Ezzati Binte Zukri</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
