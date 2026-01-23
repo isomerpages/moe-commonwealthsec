@@ -768,6 +768,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="Mailto:ye.dan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ye Dan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Innovation &amp; Design)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:tan.jackwoan@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Jack Woan</a>
 </p>
 </td>
