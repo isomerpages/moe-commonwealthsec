@@ -448,15 +448,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong.yin.pheng@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Leong Yin Pheng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:kenneth.lim@cwss.moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lim Sze Tim Kenneth</a>
 </p>
 </td>
