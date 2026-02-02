@@ -13,8 +13,4 @@ sections:
       alignment: left
       button: Virtual CWSS Experience
       url: permalink/virtualcwssexp/virtual-tour/
-      key_highlights:
-        - title: SECONDARY 1 REGISTRATION
-          description: Click here for details
-          url: /2026-secondary-1-registration/permalink/para1/
 ---
