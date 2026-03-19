@@ -6,6 +6,8 @@ third_nav_title: The Trailblazer Programme
 variant: tiptap
 ---
 <h3><strong>The TrailBlazer Programme</strong></h3>
+<p><a href="https://sites.google.com/moe.edu.sg/cwsstrailblazer/home" rel="noopener nofollow" target="_blank">CWSS TrailBlazer - Innovation &amp; Design Website</a>
+</p>
 <p><a href="https://sway.cloud.microsoft/FFEksk6wAeEmzj0U?ref=Link" rel="noopener noreferrer nofollow" target="_blank">The Trailblazer Programme Sway Site for students</a>
 </p>
 <p>Commonwealth Secondary School adopted Design Thinking &amp; Maker Education
