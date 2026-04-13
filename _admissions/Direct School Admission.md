@@ -145,4 +145,3 @@ if their child has been shortlisted to undergo Direct School Admission
 <h4><strong>Enquiries</strong></h4>
 <p>For further enquiries, please contact the school at&nbsp;6560 6866&nbsp;or
 via email to&nbsp;cwss@moe.edu.sg</p>
-<p></p>
