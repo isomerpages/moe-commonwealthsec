@@ -5,12 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h1>Direct School Admission</h1>
-<p><em>Updated 30 April 2025</em>
+<p><em>Updated 13 April 2026</em>
 </p>
 <p>Primary Six pupils may seek Direct School Admission into Commonwealth
 Secondary School before the Secondary One Posting Exercise. The DSA application
-for entry into Commonwealth Secondary School in 2026 will commence on 7
-May 2025.</p>
+for entry into Commonwealth Secondary School in 2027 will commence on 6
+May 2026.</p>
 <h4>Admission Criteria</h4>
 <p><strong>Category 1: Performing Arts - Band, Choir, Modern Dance, Indian Dance, Drama</strong>
 </p>
@@ -94,8 +94,8 @@ assessing the potential of the applicants.</p>
 </ol>
 <p><strong>Application Procedure</strong>
 </p>
-<p>6. The DSA Application period for Primary 6 students in 2025 is from 7
-May 2025 to 3 Jun 2025.<strong> For more details, please refer to MOE website <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
+<p>6. The DSA Application period for Primary 6 students is from 6 May 2026
+to 2 Jun 2026.<strong> For more details, please refer to MOE website <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
 </p>
 <p>7. Parents and students are encouraged to choose schools wisely based
 on the student’s&nbsp;aptitudes and strengths, bearing in mind the schools’
@@ -104,7 +104,7 @@ to develop the area of talent.</p>
 <p>8.&nbsp;Students who are successfully admitted to the Commonwealth Secondary
 School via DSA are required to honour their&nbsp;commitment to the school,
 and participate in the activities related to the talent they are selected&nbsp;for
-from year 1 - 4.</p>
+from year 1 to 4.</p>
 <p><u>Selection Schedule</u>
 </p>
 <table style="minWidth: 50px">
@@ -123,7 +123,7 @@ from year 1 - 4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025 to 3 June 2025</p>
+<p>6 May 2026 to 2 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Candidates to submit DSA Application via MOE website <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
@@ -132,7 +132,7 @@ from year 1 - 4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 June 2025 to 4 September 2025</p>
+<p>29 June 2026 to 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisting and selection.</p>
@@ -144,7 +144,7 @@ if their child has been shortlisted to undergo Direct School Admission
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Aug 2025 to 4 Sep 2025</p>
+<p>17 Aug 2026 to 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants will receive their application outcomes.</p>
