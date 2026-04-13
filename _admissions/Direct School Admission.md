@@ -80,31 +80,24 @@ taken part in national or zonal competitions.</p>
 be an advantage.</p>
 </li>
 </ul>
-<p>3. Please note that meeting all the criteria does not guarantee the student
-will be shortlisted/given an offer.</p>
-<p>4. Students selected based on their talents relevant to a particular CCA
-are expected to join the respective CCA allocated by the school during
-their 4 years with the school.</p>
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p>Applicants who do not have prior experience may also apply. The school
-will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants.</p>
-</li>
-</ol>
+<p>Please note that meeting all the criteria does not guarantee the student
+will be shortlisted/given an offer. Applicants who do not have prior experience
+may also apply. The school will assess applicants based on the selection
+criteria, which may include assessing the potential of the applicants.</p>
+<p>Students who are successfully admitted to the Commonwealth Secondary School
+via DSA are required to honour their&nbsp;commitment to the school, and
+participate in the activities related to the talent they are selected&nbsp;for
+during their four years in the school.</p>
+<p></p>
 <p><strong>Application Procedure</strong>
 </p>
-<p>6. The DSA Application period for Primary 6 students is from 6 May 2026
-to 2 Jun 2026.<strong> For more details, please refer to MOE website <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
+<p>The DSA Application period for Primary 6 students is from 6 May 2026 to
+2 Jun 2026.<strong> For more details, please refer to MOE website <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
 </p>
-<p>7. Parents and students are encouraged to choose schools wisely based
-on the student’s&nbsp;aptitudes and strengths, bearing in mind the schools’
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s&nbsp;aptitudes and strengths, bearing in mind the schools’
 academic and non-academic&nbsp;requirements, and the programmes available
 to develop the area of talent.</p>
-<p>8.&nbsp;Students who are successfully admitted to the Commonwealth Secondary
-School via DSA are required to honour their&nbsp;commitment to the school,
-and participate in the activities related to the talent they are selected&nbsp;for
-from year 1 to 4.</p>
 <p><u>Selection Schedule</u>
 </p>
 <table style="minWidth: 50px">
@@ -154,6 +147,6 @@ if their child has been shortlisted to undergo Direct School Admission
 </table>
 <p></p>
 <p><strong>Enquiries</strong> 
-<br>9. For further enquiries, please contact the school at&nbsp;<strong>6560 6866</strong>&nbsp;or
+<br>For further enquiries, please contact the school at&nbsp;<strong>6560 6866</strong>&nbsp;or
 via email to&nbsp;<a href="mailto:cwss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cwss@moe.edu.sg</a>
 </p>
