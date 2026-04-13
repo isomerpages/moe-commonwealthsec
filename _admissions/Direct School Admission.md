@@ -7,10 +7,14 @@ variant: tiptap
 <h1>Direct School Admission</h1>
 <p><em>Updated 13 April 2026</em>
 </p>
-<p>Primary Six pupils may seek Direct School Admission into Commonwealth
+<p>Primary Six pupils may seek Direct School Admission (DSA) into Commonwealth
 Secondary School before the Secondary One Posting Exercise. The DSA application
 for entry into Commonwealth Secondary School in 2027 will commence on 6
 May 2026.</p>
+<p>Students who are successfully admitted to the Commonwealth Secondary School
+via DSA are required to honour their&nbsp;commitment to the school, and
+participate in the activities related to the talent they are selected&nbsp;for
+during their four years in the school.</p>
 <h4>Admission Criteria</h4>
 <p><strong>Category 1: Performing Arts - Band, Choir, Modern Dance, Indian Dance, Drama</strong>
 </p>
@@ -84,13 +88,7 @@ be an advantage.</p>
 will be shortlisted/given an offer. Applicants who do not have prior experience
 may also apply. The school will assess applicants based on the selection
 criteria, which may include assessing the potential of the applicants.</p>
-<p>Students who are successfully admitted to the Commonwealth Secondary School
-via DSA are required to honour their&nbsp;commitment to the school, and
-participate in the activities related to the talent they are selected&nbsp;for
-during their four years in the school.</p>
-<p></p>
-<p><strong>Application Procedure</strong>
-</p>
+<h4><strong>Application Procedure</strong></h4>
 <p>The DSA Application period for Primary 6 students is from 6 May 2026 to
 2 Jun 2026.<strong> For more details, please refer to MOE website <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
 </p>
@@ -98,8 +96,7 @@ during their four years in the school.</p>
 the student’s&nbsp;aptitudes and strengths, bearing in mind the schools’
 academic and non-academic&nbsp;requirements, and the programmes available
 to develop the area of talent.</p>
-<p><u>Selection Schedule</u>
-</p>
+<h4><strong>Selection Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -145,8 +142,7 @@ if their child has been shortlisted to undergo Direct School Admission
 </tr>
 </tbody>
 </table>
+<h4><strong>Enquiries</strong></h4>
+<p>For further enquiries, please contact the school at&nbsp;6560 6866&nbsp;or
+via email to&nbsp;cwss@moe.edu.sg</p>
 <p></p>
-<p><strong>Enquiries</strong> 
-<br>For further enquiries, please contact the school at&nbsp;<strong>6560 6866</strong>&nbsp;or
-via email to&nbsp;<a href="mailto:cwss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cwss@moe.edu.sg</a>
-</p>
